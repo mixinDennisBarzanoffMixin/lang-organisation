@@ -149,6 +149,7 @@ Small, reusable speaking blocks for language practice. Columns:
 | 📌 Personally I think | personally, I think… | persönlich denke ich… | personalmente penso… | προσωπικά νομίζω… | лично мисля… |
 | 🤷‍♂️ To me/for me | to me; for me | für mich | per me | για μένα | за мен |
 | 😵 I can't express how | I can't express how… | ich kann nicht ausdrücken, wie… | non riesco a esprimere quanto… | δεν μπορώ να εκφράσω πόσο… | не мога да изразя колко… |
+| 🧠 The way I understand | the way I understand X is… | so wie ich X verstehe, ist… | il modo in cui capisco X è… | όπως καταλαβαίνω το X είναι… | както разбирам X е… |
 
 ### Agreement and disagreement
 | Concept | EN | DE | IT | GR | BG |
@@ -159,6 +160,8 @@ Small, reusable speaking blocks for language practice. Columns:
 | ❓ I'm not sure | I'm not sure | ich bin mir nicht sicher | non sono sicuro | δεν είμαι σίγουρος | не съм сигурен |
 | 🙅 Absolutely not | absolutely not; no way | auf keinen Fall; keineswegs | assolutamente no | με τίποτα; καθόλου | в никакъв случай |
 | 👍 Of course/sure | of course; sure | natürlich; klar | certo | φυσικά | разбира се |
+| ✅ That's fine | that's fine; that's okay | das ist in Ordnung; das passt | va bene; è okay | εντάξει είναι; καλά είναι | добре е; наред е |
+| 👌 No problem | no problem; it's fine | kein Problem; ist okay | nessun problema; va bene | κανένα πρόβλημα; εντάξει | няма проблем; наред е |
 
 ### Politeness softeners
 | Concept | EN | DE | IT | GR | BG |
@@ -173,6 +176,7 @@ Small, reusable speaking blocks for language practice. Columns:
 | 1️⃣ First of all | first of all… | erstens; zuallererst… | prima di tutto… | πρώτα απ' όλα… | първо… |
 | ⚖️ On one hand | on the one hand… / on the other hand… | einerseits… / andererseits… | da una parte… / dall'altra… | αφενός… / αφετέρου… | от една страна… / от друга страна… |
 | 💬 By the way | by the way | übrigens | a proposito | παρεμπιπτόντως | между другото |
+| 👣 Step by step | step by step | Schritt für Schritt | passo dopo passo | βήμα βήμα | стъпка по стъпка |
 
 ### Logical connectors
 | Concept | EN | DE | IT | GR | BG |
@@ -190,6 +194,7 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🔗 Until | until | bis | fino a | μέχρι; έως | до |
 | 🔗 Which/that | which; that | welches; das | che; il quale | που; ο οποίος | който/която |
 | 🔗 While | while | während | mentre | ενώ; καθώς | докато |
+| 🔗 As (temporal) | as we are doing X; as this happens | während wir X machen; als das passiert | mentre facciamo X; mentre succede | καθώς κάνουμε X; καθώς συμβαίνει αυτό | докато правим X; докато се случва това |
 | 🔗 Since | since | seit; da | da; poiché | αφού; από τότε που | откакто; тъй като |
 | 🧷 "I mean" | I mean | ich meine | cioè | δηλαδή | демек; в смисъл |
 | 🔄 Though (end) | though | allerdings; doch | però; anche se | όμως | обаче |
