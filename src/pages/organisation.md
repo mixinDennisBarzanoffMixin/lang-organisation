@@ -18,6 +18,8 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🤔 Thinking | let me think… | lass mich nachdenken… | fammi pensare… | άσε να σκεφτώ… | чакай да помисля… |
 | 🎯 The thing is | the thing is | die Sache ist | la cosa è che | το θέμα είναι | работата е |
 | ⚠️ The problem is | the problem is | das Problem ist | il problema è | το πρόβλημα είναι | проблемът е |
+| 🔄 Actually/in reality | actually; in reality | eigentlich; in Wirklichkeit | in realtà | στην πραγματικότητα | всъщност |
+| 📣 Listen/hey! | listen! hey! | hör zu! hey! | senti! ehi! | άκου! έι! | слушай! ей! |
 
 
 ### Concession, condition, purpose
@@ -62,6 +64,9 @@ Small, reusable speaking blocks for language practice. Columns:
 | ✅ Already | already | schon | già | ήδη | вече |
 | ⏳ Still | still | noch; immer noch | ancora | ακόμα | още |
 | ❌ Never | never | nie | mai | ποτέ | никога |
+| ⏳ Forever/always | always; forever | immer | sempre | πάντα | винаги |
+| ⏲️ Eventually | eventually; in the end | schließlich; am Ende | alla fine; eventualmente | τελικά | накрая |
+| 🔜 Later | later | später | più tardi | αργότερα | по-късно |
 
 ### English → cross-language blocks
 | Concept | EN | DE | IT | GR | BG |
@@ -115,6 +120,8 @@ Small, reusable speaking blocks for language practice. Columns:
 | 📊 Too much | too much | zu viel | troppo | πάρα πολύ | твърде много |
 | 📈 A lot/many | a lot; many | viele; viel | molti; tanto | πολλά; πολύ | много |
 | 📉 Few/little | few; little | wenige; wenig | pochi; poco | λίγοι; λίγο | малко; малцина |
+| ➕ Enough | enough; sufficient | genug | abbastanza | αρκετά | достатъчно |
+| ➖ Not enough | not enough | nicht genug | non abbastanza | δεν είναι αρκετά | не е достатъчно |
 
 ### Effort/time quantities
 | Concept | EN | DE | IT | GR | BG |
@@ -137,6 +144,8 @@ Small, reusable speaking blocks for language practice. Columns:
 | 📏 In my experience | in my experience | meiner Erfahrung nach | per la mia esperienza | από την εμπειρία μου | според моя опит |
 | 🤷 It depends | it depends | es kommt darauf an | dipende | εξαρτάται | зависи |
 | 🎯 Depending on | depending on… | je nach…; abhängig von… | a seconda di… | ανάλογα με… | в зависимост от… |
+| 📌 Personally I think | personally, I think… | persönlich denke ich… | personalmente penso… | προσωπικά νομίζω… | лично мисля… |
+| 🤷‍♂️ To me/for me | to me; for me | für mich | per me | για μένα | за мен |
 
 ### Agreement and disagreement
 | Concept | EN | DE | IT | GR | BG |
@@ -145,6 +154,8 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🚫 Not really | not really | nicht wirklich | non proprio | όχι ακριβώς | не точно |
 | ✅ That's true/right | that's true; that's right | das stimmt; das ist richtig | è vero; è giusto | είναι αλήθεια; σωστό | вярно е; точно |
 | ❓ I'm not sure | I'm not sure | ich bin mir nicht sicher | non sono sicuro | δεν είμαι σίγουρος | не съм сигурен |
+| 🙅 Absolutely not | absolutely not; no way | auf keinen Fall; keineswegs | assolutamente no | με τίποτα; καθόλου | в никакъв случай |
+| 👍 Of course/sure | of course; sure | natürlich; klar | certo | φυσικά | разбира се |
 
 ### Politeness softeners
 | Concept | EN | DE | IT | GR | BG |
@@ -185,6 +196,8 @@ Small, reusable speaking blocks for language practice. Columns:
 | 💡 In fact/actually | in fact; actually | eigentlich; in der Tat | infatti; in realtà | στην πραγματικότητα; πραγματικά | всъщност; в действителност |
 | 🎯 Not only | not only… (but also) | nicht nur… (sondern auch) | non solo… (ma anche) | όχι μόνο… (αλλά και) | не само… (но и) |
 | 🚫 Not just | not just… | nicht nur… | non solo… | όχι απλώς… | не просто… |
+| 🔗 Therefore (strong) | hence; thus | folglich; somit | dunque; pertanto | συνεπώς | следователно |
+| 🔁 Anyway/in any case | anyway; in any case | jedenfalls; sowieso | comunque; ad ogni modo | έτσι κι αλλιώς; σε κάθε περίπτωση | така или иначе; във всеки случай |
 
 ### Focus construction
 | Concept | EN | DE | IT | GR | BG |
@@ -208,6 +221,33 @@ Small, reusable speaking blocks for language practice. Columns:
 | 📊 The more... the more | the more X, the more Y | je mehr X, desto mehr Y | più X, più Y | όσο περισσότερο X, τόσο περισσότερο Y | колкото повече X, толкова повече Y |
 | ⭕ Neither... nor | neither X nor Y | weder X noch Y | né X né Y | ούτε X ούτε Y | нито X, нито Y |
 | 🔀 Either... or | either X or Y | entweder X oder Y | o X o Y | είτε X είτε Y | или X, или Y |
+
+### Comparative emphasis
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| ⬆️ Even more | even more | noch mehr | ancora di più | ακόμη περισσότερο | още повече |
+| ⬇️ Even less | even less | noch weniger | ancora meno | ακόμη λιγότερο | още по-малко |
+| 🎯 Even (emphasis) | even he... | sogar er... | perfino lui... | ακόμη και αυτός... | дори той... |
+
+### Questions and interaction
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| ❓ What do you mean? | what do you mean? | was meinst du? | cosa intendi? | τι εννοείς; | какво имаш предвид? |
+| ❓ Why? How come? | why? how come? | warum? wieso? | perché? come mai? | γιατί; πώς έτσι; | защо? как така? |
+| ❓ Really? Is that so? | really? is that so? | wirklich? ach so? | davvero? è così? | αλήθεια; έτσι είναι; | вярно ли? така ли е? |
+
+### Politeness basics
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 🙇 Please | please | bitte | per favore | παρακαλώ | моля |
+| 🙏 Thanks | thanks; thank you | danke | grazie | ευχαριστώ | благодаря |
+
+### Strong expressions (vulgar/colloquial)
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 🔥 Fucking (intensifier) | fucking… (you don't fucking know) | verdammt/scheiß… | cazzo… | γαμημένος/α… | чертов/а… |
+| 💥 What the hell? | what the hell? | was zur Hölle? | che cazzo? | τι στο διάολο; | какво по дяволите? |
+| 😤 Damn it! | damn it! | verdammt! | merda! | γαμώτο! | по дяволите! |
 
 ### Basic reasoning verbs
 | Concept | EN | DE | IT | GR | BG |
