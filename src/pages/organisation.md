@@ -8,7 +8,7 @@ Small, reusable speaking blocks for language practice. Columns:
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🧩 Warm-up/filler | uh, well…; you know | äh, also… | eh, allora… | ε, λοιπόν… | абе…, ами… |
-| 🧩 Generalizing | basically; overall | im Großen und Ganzen | in generale | γενικά; συνολικά | общо взето |
+| 🧩 Generalizing | basically; overall; essentially | im Großen und Ganzen | in generale | γενικά; συνολικά | общо взето |
 | 👀 Getting attention | look, here's the thing | schau/also, folgendes | guarda, senti | κοίτα, άκου | виж сега |
 | 💥 Strong reaction (colloq.) | damn…; whoa | verdammt…; boah | cavolo…; accidenti | πωω…; που να πάρει… | ебаси… (разг.) |
 | 💬 I mean | I mean; in the sense that | ich meine; im Sinne von | cioè | δηλαδή | в смисъл |
@@ -23,6 +23,8 @@ Small, reusable speaking blocks for language practice. Columns:
 | ➕ Even if | even if/though | selbst wenn | anche se | ακόμα κι αν | дори и |
 | ⏳ Only when | only when | erst wenn | solo quando | μόνο όταν | едва когато |
 | 🎯 Purpose | so that; in order to | damit; um … zu | affinché; per | ώστε να; για να | за да; така че |
+| ⏳ As long as | as long as | solange | finché | όσο; εφόσον | докато |
+
 
 ### Vagueness and hedging
 | Concept | EN | DE | IT | GR | BG |
@@ -56,6 +58,12 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🕵️ Yet to | I have yet to see/do… | ich habe … noch nicht gesehen/getan | devo ancora vedere/fare… | μένει να δω/κάνω… | предстои да видя/направя… |
 | 🧍 As for me | as far as I'm concerned | was mich betrifft | per quanto mi riguarda | όσο με αφορά | що се отнася до мен |
 | 💪 Anyway | I did it anyway | ich habe es sowieso gemacht | l'ho fatto comunque | το έκανα έτσι κι αλλιώς | го направих така или иначе |
+
+### Hypothetical
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 🤔 As if | as if; as though | als ob | come se | σαν να; λες και | като че ли |
+
 
 ### Clarifying, rephrasing, correcting
 | Concept | EN | DE | IT | GR | BG |
@@ -119,6 +127,7 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🔗 But | but | aber | ma | αλλά | но; ама |
 | 🔗 When | when | wenn; als | quando | όταν | когато |
 | 🔗 Whether | whether | ob | se | αν; εάν | дали |
+| 🔗 Until | until | bis | fino a | μέχρι; έως | до |
 | 🔗 Which/that | which; that | welches; das | che; il quale | που; ο οποίος | който/която |
 | 🧷 "I mean" | I mean | ich meine | cioè | δηλαδή | демек; в смисъл |
 
@@ -180,6 +189,16 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🆚 Comparison | as/like/rather than | wie/als/statt | come/anziché | σαν/όπως/αντί να | като/като че/вместо да |
 | 🧾 Belonging/origin | belonging to; from | gehörig zu; aus/von | appartenente a; di/da | που ανήκει σε; από | принадлежащ на; от |
 | 🧭 Purpose/direction | for; to(wards) | für; zu/nach | per; verso | για; προς | за; към |
+
+
+### For example
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 📝 For example | for example; for instance | zum Beispiel | per esempio | για παράδειγμα; παραδείγματος χάριν | например |
+| 📝 Such as | such as | wie zum Beispiel | come | όπως | като например |
+| 📝 Let's say | let's say | sagen wir mal | diciamo | ας πούμε | да речем |
+| 📝 Case in point | case in point | ein gutes Beispiel dafür | appunto | χαρακτηριστικό παράδειγμα | точно такъв случай |
+
 
 ### Numbers (compact examples)
 | Number | EN | DE | IT | GR | BG |
