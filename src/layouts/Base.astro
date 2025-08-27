@@ -1,0 +1,30 @@
+---
+const { title = 'Organisation', description = 'Markdown page' } = Astro.props;
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css" />
+    <style>
+      :root { --max-width: 900px; }
+      body { max-width: var(--max-width); margin: 2rem auto; }
+      header { margin-bottom: 1.25rem; }
+      article.markdown img { max-width: 100%; height: auto; }
+      pre { white-space: pre-wrap; }
+      code { font-size: 0.95em; }
+      .container { padding: 0 1rem; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <main>
+        <slot />
+      </main>
+    </div>
+  </body>
+  </html>
+
+
