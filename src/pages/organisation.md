@@ -9,7 +9,7 @@ Small, reusable speaking blocks for language practice. Columns:
 |---|---|---|---|---|---|
 | 🧩 Warm-up/filler | uh, well…; you know | äh, also… | eh, allora… | ε, λοιπόν… | абе…, ами… |
 | 🧩 Generalizing | basically; overall | im Großen und Ganzen | in generale | γενικά; συνολικά | общо взето |
-| 👀 Getting attention | look, here’s the thing | schau/also, folgendes | guarda, senti | κοίτα, άκου | виж сега |
+| 👀 Getting attention | look, here's the thing | schau/also, folgendes | guarda, senti | κοίτα, άκου | виж сега |
 | 💥 Strong reaction (colloq.) | damn…; whoa | verdammt…; boah | cavolo…; accidenti | πωω…; που να πάρει… | ебаси… (разг.) |
 | 💬 I mean | I mean; in the sense that | ich meine; im Sinne von | cioè | δηλαδή | в смисъл |
 | 🤫 To be honest | to be honest | um ehrlich zu sein | a dire la verità | να σου πω την αλήθεια | да ти кажа |
@@ -27,20 +27,20 @@ Small, reusable speaking blocks for language practice. Columns:
 ### Vagueness and hedging
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
-| 🌀 Etc./whatever | whatever; and so on | und so weiter; irgendwas halt | e così via; qualsiasi cosa | και τα λοιπά; ό,τι να ’ναι | не знам си какво… |
+| 🌀 Etc./whatever | whatever; and so on | und so weiter; irgendwas halt | e così via; qualsiasi cosa | και τα λοιπά; ό,τι να 'ναι | не знам си какво… |
 | 🔁 So/that means | so; that means | also; das heißt | quindi; cioè | άρα; δηλαδή | значи |
 | 🚧 But (soft) | but | aber | ma | αλλά | ама |
-| ✅ Tag “right?” | right?; yeah? | ne?; gell? | no?; vero? | έτσι; σωστά; ε; | нали? |
-| 🧠 Can’t recall | what was it again… | wie hieß das noch mal… | come si chiamava già… | πώς το λέγανε… | к’во беше там… |
+| ✅ Tag "right?" | right?; yeah? | ne?; gell? | no?; vero? | έτσι; σωστά; ε; | нали? |
+| 🧠 Can't recall | what was it again… | wie hieß das noch mal… | come si chiamava già… | πώς το λέγανε… | к'во беше там… |
 | 📦 Stuff like that | stuff like that | so was halt | cose del genere | τέτοια πράγματα | такива там |
-| 🪄 Soft need | I kinda need to… | ich sollte mal… | dovrei un po’… | κάπως πρέπει να… | нещо трябва да… |
+| 🪄 Soft need | I kinda need to… | ich sollte mal… | dovrei un po'… | κάπως πρέπει να… | нещо трябва да… |
 | 🤷 Well… | well… | tja… | eh… | ε… | еми… |
 
 ### Case and impression
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🗂️ In this case | in this case | in diesem Fall | in questo caso | σε αυτήν την περίπτωση | в такъв случай |
-| 👁️ Impression | I get the impression that… | ich habe den Eindruck, dass… | ho l’impressione che… | μένω με την εντύπωση ότι… | оставам с впечатлението, че… |
+| 👁️ Impression | I get the impression that… | ich habe den Eindruck, dass… | ho l'impressione che… | μένω με την εντύπωση ότι… | оставам с впечатлението, че… |
 
 ### Time – adverbs
 | Concept | EN | DE | IT | GR | BG |
@@ -51,11 +51,11 @@ Small, reusable speaking blocks for language practice. Columns:
 ### English → cross-language blocks
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
-| 🙅 Not like I… | it’s not like I… | es ist nicht so, dass ich… | non è che io… | δεν είναι ότι εγώ… | не е като да… |
+| 🙅 Not like I… | it's not like I… | es ist nicht so, dass ich… | non è che io… | δεν είναι ότι εγώ… | не е като да… |
 | 🧾 Still need | I still need to… | ich muss noch… | devo ancora… | πρέπει ακόμα να… | още трябва да… |
 | 🕵️ Yet to | I have yet to see/do… | ich habe … noch nicht gesehen/getan | devo ancora vedere/fare… | μένει να δω/κάνω… | предстои да видя/направя… |
-| 🧍 As for me | as far as I’m concerned | was mich betrifft | per quanto mi riguarda | όσο με αφορά | що се отнася до мен |
-| 💪 Anyway | I did it anyway | ich habe es sowieso gemacht | l’ho fatto comunque | το έκανα έτσι κι αλλιώς | го направих така или иначе |
+| 🧍 As for me | as far as I'm concerned | was mich betrifft | per quanto mi riguarda | όσο με αφορά | що се отнася до мен |
+| 💪 Anyway | I did it anyway | ich habe es sowieso gemacht | l'ho fatto comunque | το έκανα έτσι κι αλλιώς | го направих така или иначе |
 
 ### Clarifying, rephrasing, correcting
 | Concept | EN | DE | IT | GR | BG |
@@ -75,7 +75,7 @@ Small, reusable speaking blocks for language practice. Columns:
 |---|---|---|---|---|---|
 | 🎚️ Pretty/quite | pretty; quite | ziemlich; ganz | abbastanza; piuttosto | αρκετά; πολύ | доста; съвсем |
 | 🎚️ Likely | likely; probably | wahrscheinlich | probabilmente | μάλλον; πιθανότατα | вероятно |
-| 🎚️ Sort of | sort of; kind of | so irgendwie; sozusagen | un po’; tipo | κάπως; τύπου | като че ли; донякъде |
+| 🎚️ Sort of | sort of; kind of | so irgendwie; sozusagen | un po'; tipo | κάπως; τύπου | като че ли; донякъде |
 | 📈 Most of | most of | die meisten von | la maggior parte di | οι περισσότεροι; το μεγαλύτερο μέρος | повечето от |
 | 📉 At least | at least | mindestens; wenigstens | almeno | τουλάχιστον | поне |
 | 📉 At most/max | at most; maximum | höchstens; maximal | al massimo | το πολύ; μέγιστο | най-много; максимум |
@@ -83,6 +83,7 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🧼 Completely | completely | völlig; vollständig | completamente | εντελώς | напълно |
 | 🧼 Fully | fully | vollständig; voll | pienamente | πλήρως | изцяло |
 | 🟨 Almost | almost; nearly | fast; beinahe | quasi | σχεδόν | почти |
+| 🔄 Often | often | oft | spesso | συχνά | често |
 | 🚀 Insanely | insanely | wahnsinnig | follemente | τρελά | безумно |
 | 🚀 Extremely | extremely | extrem; äußerst | estremamente | εξαιρετικά; πάρα πολύ | изключително |
 | 🚀 So much | so much | so sehr | così tanto | τόσο πολύ | толкова много |
@@ -109,34 +110,35 @@ Small, reusable speaking blocks for language practice. Columns:
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🔗 Because | because | weil | perché | επειδή | защото |
-| 🔗 Therefore | therefore; so | deshalb; daher | quindi; pertanto | άρα; γι’ αυτό | следователно; затова |
+| 🔗 Therefore | therefore; so | deshalb; daher | quindi; pertanto | άρα; γι' αυτό | следователно; затова |
 | 🔗 Due to | due to; because of | aufgrund; wegen | a causa di | λόγω | поради; заради |
 | 🔗 Instead of | instead of | anstatt | invece di | αντί για | вместо |
 | 🔗 Without | without | ohne | senza | χωρίς | без |
-| 🔗 In addition | in addition; also | außerdem; zusätzlich | inoltre | επιπλέον | освεν това |
+| 🔗 In addition | in addition; also | außerdem; zusätzlich | inoltre | επιπλέον | освеν това |
 | 🔗 Moreover | moreover | zudem | per di più | επιπλέον; επίσης | освен това |
 | 🔗 But | but | aber | ma | αλλά | но; ама |
 | 🔗 When | when | wenn; als | quando | όταν | когато |
+| 🔗 Whether | whether | ob | se | αν; εάν | дали |
 | 🔗 Which/that | which; that | welches; das | che; il quale | που; ο οποίος | който/която |
-| 🧷 “I mean” | I mean | ich meine | cioè | δηλαδή | демек; в смисъл |
+| 🧷 "I mean" | I mean | ich meine | cioè | δηλαδή | демек; в смисъл |
 
 ### Focus construction
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
-| 🎯 Not X that… | it’s not X that … | es ist nicht X, das … | non è X che … | δεν είναι το X που … | не е X, което … |
+| 🎯 Not X that… | it's not X that … | es ist nicht X, das … | non è X che … | δεν είναι το X που … | не е X, което … |
 
 ### Modals (ability, obligation, wish)
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🔧 Ability | I can | ich kann | posso | μπορώ | мога |
-| 🚫 Inability | I couldn’t | ich konnte nicht | non potevo | δεν μπόρεσα | не можах |
+| 🚫 Inability | I couldn't | ich konnte nicht | non potevo | δεν μπόρεσα | не можах |
 | 📌 Obligation (past) | I should have … | ich hätte … sollen | avrei dovuto … | θα έπρεπε να είχα … | трябвало е да … |
 | 🙏 Wish (counterf.) | I wish I had … | ich wünschte, ich hätte … | vorrei/avessi … | μακάρι να είχα … | иска ми се да бях … |
 
 ### Basic reasoning verbs
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
-| ❤️ Want | I want; I’d like | ich will; ich möchte | voglio; vorrei | θέλω; θα ήθελα | искам; бих искал |
+| ❤️ Want | I want; I'd like | ich will; ich möchte | voglio; vorrei | θέλω; θα ήθελα | искам; бих искал |
 | 🫥 Feels like | it feels … | es fühlt sich … an | si sente … | αισθάνεται …; νιώθεται … | усеща се … |
 | 🌤️ Seems | it seems | es scheint | sembra | φαίνεται | изглежда |
 
@@ -157,17 +159,17 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🔘 Somewhere | somewhere | irgendwo | da qualche parte | κάπου | някъде |
 | 🔘 Someone | someone | jemand | qualcuno | κάποιος/κάποια | някой |
 | 🔘 Somehow | somehow | irgendwie | in qualche modo | κάπως | някак |
-| 🔘 Some | some (a bit) | einige; etwas | alcuni; un po’ | μερικοί; λίγο | някои; малко |
-| 🔘 Anyway/anyhow | anyway; anyhow | jedenfalls; wie auch immer | comunque | τέλος πάντων; όπως και να ’χει | както и да е; така или иначе |
+| 🔘 Some | some (a bit) | einige; etwas | alcuni; un po' | μερικοί; λίγο | някои; малко |
+| 🔘 Anyway/anyhow | anyway; anyhow | jedenfalls; wie auch immer | comunque | τέλος πάντων; όπως και να 'χει | както и да е; така или иначе |
 | 🔘 Anyone | anyone | irgendwer; jemand | chiunque; qualcuno | οποιοσδήποτε; κάποιος | който и да е; някой |
 | 🔘 Anything | anything | irgendetwas | qualsiasi cosa; qualcosa | οτιδήποτε | каквото и да е |
-| 🔘 Anywhere | anywhere | überall; irgendwo | ovunque | οπουδήποτε | където και да е |
+| 🔘 Anywhere | anywhere | überall; irgendwo | ovunque | οπουδήποτε | където и да е |
 
 ### Interjections (GR focus → cross-map)
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🙃 Well then | well then; alright | na gut; also gut | va bene allora | ε, εντάξει; καλά λοιπόν | е, добре де |
-| 👍 Okay | ok; alright | ok; alles klar | ok; d’accordo | οκ; εντάξει | окей; добре |
+| 👍 Okay | ok; alright | ok; alles klar | ok; d'accordo | οκ; εντάξει | окей; добре |
 
 ### Prepositions and sets
 | Concept | EN | DE | IT | GR | BG |
@@ -213,4 +215,3 @@ Small, reusable speaking blocks for language practice. Columns:
 Tip: Mix blocks to build sentences. Example:
 - "🧠 I think" + "🔗 Because" + reason
 - "🎚️ Pretty/quite" + adjective + noun
-
