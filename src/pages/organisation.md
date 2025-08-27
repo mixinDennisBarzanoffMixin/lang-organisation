@@ -16,6 +16,9 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🙄 Come on | come on | komm schon | dai | άντε | айде де |
 | 👍 Agreement | yeah, exactly; right | stimmt; genau | esatto; giusto | ναι σωστά; ακριβώς | точно така; вярно |
 | 🤔 Thinking | let me think… | lass mich nachdenken… | fammi pensare… | άσε να σκεφτώ… | чакай да помисля… |
+| 🎯 The thing is | the thing is | die Sache ist | la cosa è che | το θέμα είναι | работата е |
+| ⚠️ The problem is | the problem is | das Problem ist | il problema è | το πρόβλημα είναι | проблемът е |
+
 
 ### Concession, condition, purpose
 | Concept | EN | DE | IT | GR | BG |
@@ -39,7 +42,8 @@ Small, reusable speaking blocks for language practice. Columns:
 | 📦 Stuff like that | stuff like that | so was halt | cose del genere | τέτοια πράγματα | такива там |
 | 🪄 Soft need | I kinda need to… | ich sollte mal… | dovrei un po'… | κάπως πρέπει να… | нещо трябва да… |
 | 🤷 Well… | well… | tja… | eh… | ε… | еми… |
-| 🌫️ Kind of | kind of; sozusagen | sozusagen; irgendwie | per così dire; tipo | ας πούμε; κάπως | така да се каже; нещо като |
+| 🌫️ Kind of | kind of; sozusagen | sozusagen; irgendwie | per così dire; tipo | ας πούμε; κάπως | така да се каже; нещο като |
+| 🤷 Doesn't matter | it doesn't matter | es ist egal; macht nichts | non importa | δεν πειράζει; δεν έχει σημασία | няма значение |
 
 ### Case and impression
 | Concept | EN | DE | IT | GR | BG |
@@ -54,6 +58,10 @@ Small, reusable speaking blocks for language practice. Columns:
 | ⏱️ Just/now/yet | just now; already; yet; still; ever | gerade; schon; noch; je | proprio ora; già; ancora; mai | μόλις; ήδη; ακόμα; ποτέ | току-що; вече; още; някога |
 | 🕘 Currently | currently; at the moment | momentan; gerade; derzeit | attualmente; al momento | προς το παρόν; αυτή τη στιγμή | в момента; понастоящем |
 | ⏰ Soon | soon | bald | presto | σύντομα | скоро |
+| 🌍 Nowadays | nowadays; these days | heutzutage; in der heutigen Zeit | oggigiorno; di questi tempi | στις μέρες μας; σήμερα | в днешно време; днес |
+| ✅ Already | already | schon | già | ήδη | вече |
+| ⏳ Still | still | noch; immer noch | ancora | ακόμα | още |
+| ❌ Never | never | nie | mai | ποτέ | никога |
 
 ### English → cross-language blocks
 | Concept | EN | DE | IT | GR | BG |
@@ -105,6 +113,8 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🎯 Ganz/gar kein | quite; none at all | ganz; gar kein | del tutto; nessun/affatto | τελείως; καθόλου/κανένας | съвсем; изобщо никакъв |
 | 🤏 A little bit | a little bit | ein bisschen | un po' | λίγο | малко |
 | 📊 Too much | too much | zu viel | troppo | πάρα πολύ | твърде много |
+| 📈 A lot/many | a lot; many | viele; viel | molti; tanto | πολλά; πολύ | много |
+| 📉 Few/little | few; little | wenige; wenig | pochi; poco | λίγοι; λίγο | малко; малцина |
 
 ### Effort/time quantities
 | Concept | EN | DE | IT | GR | BG |
@@ -120,6 +130,35 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🧠 I think/believe | I think; I believe | ich denke; ich glaube | penso; credo | νομίζω; πιστεύω | мисля; вярвам |
 | 📚 Based on X | based on what I know/read | soweit ich weiß/gelesen habe | per quanto ne so/ho letto | βάσει όσων ξέρω/έχω διαβάσει | доколкото знам/съм чел |
 | 🔑 Key idea | the key is to … | der Schlüssel ist, … zu … | la chiave è … | το κλειδί είναι να … | ключът е да … |
+| 💭 In my opinion | in my opinion | meiner Meinung nach | secondo me | κατά τη γνώμη μου | според мен |
+| 👤 For me personally | for me, personally | für mich persönlich | per me personalmente | για μένα προσωπικά | за мен лично |
+| 🤔 I guess/suppose | I guess; I suppose | ich schätze; ich vermute | immagino; suppongo | υποθέτω; μάλλον | предполагам; май |
+| 🔎 Knowledge/hearsay | as far as I know; from what I know; from what I've heard; as far as I can tell | soweit ich weiß; nach dem, was ich weiß; nach dem, was ich gehört habe; soweit ich beurteilen kann | per quanto ne so; da quel che so; da quel che ho sentito; per quanto posso giudicare | όσο ξέρω; από ό,τι ξέρω; από ό,τι έχω ακούσει; απ' όσο μπορώ να καταλάβω | доколкото знам; от това, което знам; от това, което съм чул; доколкото мога да преценя |
+| 📏 In my experience | in my experience | meiner Erfahrung nach | per la mia esperienza | από την εμπειρία μου | според моя опит |
+| 🤷 It depends | it depends | es kommt darauf an | dipende | εξαρτάται | зависи |
+| 🎯 Depending on | depending on… | je nach…; abhängig von… | a seconda di… | ανάλογα με… | в зависимост от… |
+
+### Agreement and disagreement
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| ✨ Exactly! | exactly! | genau! | esatto! | ακριβώς! | точно така! |
+| 🚫 Not really | not really | nicht wirklich | non proprio | όχι ακριβώς | не точно |
+| ✅ That's true/right | that's true; that's right | das stimmt; das ist richtig | è vero; è giusto | είναι αλήθεια; σωστό | вярно е; точно |
+| ❓ I'm not sure | I'm not sure | ich bin mir nicht sicher | non sono sicuro | δεν είμαι σίγουρος | не съм сигурен |
+
+### Politeness softeners
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 🤷 Maybe/perhaps | maybe; perhaps | vielleicht | forse | ίσως | може би |
+| 🤔 I wonder if | I wonder if… | ich frage mich, ob… | mi chiedo se… | αναρωτιέμαι αν… | чудя се дали… |
+| 🙏 Would you mind | would you mind…? | würdest du bitte…? | ti dispiacerebbe…? | θα σε πείραζε…? | би ли имал нещо против…? |
+
+### Discourse structuring
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 1️⃣ First of all | first of all… | erstens; zuallererst… | prima di tutto… | πρώτα απ' όλα… | първо… |
+| ⚖️ On one hand | on the one hand… / on the other hand… | einerseits… / andererseits… | da una parte… / dall'altra… | αφενός… / αφετέρου… | от една страна… / от друга страна… |
+| 💬 By the way | by the way | übrigens | a proposito | παρεμπιπτόντως | между другото |
 
 ### Logical connectors
 | Concept | EN | DE | IT | GR | BG |
@@ -141,6 +180,11 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🧷 "I mean" | I mean | ich meine | cioè | δηλαδή | демек; в смисъл |
 | 🔄 Though (end) | though | allerdings; doch | però; anche se | όμως | обаче |
 | 🚧 Despite | despite; in spite of | trotz | nonostante | παρά | въпреки |
+| 🔄 Even though | even though | auch wenn; obwohl | anche se; benché | ακόμα κι αν; αν και | въпреки че; дори и |
+| 🔀 Otherwise | otherwise | sonst; andernfalls | altrimenti | αλλιώς | иначе |
+| 💡 In fact/actually | in fact; actually | eigentlich; in der Tat | infatti; in realtà | στην πραγματικότητα; πραγματικά | всъщност; в действителност |
+| 🎯 Not only | not only… (but also) | nicht nur… (sondern auch) | non solo… (ma anche) | όχι μόνο… (αλλά και) | не само… (но и) |
+| 🚫 Not just | not just… | nicht nur… | non solo… | όχι απλώς… | не просто… |
 
 ### Focus construction
 | Concept | EN | DE | IT | GR | BG |
@@ -155,6 +199,15 @@ Small, reusable speaking blocks for language practice. Columns:
 | 📌 Obligation (past) | I should have … | ich hätte … sollen | avrei dovuto … | θα έπρεπε να είχα … | трябвало е да … |
 | 🙏 Wish (counterf.) | I wish I had … | ich wünschte, ich hätte … | vorrei/avessi … | μακάρι να είχα … | иска ми се да бях … |
 | 🤞 Hope | I hope… | ich hoffe… | spero… | ελπίζω… | надявам се… |
+| ✨ Would like to | I would like to… | ich würde gern… | mi piacerebbe… | θα ήθελα… | бих искал… |
+| 🚨 Must/have to | I must; I have to | ich muss | devo | πρέπει | трябва |
+
+### Comparative structures
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 📊 The more... the more | the more X, the more Y | je mehr X, desto mehr Y | più X, più Y | όσο περισσότερο X, τόσο περισσότερο Y | колкото повече X, толкова повече Y |
+| ⭕ Neither... nor | neither X nor Y | weder X noch Y | né X né Y | ούτε X ούτε Y | нито X, нито Y |
+| 🔀 Either... or | either X or Y | entweder X oder Y | o X o Y | είτε X είτε Y | или X, или Y |
 
 ### Basic reasoning verbs
 | Concept | EN | DE | IT | GR | BG |
