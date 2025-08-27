@@ -20,6 +20,8 @@ Small, reusable speaking blocks for language practice. Columns:
 | ⚠️ The problem is | the problem is | das Problem ist | il problema è | το πρόβλημα είναι | проблемът е |
 | 🔄 Actually/in reality | actually; in reality | eigentlich; in Wirklichkeit | in realtà | στην πραγματικότητα | всъщност |
 | 📣 Listen/hey! | listen! hey! | hör zu! hey! | senti! ehi! | άκου! έι! | слушай! ей! |
+| 💭 You know | you know | weißt du | sai | ξέρεις | знаеш ли |
+| 🤔 Now... (thinking) | now… | nun… | ora… | τώρα… | сега… |
 
 
 ### Concession, condition, purpose
@@ -146,6 +148,7 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🎯 Depending on | depending on… | je nach…; abhängig von… | a seconda di… | ανάλογα με… | в зависимост от… |
 | 📌 Personally I think | personally, I think… | persönlich denke ich… | personalmente penso… | προσωπικά νομίζω… | лично мисля… |
 | 🤷‍♂️ To me/for me | to me; for me | für mich | per me | για μένα | за мен |
+| 😵 I can't express how | I can't express how… | ich kann nicht ausdrücken, wie… | non riesco a esprimere quanto… | δεν μπορώ να εκφράσω πόσο… | не мога да изразя колко… |
 
 ### Agreement and disagreement
 | Concept | EN | DE | IT | GR | BG |
@@ -198,11 +201,18 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🚫 Not just | not just… | nicht nur… | non solo… | όχι απλώς… | не просто… |
 | 🔗 Therefore (strong) | hence; thus | folglich; somit | dunque; pertanto | συνεπώς | следователно |
 | 🔁 Anyway/in any case | anyway; in any case | jedenfalls; sowieso | comunque; ad ogni modo | έτσι κι αλλιώς; σε κάθε περίπτωση | така или иначе; във всеки случай |
+| 📋 The fact that | the fact that… | die Tatsache, dass… | il fatto che… | το γεγονός ότι… | фактът, че… |
 
 ### Focus construction
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🎯 Not X that… | it's not X that … | es ist nicht X, das … | non è X che … | δεν είναι το X που … | не е X, което … |
+
+### Focus and emphasis
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 🎯 The one thing | the one thing is… | das eine ist… | l'unica cosa è… | το ένα πράγμα είναι… | едното нещо е… |
+| ⚡ The only thing | the only thing is… | das einzige ist… | l'unica cosa è… | το μόνο πράγμα είναι… | единственото нещо е… |
 
 ### Modals (ability, obligation, wish)
 | Concept | EN | DE | IT | GR | BG |
@@ -214,6 +224,7 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🤞 Hope | I hope… | ich hoffe… | spero… | ελπίζω… | надявам се… |
 | ✨ Would like to | I would like to… | ich würde gern… | mi piacerebbe… | θα ήθελα… | бих искал… |
 | 🚨 Must/have to | I must; I have to | ich muss | devo | πρέπει | трябва |
+| 🤷 Could have | we could have this already | wir hätten das schon haben können | avremmo potuto averlo già | θα μπορούσαμε να το έχουμε ήδη | можехме вече да го имаме |
 
 ### Comparative structures
 | Concept | EN | DE | IT | GR | BG |
@@ -228,6 +239,8 @@ Small, reusable speaking blocks for language practice. Columns:
 | ⬆️ Even more | even more | noch mehr | ancora di più | ακόμη περισσότερο | още повече |
 | ⬇️ Even less | even less | noch weniger | ancora meno | ακόμη λιγότερο | още по-малко |
 | 🎯 Even (emphasis) | even he... | sogar er... | perfino lui... | ακόμη και αυτός... | дори той... |
+| 🚀 Way more | way more | viel mehr | molto di più | πολύ περισσότερο | много повече |
+| 🚫 No more | no more | nicht mehr | non più | όχι άλλο | не повече |
 
 ### Questions and interaction
 | Concept | EN | DE | IT | GR | BG |
@@ -282,6 +295,7 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🔘 Anywhere | anywhere | überall; irgendwo | ovunque | οπουδήποτε | където и да е |
 | ⭕ Nobody | nobody; no one | niemand | nessuno | κανείς | никой |
 | ⭕ Nothing | nothing | nichts | niente; nulla | τίποτα | нищо |
+| ⭕ None of it/that | none of it/that is… | nichts davon ist… | niente di tutto ciò è… | τίποτα από αυτά δεν είναι… | нищо от това не е… |
 | ⭕ Nowhere | nowhere | nirgendwo | da nessuna parte | πουθενά | никъде |
 | ⭕ In no way | in no way | auf keinen Fall | in nessun modo | με κανέναν τρόπο | по никакъв начин |
 
