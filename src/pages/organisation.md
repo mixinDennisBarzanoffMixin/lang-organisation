@@ -14,6 +14,8 @@ Small, reusable speaking blocks for language practice. Columns:
 | 💬 I mean | I mean; in the sense that | ich meine; im Sinne von | cioè | δηλαδή | в смисъл |
 | 🤫 To be honest | to be honest | um ehrlich zu sein | a dire la verità | να σου πω την αλήθεια | да ти кажа |
 | 🙄 Come on | come on | komm schon | dai | άντε | айде де |
+| 👍 Agreement | yeah, exactly; right | stimmt; genau | esatto; giusto | ναι σωστά; ακριβώς | точно така; вярно |
+| 🤔 Thinking | let me think… | lass mich nachdenken… | fammi pensare… | άσε να σκεφτώ… | чакай да помисля… |
 
 ### Concession, condition, purpose
 | Concept | EN | DE | IT | GR | BG |
@@ -37,6 +39,7 @@ Small, reusable speaking blocks for language practice. Columns:
 | 📦 Stuff like that | stuff like that | so was halt | cose del genere | τέτοια πράγματα | такива там |
 | 🪄 Soft need | I kinda need to… | ich sollte mal… | dovrei un po'… | κάπως πρέπει να… | нещо трябва да… |
 | 🤷 Well… | well… | tja… | eh… | ε… | еми… |
+| 🌫️ Kind of | kind of; sozusagen | sozusagen; irgendwie | per così dire; tipo | ας πούμε; κάπως | така да се каже; нещо като |
 
 ### Case and impression
 | Concept | EN | DE | IT | GR | BG |
@@ -49,6 +52,8 @@ Small, reusable speaking blocks for language practice. Columns:
 |---|---|---|---|---|---|
 | 🕰️ Recently | recently; lately | in letzter Zeit; neulich | di recente; ultimamente | πρόσφατα; τελευταία | напоследък; скоро |
 | ⏱️ Just/now/yet | just now; already; yet; still; ever | gerade; schon; noch; je | proprio ora; già; ancora; mai | μόλις; ήδη; ακόμα; ποτέ | току-що; вече; още; някога |
+| 🕘 Currently | currently; at the moment | momentan; gerade; derzeit | attualmente; al momento | προς το παρόν; αυτή τη στιγμή | в момента; понастоящем |
+| ⏰ Soon | soon | bald | presto | σύντομα | скоро |
 
 ### English → cross-language blocks
 | Concept | EN | DE | IT | GR | BG |
@@ -98,6 +103,8 @@ Small, reusable speaking blocks for language practice. Columns:
 | 😎 So cool/strong | so cool/strong | so cool/stark | così figo/forte | τόσο ωραίο/δυνατό | толкова яко/силно |
 | 🔇 At all | at all (not at all) | überhaupt (gar nicht) | affatto; per niente | καθόλου | изобщо |
 | 🎯 Ganz/gar kein | quite; none at all | ganz; gar kein | del tutto; nessun/affatto | τελείως; καθόλου/κανένας | съвсем; изобщо никакъв |
+| 🤏 A little bit | a little bit | ein bisschen | un po' | λίγο | малко |
+| 📊 Too much | too much | zu viel | troppo | πάρα πολύ | твърде много |
 
 ### Effort/time quantities
 | Concept | EN | DE | IT | GR | BG |
@@ -129,7 +136,11 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🔗 Whether | whether | ob | se | αν; εάν | дали |
 | 🔗 Until | until | bis | fino a | μέχρι; έως | до |
 | 🔗 Which/that | which; that | welches; das | che; il quale | που; ο οποίος | който/която |
+| 🔗 While | while | während | mentre | ενώ; καθώς | докато |
+| 🔗 Since | since | seit; da | da; poiché | αφού; από τότε που | откакто; тъй като |
 | 🧷 "I mean" | I mean | ich meine | cioè | δηλαδή | демек; в смисъл |
+| 🔄 Though (end) | though | allerdings; doch | però; anche se | όμως | обаче |
+| 🚧 Despite | despite; in spite of | trotz | nonostante | παρά | въпреки |
 
 ### Focus construction
 | Concept | EN | DE | IT | GR | BG |
@@ -143,6 +154,7 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🚫 Inability | I couldn't | ich konnte nicht | non potevo | δεν μπόρεσα | не можах |
 | 📌 Obligation (past) | I should have … | ich hätte … sollen | avrei dovuto … | θα έπρεπε να είχα … | трябвало е да … |
 | 🙏 Wish (counterf.) | I wish I had … | ich wünschte, ich hätte … | vorrei/avessi … | μακάρι να είχα … | иска ми се да бях … |
+| 🤞 Hope | I hope… | ich hoffe… | spero… | ελπίζω… | надявам се… |
 
 ### Basic reasoning verbs
 | Concept | EN | DE | IT | GR | BG |
@@ -150,6 +162,7 @@ Small, reusable speaking blocks for language practice. Columns:
 | ❤️ Want | I want; I'd like | ich will; ich möchte | voglio; vorrei | θέλω; θα ήθελα | искам; бих искал |
 | 🫥 Feels like | it feels … | es fühlt sich … an | si sente … | αισθάνεται …; νιώθεται … | усеща се … |
 | 🌤️ Seems | it seems | es scheint | sembra | φαίνεται | изглежда |
+| 🧠 Know | I know; I don't know | ich weiß; ich weiß nicht | so; non so | ξέρω; δεν ξέρω | знам; не знам |
 
 ### Temporal relations
 | Concept | EN | DE | IT | GR | BG |
@@ -159,6 +172,7 @@ Small, reusable speaking blocks for language practice. Columns:
 | ⏭️ After | after | nach; nachdem | dopo (che) | μετά (που) | след (като) |
 | 🔀 In the meantime | in the meantime | in der Zwischenzeit | nel frattempo | στο μεταξύ | междувременно |
 | ↔️ Between X and Y | between X and Y | zwischen X und Y | tra X e Y | ανάμεσα σε Χ και Ψ | между Х и Y |
+| ⏱️ During | during | während | durante | κατά τη διάρκεια | по време на |
 
 ### Indefinites
 | Concept | EN | DE | IT | GR | BG |
@@ -173,12 +187,18 @@ Small, reusable speaking blocks for language practice. Columns:
 | 🔘 Anyone | anyone | irgendwer; jemand | chiunque; qualcuno | οποιοσδήποτε; κάποιος | който и да е; някой |
 | 🔘 Anything | anything | irgendetwas | qualsiasi cosa; qualcosa | οτιδήποτε | каквото и да е |
 | 🔘 Anywhere | anywhere | überall; irgendwo | ovunque | οπουδήποτε | където и да е |
+| ⭕ Nobody | nobody; no one | niemand | nessuno | κανείς | никой |
+| ⭕ Nothing | nothing | nichts | niente; nulla | τίποτα | нищо |
+| ⭕ Nowhere | nowhere | nirgendwo | da nessuna parte | πουθενά | никъде |
+| ⭕ In no way | in no way | auf keinen Fall | in nessun modo | με κανέναν τρόπο | по никакъв начин |
 
 ### Interjections (GR focus → cross-map)
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🙃 Well then | well then; alright | na gut; also gut | va bene allora | ε, εντάξει; καλά λοιπόν | е, добре де |
 | 👍 Okay | ok; alright | ok; alles klar | ok; d'accordo | οκ; εντάξει | окей; добре |
+| 🤩 Wow | wow! | wow! | wow! | ουάου! | уау! |
+| 😅 Oops | oops! | ups! | ops! | ουπς! | опа! |
 
 ### Prepositions and sets
 | Concept | EN | DE | IT | GR | BG |
