@@ -115,6 +115,7 @@ Small blocks for starting conversations, getting attention, and managing discour
 | 🚫 No more way/internet | no more way; no internet | kein Weg mehr; kein Internet | non c'è più modo; niente internet | δεν υπάρχει άλλος τρόπος; δεν έχει ίντερνετ | няма вече как; няма интернет |
 | 🎯 Let me do X | let me do X | lass mich X machen | lasciami fare X | άσε με να κάνω X | я направи X |
 | 👀 Look at you! | look at you! | schau dich an! | guardati! | κοίτα σε! | я виж ти! |
+| 💥 Emphatic contradiction | oh yes (I do)!; but I am! | doch! | invece sì!; ma sì! | μα ναι!; όμως είμαι! | ама пък да!; все пак съм! |
 
 ### For example
 | Concept | EN | DE | IT | GR | BG |
