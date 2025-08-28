@@ -1,0 +1,24 @@
+---
+import Base from "../layouts/Base.astro";
+import * as discourse from "./discourse.md";
+import * as connectors from "./connectors.md";
+import * as numbers from "./numbers.md";
+import * as opinions from "./opinions.md";
+import * as quantifiers from "./quantifiers.md";
+import * as social from "./social.md";
+import * as time from "./time.md";
+
+---
+<Base title="ORGANISATION.md">
+  <article class="markdown">
+    <discourse.Content />
+    <connectors.Content />
+    <numbers.Content />
+    <opinions.Content />
+    <quantifiers.Content />
+    <social.Content />
+    <time.Content />
+  </article>
+</Base>
+
+
