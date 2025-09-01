@@ -45,5 +45,12 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | 🌀 Whenever/wherever | whenever; wherever; whoever | wann immer; wo immer; wer immer | quando; dovunque; chiunque | όποτε; οπουδήποτε; όποιος | когато и да е; където и да е; който и да е |
 | 🔄 Each time/every time | each time; every time | jedes Mal | ogni volta | κάθε φορά | всеки път |
 
+### NEW: Additional time expressions
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| ⏰ For the past few days | for the past few days | seit ein paar Tagen | da qualche giorno | εδώ και λίγες μέρες | от няколко дни насам |
+| ⏰ Once upon a time | once upon a time there was/had to be | es war einmal; da musste mal | c'era una volta; doveva esserci una volta | κάποτε υπήρχε/έπρεπε | по едно време имаше/трябваше |
+| ⏰ I woke up at 5 o'clock *sharp* | I woke up at 5 o'clock sharp | ich bin um 5 Uhr *pünktlich* aufgewacht | mi sono svegliato alle 5 *in punto* | ξύπνησα στις 5 η ώρα *παρά* | събудих се в 5 часа *точно* |
+
 ---
 **Tips**: Combine with other blocks for natural time flow in conversation.

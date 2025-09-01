@@ -8,13 +8,31 @@ Small, reusable speaking blocks for language practice organized by topic.
 ## 📚 Browse by Category
 
 ### Core Expression Types
-- **[Discourse & Conversation](./discourse)** - Fillers, attention-getters, hedging, clarifying, examples, focus, imperatives
-- **[Time Expressions](./time)** - Temporal adverbs, relations, sequences
-- **[Quantifiers & Degree](./quantifiers)** - Amount, intensity, indefinites, comparisons
-- **[Opinions & Stance](./opinions)** - Expressing views, agreement/disagreement, modals, certainty
-- **[Logical Connectors](./connectors)** - Cause-effect, contrasts, logical relationships, prepositions
-- **[Numbers](./numbers)** - Basic counting 1-100 with patterns and ranges
+
+#### 💬 Conversation & Discourse
+- **[Fillers & Starters](./fillers)** - Warm-ups, attention-getters, basic conversation starters
+- **[Vagueness & Hedging](./vagueness)** - Softening statements, being uncertain, hedging
+- **[Questions & Interaction](./questions)** - Question words and interactive expressions  
+- **[Discourse Structuring](./structuring)** - Organizing speech, clarifying, examples
+- **[Focus & Emphasis](./emphasis)** - Emphasizing points, strong reactions, interjections
+
+#### 🔗 Logic & Structure  
+- **[Logical Connectors](./logical)** - Basic cause-effect, contrast, addition
+- **[Conditions & Concessions](./conditions)** - Complex conditional statements, concessions
+- **[Advanced Expressions](./advanced)** - B-level+ sophisticated constructions
+
+#### 💭 Opinions & Social
+- **[Personal Stance](./stance)** - Expressing views, personal opinions, impressions
+- **[Agreement & Disagreement](./agreement)** - Showing agreement, disagreement, certainty
+- **[Modals & Abilities](./modals)** - Can/should/want, wishes, obligations
 - **[Social Expressions](./social)** - Politeness, strong expressions, tag questions
+- **[Modern & Colloquial](./modern)** - Contemporary expressions, slang, casual language
+
+#### 📊 Quantities & Time
+- **[Amounts & Quantities](./amounts)** - Basic quantifiers, degree, intensity
+- **[Indefinites & Placeholders](./indefinites)** - Something, someone, somewhere, etc.
+- **[Time Expressions](./time)** - Temporal adverbs, relations, sequences
+- **[Numbers](./numbers)** - Basic counting 1-100 with patterns and ranges
 
 ---
 

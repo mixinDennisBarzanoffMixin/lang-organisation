@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Base.astro
 ---
-## Quantifiers & Degree (EN • DE • IT • GR • BG)
+## Amounts & Quantities (EN • DE • IT • GR • BG)
 
-Expressions for amount, degree, intensity, and approximation.
+Basic quantifiers, amounts, and degree expressions.
 
 ### Quantifiers and degree
 | Concept | EN | DE | IT | GR | BG |
@@ -40,44 +40,13 @@ Expressions for amount, degree, intensity, and approximation.
 | ✅ Sufficient | sufficiently; enough | ausreichend | sufficientemente | επαρκώς; αρκετά | достатъчно |
 | ❌ Insufficient | insufficient | unzureichend; nicht genügend | insufficiente | ανεπαρκές | недостатъчен |
 
-### Additional quantifiers
+### NEW: Additional amounts
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
-| 🎯 Ganz (complete) | quite; complete | ganz | del tutto | εντελώς | съвсем |
-| 🚫 None at all | none at all | gar kein | nessuno affatto | καθόλου κανένας | изобщо никакъв |
-
-### Comparative emphasis
-| Concept | EN | DE | IT | GR | BG |
-|---|---|---|---|---|---|
-| ⬆️ Even more | even more | noch mehr | ancora di più | ακόμη περισσότερο | още повече |
-| ⬇️ Even less | even less | noch weniger | ancora meno | ακόμη λιγότερο | още по-малко |
-| 🎯 Even (emphasis) | even he... | sogar er... | perfino lui... | ακόμη και αυτός... | дори той... |
-| 🚀 Way more | way more | viel mehr | molto di più | πολύ περισσότερο | много повече |
-| 🚫 No more | no more | nicht mehr | non più | όχι άλλο | не повече |
-
-### Indefinites
-| Concept | EN | DE | IT | GR | BG |
-|---|---|---|---|---|---|
-| 🔘 Something | something | etwas | qualcosa | κάτι | нещо |
-| 🔘 Sometimes | sometimes | manchmal | a volte | μερικές φορές | понякога |
-| 🔘 Somewhere | somewhere | irgendwo | da qualche parte | κάπου | някъде |
-| 🔘 Someone | someone | jemand | qualcuno | κάποιος/κάποια | някой |
-| 🔘 Somehow | somehow | irgendwie | in qualche modo | κάπως | някак |
-| 🔘 Some | some (a bit) | einige; etwas | alcuni; un po' | μερικοί; λίγο | някои; малко |
-| 🔘 Anyway/anyhow | anyway; anyhow | jedenfalls; wie auch immer | comunque | τέλος πάντων; όπως και να 'χει | както и да е; така или иначе |
-| 🔘 Anyone | anyone | irgendwer; jemand | chiunque; qualcuno | οποιοσδήποτε; κάποιος | който и да е; някой |
-| 🔘 Anything | anything | irgendetwas | qualsiasi cosa; qualcosa | οτιδήποτε | каквото и да е |
-| 🔘 Anywhere | anywhere | überall; irgendwo | ovunque | οπουδήποτε | където и да е |
-| ⭕ Nobody | nobody; no one | niemand | nessuno | κανείς | никой |
-| ⭕ Nothing | nothing | nichts | niente; nulla | τίποτα | нищо |
-| ⭕ None of it/that | none of it/that is… | nichts davon ist… | niente di tutto ciò è… | τίποτα από αυτά δεν είναι… | нищо от това не е… |
-| ⭕ Nowhere | nowhere | nirgendwo | da nessuna parte | πουθενά | никъде |
-| ⭕ In no way | in no way | auf keinen Fall | in nessun modo | με κανέναν τρόπο | по никакъв начин |
-
-### Placeholders
-| Concept | EN | DE | IT | GR | BG |
-|---|---|---|---|---|---|
-| 🔄 Whatever/anything | whatever; anything | was auch immer; irgendwas | qualsiasi cosa; qualcosa | ό,τι να 'ναι; οτιδήποτε | каквото и да е; нещо си |
+| 🚀 So much/many | so much; so many | so viel; so viele | così tanto; così tanti | τόσο πολύ; τόσα πολλά | толкова много |
+| 📉 At least like... | at least like... | wenigstens so... | almeno come... | τουλάχιστον σαν... | поне като... |
+| 🔢 From X to Y | from 1 to 10 | von 1 bis 10 | da 1 a 10 | από το 1 έως το 10 | от 1 до 10 |
+| 🤏 A little something | a little something | ein bisschen was; etwas kleines | qualcosina | κάτι λιγάκι | нещо малко |
 
 ---
-**Tips**: Use these to express vague amounts, intensify adjectives, or be imprecise when needed.
+**Tips**: Essential for expressing quantities, degrees, and amounts in conversation.
