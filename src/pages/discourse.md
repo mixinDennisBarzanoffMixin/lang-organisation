@@ -116,6 +116,7 @@ Small blocks for starting conversations, getting attention, and managing discour
 | 🎯 Let me do X | let me do X | lass mich X machen | lasciami fare X | άσε με να κάνω X | я направи X |
 | 👀 Look at you! | look at you! | schau dich an! | guardati! | κοίτα σε! | я виж ти! |
 | 💥 Emphatic contradiction | oh yes (I do)!; but I am! | doch! | invece sì!; ma sì! | μα ναι!; όμως είμαι! | ама пък да!; все пак съм! |
+| 🤷 Whatever (dismissive) | whatever; some random thing | was auch immer; irgendwas | qualsiasi cosa; una cosa qualsiasi | ό,τι να 'ναι; κάτι τυχαίο | еди какво си |
 
 ### For example
 | Concept | EN | DE | IT | GR | BG |

@@ -33,6 +33,7 @@ Expressions for giving opinions, expressing uncertainty, and stating your positi
 | 🙅 Absolutely not | absolutely not; no way | auf keinen Fall; keineswegs | assolutamente no | με τίποτα; καθόλου | в никакъв случай |
 | 👍 Of course/sure | of course; sure | natürlich; klar | certo | φυσικά | разбира се |
 | 💯 For sure | for sure | ganz sicher | di sicuro | σίγουρα | сигурно |
+| 👁️ Obviously/apparently | obviously; apparently | offensichtlich; anscheinend | ovviamente; a quanto pare | προφανώς; φαίνεται | явно |
 | ✅ That's fine | that's fine; that's okay | das ist in Ordnung; das passt | va bene; è okay | εντάξει είναι; καλά είναι | добре е; наред е |
 | 👌 No problem | no problem; it's fine | kein Problem; ist okay | nessun problema; va bene | κανένα πρόβλημα; εντάξει | няма проблем; наред е |
 
