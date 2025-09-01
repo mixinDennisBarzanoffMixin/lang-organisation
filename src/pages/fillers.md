@@ -50,5 +50,13 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | 💬 By the way | by the way | übrigens | a proposito | παρεμπιπτόντως | между другото |
 | 👣 Step by step | step by step | Schritt für Schritt | passo dopo passo | βήμα βήμα | стъпка по стъпка |
 
+### Additional expressions
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 🤷 Something like that | something like that | so was halt | qualcosa del genere | κάτι τέτοιο | нещо си там |
+| 🙏 Oh please... | oh please... | ach bitte... | ma ti prego... | μα σε παρακαλώ... | абе моля ти се... |
+| 💬 I'm saying... | I'm saying... | ich sage... | dico... | λέω... | аз викам... |
+| 💭 Well then... (particle) | well then... | naja dann... | beh allora... | ε τότε... | ми тогава...; ами |
+
 ---
 **Tips**: Perfect for starting conversations, structuring discourse, or buying time while thinking.

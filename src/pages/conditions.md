@@ -34,5 +34,10 @@ Conditional statements, concessions, and purpose expressions.
 | ⏳ After X, then Y | after X, then Y | nach X, dann Y | dopo X, allora Y | μετά το X, τότε Y | след като X, значи Y |
 | 🎯 Depending on that, X | depending on that, X | je nach dem, X | a seconda di quello, X | ανάλογα με αυτό, X | в зависимост от това, X |
 
+### Additional expressions
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 🇮🇹 Even though/although | even though; although | obwohl; auch wenn | quantunque | αν και; παρόλο που | въпреки че |
+
 ---
 **Tips**: Perfect for expressing complex conditional relationships and contrasts.

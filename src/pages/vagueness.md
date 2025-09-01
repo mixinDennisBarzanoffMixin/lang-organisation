@@ -26,5 +26,10 @@ Expressions for being vague, uncertain, or softening statements.
 | 🤷 Whatever (dismissive) | whatever; some random thing | was auch immer; irgendwas | qualsiasi cosa; una cosa qualsiasi | ό,τι να 'ναι; κάτι τυχαίο | еди какво си |
 | 🔄 Whatever/anything | whatever; anything | was auch immer; irgendwas | qualsiasi cosa; qualcosa | ό,τι να 'ναι; οτιδήποτε | каквото и да е; нещо си |
 
+### Additional expressions
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 🤷 This and that | this and that; such and such | so und so | così e così | έτσι και έτσι | така и така |
+
 ---
 **Tips**: Use these when you want to be less direct or show uncertainty.

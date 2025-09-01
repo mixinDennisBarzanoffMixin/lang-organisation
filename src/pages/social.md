@@ -42,5 +42,11 @@ Politeness, courtesy, and social interaction phrases.
 | 💔 What a pity | what a pity; that's too bad | schade; das ist zu schade | peccato; che peccato | κρίμα; τι κρίμα | крема; жалко |
 | ✨ It'll be fine/ok | it'll be fine; it'll be ok | wird schon; wird ok | andrà bene; sarà ok | θα πάει καλά; θα είναι οκ | бива бива; ще е наред |
 
+### Additional expressions
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 🎉 There you go! | there you go! | da hast du's! | ecco fatto! | να το! | на ти айде! |
+| ❓ Surely there isn't/is | surely there isn't/is... | sicher gibt es nicht/gibt es... | sicuramente non c'è/c'è... | σίγουρα δεν υπάρχει/υπάρχει... | нима няма/не... |
+
 ---
 **Tips**: Use politeness markers to soften requests, and strong expressions sparingly for emphasis in informal contexts.

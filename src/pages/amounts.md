@@ -48,5 +48,10 @@ Basic quantifiers, amounts, and degree expressions.
 | 🔢 From X to Y | from 1 to 10 | von 1 bis 10 | da 1 a 10 | από το 1 έως το 10 | от 1 до 10 |
 | 🤏 A little something | a little something | ein bisschen was; etwas kleines | qualcosina | κάτι λιγάκι | нещо малко |
 
+### Additional expressions
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 🎯 Even (emphasis) | even he... | sogar er... | perfino lui... | ακόμη και αυτός... | даже той... |
+
 ---
 **Tips**: Essential for expressing quantities, degrees, and amounts in conversation.

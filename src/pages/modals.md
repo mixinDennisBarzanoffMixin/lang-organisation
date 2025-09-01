@@ -35,5 +35,10 @@ Modal verbs for ability, obligation, wishes, and possibilities.
 | 🇩🇪 You want *actually* | you actually want...; you do want... | du willst *ja*; ich brauche *ja* | tu vuoi *davvero* | θέλεις *στ' αλήθεια* | ти искаш *всъщност* |
 | 💪 I *do* open it | I *do* open it/do Y | ich mache es *doch* auf | lo apro *davvero* | το ανοίγω *όντως* | аз *наистина* го отварям |
 
+### Additional expressions
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| ⚠️ Be careful to/that | be careful to...; watch out that... | pass auf, dass...; achte darauf, dass... | stai attento che...; bada che... | πρόσεχε να...; φρόντισε να... | пази се да... |
+
 ---
 **Tips**: Perfect for expressing what you can, should, want, or need to do.
