@@ -42,5 +42,14 @@ More sophisticated expressions for intermediate and advanced learners.
 | 🔄 So much, then, such, like that | so much; then; such; like that | so viel; dann; solch; so | così tanto; allora; tale; così | τόσο; τότε; τέτοιος; έτσι | толкова; тогава; такъв; така |
 | 🎯 Here's the thing... | here's the thing... | die Sache ist die... | la cosa è questa... | το θέμα είναι αυτό... | работата е такава... |
 
+### NEW: Advanced constructions from user input
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 🇩🇪 Although it is X, it's Y | although it is X, it's Y | es ist zwar X, dass Y | anche se è X, è Y | αν και είναι X, είναι Y | въпреки че е X, е Y |
+| 🇩🇪 Although not X, but Y | although not X, but Y | zwar nicht X, sondern Y | anche se non X, ma Y | αν και όχι X, αλλά Y | въпреки че не е X, а Y |
+| 🤞 I hope that... | I hope that... | ich hoffe, dass... | spero che... | ελπίζω ότι... | дано да... |
+| 📚 Just that... I didn't understand | just that... I didn't understand | nur, dass... ich habe nicht verstanden | solo che... non ho capito | μόνο που... δεν κατάλαβα | само, че... не разбрах |
+| 🇬🇷 Are you familiar with | do you know that store?; are you familiar with...? | kennst du den Laden?; bist du vertraut mit...? | conosci quel negozio?; hai presente...? | ξέρεις το μαγαζί; είσαι εξοικειωμένος με...; | познаваш ли този магазин?; запознат ли си с...? |
+
 ---
 **Tips**: These expressions will help you sound more sophisticated and natural in complex conversations.

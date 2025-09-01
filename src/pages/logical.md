@@ -44,5 +44,13 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🇮🇹 Anzi (actually/on the contrary) | actually; on the contrary; rather | im Gegenteil; vielmehr | anzi | μάλλον; αντίθετα | напротив; по-точно |
 | 🚫 Not this, but... | not this, but... | nicht das, sondern... | non questo, ma... | όχι αυτό, αλλά... | не това, ами... |
 
+### NEW: Additional logical constructions
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 🔀 Instead of (doing) | instead of doing... | anstatt zu...; statt zu... | invece di fare... | αντί να κάνω... | вместо да... |
+| ❓ How come X? | how come X? | wie kommt es dass X? | come mai X? | πώς έτσι X?; πώς γίνεται X? | как така X? |
+| 🔄 If, however, X | if, however, X | wenn allerdings X | se però X | αν όμως X; ако обаче X | ако, обаче, X |
+| 🇬🇷 Beyond X | beyond X; something else beyond that | über X hinaus; etwas anderes darüber hinaus | oltre X; qualcosa d'altro oltre quello | πέρα από X; κάτι άλλο πέρα από αυτό | отвъд X; нещо друго освен това |
+
 ---
 **Tips**: Essential for building complex arguments and explanations.
