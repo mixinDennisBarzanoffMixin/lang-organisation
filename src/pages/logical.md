@@ -52,6 +52,7 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🔄 If, however, X | if, however, X | wenn allerdings X | se però X | αν όμως X; ако обаче X | ако, обаче, X |
 | 🇬🇷 Beyond X | beyond X; something else beyond that | über X hinaus; etwas anderes darüber hinaus | oltre X; qualcosa d'altro oltre quello | πέρα από X; κάτι άλλο πέρα από αυτό | отвъд X; нещо друго освен това |
 | 🇮🇹 Let alone | let alone; much less | geschweige denn | figuriamoci | πόσο μάλλον | камо ли |
+| 🔄 Or rather | or rather | besser gesagt | o meglio | ή μάλλον | или по-скоро |
 
 ---
 **Tips**: Essential for building complex arguments and explanations.

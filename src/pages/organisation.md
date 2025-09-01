@@ -10,10 +10,9 @@ Small, reusable speaking blocks for language practice organized by topic.
 ### Core Expression Types
 
 #### 💬 Conversation & Discourse
-- **[Fillers & Starters](./fillers)** - Warm-ups, attention-getters, basic conversation starters
+- **[Fillers & Starters](./fillers)** - Warm-ups, attention-getters, conversation starters, discourse structuring
 - **[Vagueness & Hedging](./vagueness)** - Softening statements, being uncertain, hedging
 - **[Questions & Interaction](./questions)** - Question words and interactive expressions  
-- **[Discourse Structuring](./structuring)** - Organizing speech, clarifying, examples
 - **[Focus & Emphasis](./emphasis)** - Emphasizing points, strong reactions, interjections
 
 #### 🔗 Logic & Structure  
@@ -22,13 +21,11 @@ Small, reusable speaking blocks for language practice organized by topic.
 - **[Advanced Expressions](./advanced)** - B-level+ sophisticated constructions
 
 #### 💭 Opinions & Social
-- **[Personal Stance](./stance)** - Expressing views, personal opinions, knowledge claims
-- **[Agreement & Disagreement](./agreement)** - Showing agreement, disagreement, certainty
-- **[Impressions & Perceptions](./impressions)** - How things seem, appear, or feel
+- **[Opinions & Personal Views](./opinions)** - Personal stance, impressions, perceptions, knowledge claims
+- **[Agreement & Disagreement](./agreement)** - Showing agreement, disagreement, certainty levels
 - **[Modals & Abilities](./modals)** - Can/should/want, wishes, obligations
-- **[Social Expressions](./social)** - Strong expressions, tag questions, casual reactions
-- **[Politeness & Courtesy](./politeness)** - Formal politeness, courtesy responses
-- **[Modern & Colloquial](./modern)** - Contemporary slang, very casual expressions
+- **[Social Expressions](./social)** - Politeness, courtesy, tag questions, social interactions
+- **[Modern & Colloquial](./modern)** - Contemporary slang, vulgar expressions, very casual language
 
 #### 📊 Quantities & Time
 - **[Amounts & Quantities](./amounts)** - Basic quantifiers, degree, intensity

@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Base.astro
 ---
-## Discourse Starters & Fillers (EN • DE • IT • GR • BG)
+## Conversation Fillers & Discourse Structure (EN • DE • IT • GR • BG)
 
-Basic conversation starters, fillers, and warm-up expressions.
+Conversation starters, fillers, warm-up expressions, and discourse organization.
 
 ### Discourse starters and fillers
 | Concept | EN | DE | IT | GR | BG |
@@ -42,5 +42,13 @@ Basic conversation starters, fillers, and warm-up expressions.
 | 🤷 It's a good thing/it's well | it's fine; it's well | es ist gut; ist schon okay | va bene; è a posto | εντάξει είναι; καλά είναι | е го е |
 | 📦 And bring this too | and bring this too | und das auch mitbringen | e porta anche questo | και αυτό φέρε επίσης | е и това занеси |
 
+### Discourse structuring
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 1️⃣ First of all | first of all… | erstens; zuallererst… | prima di tutto… | πρώτα απ' όλα… | първо… |
+| ⚖️ On one hand | on the one hand… / on the other hand… | einerseits… / andererseits… | da una parte… / dall'altra… | αφενός… / αφετέρου… | от една страна… / от друга страна… |
+| 💬 By the way | by the way | übrigens | a proposito | παρεμπιπτόντως | между другото |
+| 👣 Step by step | step by step | Schritt für Schritt | passo dopo passo | βήμα βήμα | стъпка по стъпка |
+
 ---
-**Tips**: Perfect for starting conversations or buying time while thinking.
+**Tips**: Perfect for starting conversations, structuring discourse, or buying time while thinking.

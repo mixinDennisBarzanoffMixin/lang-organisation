@@ -3,20 +3,28 @@ layout: ../layouts/Base.astro
 ---
 ## Social Expressions (EN • DE • IT • GR • BG)
 
-Politeness markers, strong colloquial expressions, and social interaction phrases.
+Politeness, courtesy, and social interaction phrases.
 
-### Politeness basics
+### Basic politeness
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🙇 Please | please | bitte | per favore | παρακαλώ | моля |
 | 🙏 Thanks | thanks; thank you | danke | grazie | ευχαριστώ | благодаря |
 
-### Strong expressions (vulgar/colloquial)
+### Courtesy responses  
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
-| 🔥 Fucking (intensifier) | fucking… (you don't fucking know) | verdammt/scheiß… | cazzo… | γαμημένος/α… | чертов/а… |
-| 💥 What the hell? | what the hell? | was zur Hölle? | che cazzo? | τι στο διάολο; | какво по дяволите? |
-| 😤 Damn it! | damn it! | verdammt! | merda! | γαμώτο! | по дяволите! |
+| 🇮🇹 No problem at all | no problem at all; don't mention it | kein Problem; gern geschehen | figurati; non c'è di che | τίποτα; παρακαλώ | няма за какво; няма проблем |
+| 🇮🇹 Of course not! | of course not!; heaven forbid! | natürlich nicht!; Gott bewahre! | ci mancherebbe! | φυσικά όχι!; μη γίνεται! | разбира се че не!; недей господи! |
+| 👌 No problem | no problem; it's fine | kein Problem; ist okay | nessun problema; va bene | κανένα πρόβлημα; εντάξει | няма проблем; наред е |
+| ✅ That's fine | that's fine; that's okay | das ist in Ordnung; das passt | va bene; è okay | εντάξει είναι; καλά είναι | добре е; наред е |
+
+### Politeness softeners
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 🤷 Maybe/perhaps | maybe; perhaps | vielleicht | forse | ίσως | може би |
+| 🤔 I wonder if | I wonder if… | ich frage mich, ob… | mi chiedo se… | αναρωτιέμαι αν… | чудя се дали… |
+| 🙏 Would you mind | would you mind…? | würdest du bitte…? | ti dispiacerebbe…? | θα σε πείραζε…? | би ли имал нещо против…? |
 
 ### Tag questions and checks
 | Concept | EN | DE | IT | GR | BG |

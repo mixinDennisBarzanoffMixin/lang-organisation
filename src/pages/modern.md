@@ -61,5 +61,12 @@ Contemporary expressions, slang, and very colloquial language.
 |---|---|---|---|---|---|
 | 👥 And I'm with him, right... | and I'm with him, right... | und ich bin bei ihm, oder... | e io sto con lui, no... | και εγώ είμαι μαζί του, έτσι... | и аз съм с него, нали... |
 
+### Strong expressions (vulgar/colloquial)
+| Concept | EN | DE | IT | GR | BG |
+|---|---|---|---|---|---|
+| 🔥 Fucking (intensifier) | fucking… (you don't fucking know) | verdammt/scheiß… | cazzo… | γαμημένος/α… | чертов/а… |
+| 💥 What the hell? | what the hell? | was zur Hölle? | che cazzo? | τι στο διάολο; | какво по дяволите? |
+| 😤 Damn it! | damn it! | verdammt! | merda! | γαμώτο! | по дяволите! |
+
 ---
 **Tips**: Use these for casual, contemporary conversations. Some are quite informal!
