@@ -31,7 +31,6 @@ Small, reusable speaking blocks for language practice organized by topic.
 - **[Amounts & Quantities](./amounts)** - Basic quantifiers, degree, intensity
 - **[Indefinites & Placeholders](./indefinites)** - Something, someone, somewhere, etc.
 - **[Time Expressions](./time)** - Temporal adverbs, relations, sequences
-- **[Numbers](./numbers)** - Basic counting 1-100 with patterns and ranges
 
 ---
 
