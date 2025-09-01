@@ -25,7 +25,7 @@ Modal verbs for ability, obligation, wishes, and possibilities.
 | 🚨 Must/have to | I must; I have to | ich muss | devo | πρέπει | трябва |
 | 🤷 Could have | we could have this already | wir hätten das schon haben können | avremmo potuto averlo già | θα μπορούσαμε να το έχουμε ήδη | можехме вече да го имаме |
 
-### NEW: Additional modals
+### Additional expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🤞 I hope that... | I hope that... | ich hoffe, dass... | spero che... | ελπίζω ότι... | дано да... |

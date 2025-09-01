@@ -34,7 +34,7 @@ Expressions for organizing speech and structuring conversations.
 | 📝 Let's say | let's say | sagen wir mal | diciamo | ας πούμε | да речем |
 | 📝 Case in point | case in point | ein gutes Beispiel dafür | appunto | χαρακτηριστικό παράδειγμα | точно такъв случай |
 
-### NEW: Additional structuring
+### Additional expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🎭 Let's see/well well | well well...; let's see... | na ja...; mal sehen... | vediamo...; beh beh... | ας δούμε...; τα λοιπόν... | да бе да, супер; ами да видим |

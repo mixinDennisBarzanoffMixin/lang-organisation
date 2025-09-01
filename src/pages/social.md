@@ -25,7 +25,7 @@ Politeness markers, strong colloquial expressions, and social interaction phrase
 | 😤 So what? | so what? | na und? | e allora? | ε και λοιπόν; | ами и какво? |
 | 🤷 Never mind | never mind; doesn't matter | egal; macht nichts | non importa | δεν πειράζει | няма значение |
 
-### NEW: Additional social expressions
+### Additional expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 😤 Are you kidding me? | are you kidding me? | willst du mich verarschen? | mi stai prendendo in giro? | με κοροϊδεύεις; | ти ебаваш ли се |

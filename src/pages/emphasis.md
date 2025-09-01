@@ -37,10 +37,6 @@ Expressions for emphasizing points and focusing attention.
 | 🎯 Let me do X | let me do X | lass mich X machen | lasciami fare X | άσε με να κάνω X | я направи X |
 | 👀 Look at you! | look at you! | schau dich an! | guardati! | κοίτα σε! | я виж ти! |
 
-### NEW: Additional emphasis expressions
-| Concept | EN | DE | IT | GR | BG |
-|---|---|---|---|---|---|
-| 🚫 Not this, but... | not this, but... | nicht das, sondern... | non questo, ma... | όχι αυτό, αλλά... | не това, ами... |
 | 🎯 Exactly/bravo | exactly!; bravo! | genau!; bravo! | esatto!; bravo! | ε, μπράβο!; ακριβώς! | точно!; браво! |
 
 ---

@@ -29,7 +29,7 @@ Something, someone, somewhere - and their negative counterparts.
 |---|---|---|---|---|---|
 | 🔄 Whatever/anything | whatever; anything | was auch immer; irgendwas | qualsiasi cosa; qualcosa | ό,τι να 'ναι; οτιδήποτε | каквото и да е; нещо си |
 
-### NEW: Additional indefinites
+### Additional expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🔘 Some kind of... | some kind of...; some... | so ein...; irgendein... | una specie di...; un... | κάποιο είδος...; κάποιο... | някъв...; нещо като... |

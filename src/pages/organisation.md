@@ -22,11 +22,13 @@ Small, reusable speaking blocks for language practice organized by topic.
 - **[Advanced Expressions](./advanced)** - B-level+ sophisticated constructions
 
 #### 💭 Opinions & Social
-- **[Personal Stance](./stance)** - Expressing views, personal opinions, impressions
+- **[Personal Stance](./stance)** - Expressing views, personal opinions, knowledge claims
 - **[Agreement & Disagreement](./agreement)** - Showing agreement, disagreement, certainty
+- **[Impressions & Perceptions](./impressions)** - How things seem, appear, or feel
 - **[Modals & Abilities](./modals)** - Can/should/want, wishes, obligations
-- **[Social Expressions](./social)** - Politeness, strong expressions, tag questions
-- **[Modern & Colloquial](./modern)** - Contemporary expressions, slang, casual language
+- **[Social Expressions](./social)** - Strong expressions, tag questions, casual reactions
+- **[Politeness & Courtesy](./politeness)** - Formal politeness, courtesy responses
+- **[Modern & Colloquial](./modern)** - Contemporary slang, very casual expressions
 
 #### 📊 Quantities & Time
 - **[Amounts & Quantities](./amounts)** - Basic quantifiers, degree, intensity

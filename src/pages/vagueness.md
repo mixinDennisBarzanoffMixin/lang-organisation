@@ -19,7 +19,7 @@ Expressions for being vague, uncertain, or softening statements.
 | 🌫️ Kind of | kind of; sozusagen | sozusagen; irgendwie | per così dire; tipo | ας πούμε; κάπως | така да се каже; нещо като |
 | 🤷 Doesn't matter | it doesn't matter | es ist egal; macht nichts | non importa | δεν πειράζει; δεν έχει σημασία | няма значение |
 
-### NEW: Additional hedging expressions
+### Additional expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🤷 This wasn't quite... | this wasn't quite... something like that, right? | das war nicht ganz... so was halt, ne? | questo non era proprio... una cosa così, no? | αυτό δεν ήταν ακριβώς... κάτι τέτοιο, ε; | тоя не беше чак... нещо такова нали |

@@ -29,7 +29,7 @@ Basic conversation starters, fillers, and warm-up expressions.
 | 🚫 Not there/missing | it's not there | ist nicht da | non c'è | δεν υπάρχει | няма го |
 | 🏁 I'll do/put it simply | I'll do/put it simply | ich mache/sage es einfach | lo faccio/dico semplicemente | θα το κάνω/πω απλά | ще го направя/сложа, просто… |
 
-### NEW: Additional conversation starters
+### Additional expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 💡 I'll tell you | I'll tell you | ich sage dir | ti dico io | θα σου πω εγώ | ще ти кажа аз на тебе |

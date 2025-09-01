@@ -34,7 +34,7 @@ Expressing agreement, disagreement, and certainty levels.
 | 🤔 I wonder if | I wonder if… | ich frage mich, ob… | mi chiedo se… | αναρωτιέμαι αν… | чудя се дали… |
 | 🙏 Would you mind | would you mind…? | würdest du bitte…? | ti dispiacerebbe…? | θα σε πείραζε…? | би ли имал нещо против…? |
 
-### NEW: Strong agreement/disagreement
+### Additional expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🎯 Exactly/bravo | exactly!; bravo! | genau!; bravo! | esatto!; bravo! | ακριβώς!; μπράβο! | точно!; браво! |

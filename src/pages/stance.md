@@ -29,7 +29,7 @@ Expressing personal views, opinions, and your position on topics.
 | 🗂️ In this case | in this case | in diesem Fall | in questo caso | σε αυτήν την περίπτωση | в такъв случай |
 | 👁️ Impression | I get the impression that… | ich habe den Eindruck, dass… | ho l'impressione che… | μένω με την εντύπωση ότι… | оставам с впечатлението, че… |
 
-### NEW: Additional stance expressions
+### Additional expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🧠 As far as X is concerned | as far as X is concerned | was X betrifft | per quanto riguarda X | όσον αφορά το X | що се отнася до X |

@@ -42,7 +42,7 @@ More sophisticated expressions for intermediate and advanced learners.
 | 🔄 So much, then, such, like that | so much; then; such; like that | so viel; dann; solch; so | così tanto; allora; tale; così | τόσο; τότε; τέτοιος; έτσι | толкова; тогава; такъв; така |
 | 🎯 Here's the thing... | here's the thing... | die Sache ist die... | la cosa è questa... | το θέμα είναι αυτό... | работата е такава... |
 
-### NEW: Advanced constructions from user input
+### Additional expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🇩🇪 Although it is X, it's Y | although it is X, it's Y | es ist zwar X, dass Y | anche se è X, è Y | αν και είναι X, είναι Y | въпреки че е X, е Y |

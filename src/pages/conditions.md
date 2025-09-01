@@ -27,7 +27,7 @@ Conditional statements, concessions, and purpose expressions.
 | ⭕ Neither... nor | neither X nor Y | weder X noch Y | né X né Y | ούτε X ούτε Y | нито X, нито Y |
 | 🔀 Either... or | either X or Y | entweder X oder Y | o X o Y | είτε X είτε Y | или X, или Y |
 
-### NEW: Additional conditions
+### Additional expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🔄 Whether X or Y | whether X or Y | bilo to X или Y | sia X che Y | είτε X είτε Y | било то X или Y |

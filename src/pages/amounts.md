@@ -40,7 +40,7 @@ Basic quantifiers, amounts, and degree expressions.
 | ✅ Sufficient | sufficiently; enough | ausreichend | sufficientemente | επαρκώς; αρκετά | достатъчно |
 | ❌ Insufficient | insufficient | unzureichend; nicht genügend | insufficiente | ανεπαρκές | недостатъчен |
 
-### NEW: Additional amounts
+### Additional expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🚀 So much/many | so much; so many | so viel; so viele | così tanto; così tanti | τόσο πολύ; τόσα πολλά | толкова много |

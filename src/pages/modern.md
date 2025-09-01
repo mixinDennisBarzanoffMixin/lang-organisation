@@ -47,7 +47,7 @@ Contemporary expressions, slang, and very colloquial language.
 | ⏰ Once upon a time | once upon a time there was/had to be | es war einmal; da musste mal | c'era una volta; doveva esserci una volta | κάποτε υπήρχε/έπρεπε | по едно време имаше/трябваше |
 | ⏰ I woke up at 5 o'clock *sharp* | I woke up at 5 o'clock sharp | ich bin um 5 Uhr *pünktlich* aufgewacht | mi sono svegliato alle 5 *in punto* | ξύπνησα στις 5 η ώρα *παρά* | събудих се в 5 часа *точно* |
 
-### NEW: Additional modern expressions
+### Additional expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🎯 He will do X, *while* we... | he will do X, while we... | er wird X machen, *während* wir... | lui farà X, *mentre* noi... | αυτός θα κάνει X, *ενώ* εμείς... | той ще прави X, *а* ние... |
@@ -56,16 +56,10 @@ Contemporary expressions, slang, and very colloquial language.
 | 🎯 As you are doing X | as you are doing X | während du X machst | mentre fai X | καθώς κάνεις X | докато правиш X |
 | 🔄 Alongside X is Y | alongside X is Y | neben X ist Y | accanto a X c'è Y | δίπλα στο X είναι το Y | заедно с X е Y |
 
-### NEW: Additional modern expressions  
+### Truly casual/modern expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
-| 🤷 What does X represent | what does X represent | was stellt X dar | cosa rappresenta X | τι αντιπροσωπεύει το X | какво представлява X |
 | 👥 And I'm with him, right... | and I'm with him, right... | und ich bin bei ihm, oder... | e io sto con lui, no... | και εγώ είμαι μαζί του, έτσι... | и аз съм с него, нали... |
-| 🤔 It seems like | yeah, it seems like | ja, es scheint so | sì, sembra | ναι, φαίνεται | да, изглежда така |
-| 🇮🇹 Come to me (idea) | it came to me (a curiosity, idea) | mir ist eingefallen (eine Neugier) | mi è venuta/o (una curiosità, un'idea) | μου ήρθε (μια περιέργεια, ιδέα) | дойде ми (любопитство, идея) |
-| 🇮🇹 No problem at all | no problem at all; don't mention it | kein Problem; gern geschehen | figurati; non c'è di che | τίποτα; παρακαλώ | няма за какво; няма проблем |
-| 🇮🇹 Of course not! | of course not!; heaven forbid! | natürlich nicht!; Gott bewahre! | ci mancherebbe! | φυσικά όχι!; μη γίνεται! | разбира се че не!; недей господи! |
-| 🇮🇹 Let alone | let alone; much less | geschweige denn | figuriamoci | πόσο μάλλον | камо ли |
 
 ---
 **Tips**: Use these for casual, contemporary conversations. Some are quite informal!
