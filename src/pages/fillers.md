@@ -57,6 +57,13 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | 🙏 Oh please... | oh please... | ach bitte... | ma ti prego... | μα σε παρακαλώ... | абе моля ти се... |
 | 💬 I'm saying... | I'm saying... | ich sage... | dico... | λέω... | аз викам... |
 | 💭 Well then... (particle) | well then... | naja dann... | beh allora... | ε τότε... | ми тогава...; ами |
+| 🤔 How much? Well... *Sooo*... X | How much? Well... *sooo*... X | Wie viel? Naja... *Sooo*... X | Quanto? Beh... *Quindi*... X | Πόσο; Ε... *Λοιπόοοον*... X | Колко? Ми... *Значииии*... X |
+| 🤷 Without this X anyway | without this X anyway; and without this X | und ohne das X sowieso | e senza questo X comunque | και χωρίς αυτό το X έτσι κι αλλιώς | и без това X |
+| ✅ Good thing we managed to | good thing we managed to | gut, dass wir es geschafft haben zu | meno male che siamo riusciti a | καλά που καταφέραμε να | добре, че успяхме да |
+| 🚶 Let's go | let's go | lass uns gehen | andiamo | πάμε; ας πάμε | дай да ходим |
+| 🔄 All the same/anyway | all the same; anyway | trotzdem; sowieso | comunque; lo stesso | έτσι κι αλλιώς; παρόλα αυτά | все пак |
+| 🇮🇹 Usually | usually | normalerweise; gewöhnlich | di solito | συνήθως | обикновено |
+| 🔄 As well | as well; also | auch; ebenso | pure; anche | επίσης | също така |
 
 ---
 **Tips**: Perfect for starting conversations, structuring discourse, or buying time while thinking.

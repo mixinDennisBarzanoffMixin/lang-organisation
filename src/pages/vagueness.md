@@ -30,6 +30,9 @@ Expressions for being vague, uncertain, or softening statements.
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🤷 This and that | this and that; such and such | so und so | così e così | έτσι και έτσι | така и така |
+| 🔮 It's probably going to be | it's probably going to be something like X | es wird wahrscheinlich so was wie X sein | probabilmente sarà qualcosa come X | μάλλον θα είναι κάτι σαν X | вероятно ще бъде нещо като X |
+| 🤷 Or whatever kind of | or whatever kind of X | oder was für ein X auch immer | o qualsiasi tipo di X | ή ό,τι είδος X | или каквото и да е X |
+| 🎚️ Quite strange | quite strange | parecchio strano | piuttosto strano | αρκετά παράξενο | доста странно |
 
 ---
 **Tips**: Use these when you want to be less direct or show uncertainty.

@@ -67,6 +67,7 @@ Contemporary expressions, slang, and very colloquial language.
 | 🔥 Fucking (intensifier) | fucking… (you don't fucking know) | verdammt/scheiß… | cazzo… | γαμημένος/α… | чертов/а… |
 | 💥 What the hell? | what the hell? | was zur Hölle? | che cazzo? | τι στο διάολο; | какво по дяволите? |
 | 😤 Damn it! | damn it! | verdammt! | merda! | γαμώτο! | по дяволите! |
+| 🔥 Damn (intensifier) | damn foreigner; damn good | verdammter Ausländer; verdammt gut | dannato straniero; dannato buono | καταραμένος ξένος; πολύ καλός | проклет чужденец; много добър |
 
 ---
 **Tips**: Use these for casual, contemporary conversations. Some are quite informal!

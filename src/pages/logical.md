@@ -53,6 +53,10 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🇬🇷 Beyond X | beyond X; something else beyond that | über X hinaus; etwas anderes darüber hinaus | oltre X; qualcosa d'altro oltre quello | πέρα από X; κάτι άλλο πέρα από αυτό | отвъд X; нещо друго освен това |
 | 🇮🇹 Let alone | let alone; much less | geschweige denn | figuriamoci | πόσο μάλλον | камо ли |
 | 🔄 Or rather | or rather | besser gesagt | o meglio | ή μάλλον | или по-скоро |
+| 🎯 As far as that's concerned | as far as that's concerned | was das betrifft | per quanto riguarda questo | όσο αφορά αυτό | що се отнася до това |
+| 🎯 As it pertains to X | as it pertains to X; regarding X | was X betrifft | per quanto riguarda X | όσο αφορά X | що се отнася до X |
+| 🔄 The same way | the same way | auf dieselbe Weise | allo stesso modo | με τον ίδιο τρόπο | по същия начин |
+| 💡 Turns out | turns out; it turns out that | es stellt sich heraus | si scopre; viene fuori | αποδεικνύεται | оказва се |
 
 ---
 **Tips**: Essential for building complex arguments and explanations.

@@ -52,6 +52,13 @@ Basic quantifiers, amounts, and degree expressions.
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🎯 Even (emphasis) | even he... | sogar er... | perfino lui... | ακόμη και αυτός... | даже той... |
+| 📊 More/less than | more than; less than | mehr als; weniger als | più di; meno di | περισσότερο από; λιγότερο από | повече от; по-малко от |
+| 👥 All of them are X | all of them are X | alle sind X | tutti loro sono X | όλοι τους είναι X | всички те са X |
+| ❌ No longer | no longer | nicht mehr | non più | δεν... πια | вече не |
+| 📏 As much as | as much as | so viel wie | tanto quanto | όσο | толкова колкото |
+| 📉 As little as | as little as | so wenig wie | così poco come | όσο λίγο | толкова малко колкото |
+| 🎒 A lot (Italian) | a lot; loads | eine Menge | un sacco | ένα σωρό | купища |
+| 🔢 A few things | a few things | ein paar Sachen | alcune cose | μερικά πράγματα | няколко неща |
 
 ---
 **Tips**: Essential for expressing quantities, degrees, and amounts in conversation.
