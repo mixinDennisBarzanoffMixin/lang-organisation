@@ -60,6 +60,11 @@ Contemporary expressions, slang, and very colloquial language.
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 👥 And I'm with him, right... | and I'm with him, right... | und ich bin bei ihm, oder... | e io sto con lui, no... | και εγώ είμαι μαζί του, έτσι... | и аз съм с него, нали... |
+| 🔄 Back and forth | back and forth | hin und her | avanti e indietro | πέρα-δώθε | насам-натам |
+| 😤 Oh come on now... | oh come on now... I won't explain | ach komm schon... ich erkläre nicht | ma dai ora... non spiego | μα έλα τώρα... δεν θα εξηγήσω | абе сегааа... няма да обяснявам |
+| 🤷 Supposedly/apparently | supposedly; apparently | angeblich; scheinbar | a quanto pare; presumibilmente | υποτίθεται; φαίνεται | уж |
+| 🎁 Here you go | here you go; there you have it | hier hast du; da hast du | ecco qua; eccoti | ορίστε; ετούτο | ето ти |
+| 📉 Not a bit/gram | not a bit; not a gram | kein bisschen; kein Gramm | neanche un po'; neanche un grammo | ούτε λίγο; ούτε γραμμάριο | грам нямаше |
 
 ### Strong expressions (vulgar/colloquial)
 | Concept | EN | DE | IT | GR | BG |
@@ -68,6 +73,8 @@ Contemporary expressions, slang, and very colloquial language.
 | 💥 What the hell? | what the hell? | was zur Hölle? | che cazzo? | τι στο διάολο; | какво по дяволите? |
 | 😤 Damn it! | damn it! | verdammt! | merda! | γαμώτο! | по дяволите! |
 | 🔥 Damn (intensifier) | damn foreigner; damn good | verdammter Ausländer; verdammt gut | dannato straniero; dannato buono | καταραμένος ξένος; πολύ καλός | проклет чужденец; много добър |
+| 💥 Won't they fucking take that | won't they fucking take that | werden die das verdammt nicht nehmen | non lo prenderanno, cazzo | δεν θα το πάρουν, γαμώτο | няма ли да го вземат, по дяволите |
+| 😤 Stop being dramatic | stop being dramatic | hör auf zu dramatisieren | smettila di fare il/la drammatico/a | σταμάτα να κάνεις δράμα | стига си вдигала джабала |
 
 ---
 **Tips**: Use these for casual, contemporary conversations. Some are quite informal!

@@ -64,6 +64,8 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | 🔄 All the same/anyway | all the same; anyway | trotzdem; sowieso | comunque; lo stesso | έτσι κι αλλιώς; παρόλα αυτά | все пак |
 | 🇮🇹 Usually | usually | normalerweise; gewöhnlich | di solito | συνήθως | обикновено |
 | 🔄 As well | as well; also | auch; ebenso | pure; anche | επίσης | също така |
+| 🤷 And without this anyway | and without this anyway | und ohne das sowieso | e senza questo comunque | και χωρίς αυτό έτσι κι αλλιώς | и без това/така или иначе |
+| 🎯 Even gives an example with | even gives an example with | gibt sogar ein Beispiel mit | dà perfino un esempio con | δίνει μάλιστα παράδειγμα με | дори дава пример с |
 
 ---
 **Tips**: Perfect for starting conversations, structuring discourse, or buying time while thinking.

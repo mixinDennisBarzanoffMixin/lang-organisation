@@ -59,6 +59,8 @@ Basic quantifiers, amounts, and degree expressions.
 | 📉 As little as | as little as | so wenig wie | così poco come | όσο λίγο | толкова малко колкото |
 | 🎒 A lot (Italian) | a lot; loads | eine Menge | un sacco | ένα σωρό | купища |
 | 🔢 A few things | a few things | ein paar Sachen | alcune cose | μερικά πράγματα | няколко неща |
+| 📉 Even lower | even lower | noch niedriger | ancora più basso | ακόμα πιο χαμηλά | още по-ниско |
+| 🎯 To do it anyway | to do it anyway | es trotzdem zu machen | farlo comunque | να το κάνει οπωσδήποτε | да го направι все пак |
 
 ---
 **Tips**: Essential for expressing quantities, degrees, and amounts in conversation.

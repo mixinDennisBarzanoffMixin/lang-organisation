@@ -57,6 +57,10 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🎯 As it pertains to X | as it pertains to X; regarding X | was X betrifft | per quanto riguarda X | όσο αφορά X | що се отнася до X |
 | 🔄 The same way | the same way | auf dieselbe Weise | allo stesso modo | με τον ίδιο τρόπο | по същия начин |
 | 💡 Turns out | turns out; it turns out that | es stellt sich heraus | si scopre; viene fuori | αποδεικνύεται | оказва се |
+| 🇩🇪 If applicable | if applicable; if necessary | gegebenenfalls | se necessario | εάν χρειαστεί | ако е необходимо |
+| 🔄 Distributed across | distributed across multiple X | verteilt über mehrere X hinweg | distribuito su più X | κατανεμημένο σε πολλά X | разпределен между няколко X |
+| 🔄 Either through X or Y | either through X or through Y | entweder durch X oder durch Y | o attraverso X o attraverso Y | είτε μέσα από X είτε από Y | или чрез X, или чрез Y |
+| 📤 Take from X out | take out from X; extract from X | aus X herausnehmen | prendere da X fuori | βγάλω από X | вземам от X навън |
 
 ---
 **Tips**: Essential for building complex arguments and explanations.
