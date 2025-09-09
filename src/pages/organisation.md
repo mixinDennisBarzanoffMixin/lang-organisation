@@ -50,6 +50,13 @@ Small, reusable speaking blocks for language practice organized by topic.
 
 **Navigation**: Click the category links above to explore specific expression types in detail.
 
+## 📖 Word Progressions
+
+**NEW**: [Word Progressions (L1→L2→L3)](./words/) - Vocabulary building from basic to advanced
+- Structured vocabulary development across all languages
+- LIKE, GOOD, SAY progressions and more
+- Perfect complement to expression blocks
+
 ## 🎯 Recent Additions
 - Bulgarian imperatives: "я направи X", "я виж ти!"
 - Discourse markers: "и без това", "няма вече как"
