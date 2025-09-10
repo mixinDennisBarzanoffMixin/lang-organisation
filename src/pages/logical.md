@@ -26,6 +26,7 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🔗 Since | since | seit; da | da; poiché | αφού; από τότε που | откакто; тъй като |
 | 🧷 "I mean" | I mean | ich meine | cioè | δηλαδή | демек; в смисъл |
 | 🔄 Though (end) | though | allerdings; doch | però; anche se | όμως | обаче |
+| 🔄 However/but | however; but | jedoch; aber | però; ma | ωστόσο; αλλά | обаче; но |
 | 🚧 Despite | despite; in spite of | trotz | nonostante | παρά | въпреки |
 | 🔄 Even though | even though | auch wenn; obwohl | anche se; benché | ακόμα κι αν; αν και | въпреки че; дори и |
 | 🔀 Otherwise | otherwise | sonst; andernfalls | altrimenti | αλλιώς | иначе |
@@ -61,6 +62,8 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🔄 Distributed across | distributed across multiple X | verteilt über mehrere X hinweg | distribuito su più X | κατανεμημένο σε πολλά X | разпределен между няколко X |
 | 🔄 Either through X or Y | either through X or through Y | entweder durch X oder durch Y | o attraverso X o attraverso Y | είτε μέσα από X είτε από Y | или чрез X, или чрез Y |
 | 📤 Take from X out | take out from X; extract from X | aus X herausnehmen | prendere da X fuori | βγάλω από X | вземам от X навън |
+| 🔄 But overall it was X | but overall, it was X | aber insgesamt war es X | ma nel complesso era X | αλλά συνολικά ήταν X | но като цяло беше X |
+| 🚫 Not one of these things can | not one of these things can... | nicht eines dieser Dinge kann... | nessuna di queste cose può... | κανένα από αυτά δεν μπορεί... | нито едно от тия неща не може... |
 
 ---
 **Tips**: Essential for building complex arguments and explanations.

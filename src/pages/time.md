@@ -54,6 +54,7 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | 🔜 From now on | from now on | von jetzt an | d'ora in poi | από τώρα και μετά | отсега нататък |
 | 🔄 Again | again | wieder; nochmal | di nuovo; ancora | πάλι; ξανά | пак; отново |
 | ⏰ For now | for now | für jetzt; vorerst | per ora | προς το παρόν | засега |
+| 🕰️ Until now/so far | until now; so far | bisher | finora | μέχρι τώρα | до сега |
 
 ---
 **Tips**: Combine with other blocks for natural time flow in conversation.

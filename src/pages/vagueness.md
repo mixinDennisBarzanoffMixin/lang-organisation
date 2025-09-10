@@ -33,6 +33,8 @@ Expressions for being vague, uncertain, or softening statements.
 | 🔮 It's probably going to be | it's probably going to be something like X | es wird wahrscheinlich so was wie X sein | probabilmente sarà qualcosa come X | μάλλον θα είναι κάτι σαν X | вероятно ще бъде нещо като X |
 | 🤷 Or whatever kind of | or whatever kind of X | oder was für ein X auch immer | o qualsiasi tipo di X | ή ό,τι είδος X | или каквото и да е X |
 | 🎚️ Quite strange | quite strange | parecchio strano | piuttosto strano | αρκετά παράξενο | доста странно |
+| 🕐 Maybe as late as X | maybe as late as X | vielleicht erst X | forse fino a X | ίσως μέχρι X | май чак X |
+| 🤷 Barely brings anything anymore | barely brings anything anymore | bringt es kaum noch etwas | ormai non porta quasi più nulla | δεν φέρνει πια σχεδόν τίποτα | вече почти нищо не носи |
 
 ---
 **Tips**: Use these when you want to be less direct or show uncertainty.

@@ -36,6 +36,7 @@ Expressions for emphasizing points and focusing attention.
 | 💥 Emphatic contradiction | oh yes (I do)!; but I am! | doch! | invece sì!; ma sì! | μα ναι!; όμως είμαι! | ама пък да!; все пак съм! |
 | 🎯 Let me do X | let me do X | lass mich X machen | lasciami fare X | άσε με να κάνω X | я направи X |
 | 👀 Look at you! | look at you! | schau dich an! | guardati! | κοίτα σε! | я виж ти! |
+| 😤 How dare you/I have something to say | what do you think you are, I *first* have to... | was bildest du dir ein, ich *zuerst* muss... | ma chi ti credi di essere, io *prima* devo... | τι νομίζεις ότι είσαι, εγώ *πρώτα* πρέπει να... | що си се разгордял, аз *те първа* имам да... |
 
 | 🎯 Exactly/bravo | exactly!; bravo! | genau!; bravo! | esatto!; bravo! | ε, μπράβο!; ακριβώς! | точно!; браво! |
 
