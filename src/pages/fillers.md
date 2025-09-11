@@ -8,15 +8,16 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 ### Discourse starters and fillers
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
-| 🧩 Warm-up/filler | uh, well…; you know | äh, also… | eh, allora… | ε, λοιπόν… | абе…, ами… |
+| 🧩 Warm-up/filler | uh, well…; you know | äh, also… | eh, allora… | ε, λοιπόν… | абе…, ами…; лелеее |
+
 | 🧩 Generalizing | basically; overall; essentially | im Großen und Ganzen | in generale | γενικά; συνολικά | общо взето |
 | 👀 Getting attention | look, here's the thing | schau/also, folgendes | guarda, senti | κοίτα, άκου | виж сега |
-| 💥 Strong reaction (colloq.) | damn…; whoa | verdammt…; boah | cavolo…; accidenti | πωω…; που να πάρει… | ебаси… (разг.) |
+| 💥 Strong reaction (colloq.) | damn…; whoa | verdammt…; boah | cavolo…; accidenti; ma donna! | πωω…; που να πάρει…; μα τη Παναγία! | ебаси… (разг.); лелеее |
 | 💬 I mean | I mean; in the sense that | ich meine; im Sinne von | cioè | δηλαδή | в смисъл |
 | 🤔 Thinking while saying | I mean; you know, it's like | ich meine; weißt du, es ist wie | cioè; sai, è come | δηλαδή; ξέρεις, είναι σαν | в смисъл; знаеш, като че ли |
 | 💬 Just to say | just to say; per dire | nur um zu sagen | per dire | για να πω | само да кажа |
 | 🇮🇹 Ostensibly | ostensibly; apparently | angeblich; scheinbar | δήθεν | δήθεν | уж; привидно |
-| 🤫 To be honest | to be honest | um ehrlich zu sein | a dire la verità | να σου πω την αλήθεια | да ти кажа |
+| 🤫 To be honest | to be honest | um ehrlich zßu sein | a dire la verità | να σου πω την αλήθεια | да ти кажа |
 | 🙄 Come on | come on | komm schon | dai | άντε | айде де |
 | 👍 Agreement | yeah, exactly; right | stimmt; genau | esatto; giusto | ναι σωστά; ακριβώς | точно така; вярно |
 | 🤔 Thinking | let me think… | lass mich nachdenken… | fammi pensare… | άσε να σκεφτώ… | чакай да помисля… |

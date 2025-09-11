@@ -11,7 +11,7 @@ Expressions for being vague, uncertain, or softening statements.
 | 🌀 Etc./whatever | whatever; and so on | und so weiter; irgendwas halt | e così via; qualsiasi cosa | και τα λοιπά; ό,τι να 'ναι | не знам си какво… |
 | 🔁 So/that means | so; that means | also; das heißt | quindi; cioè | άρα; δηλαδή | значи |
 | 🚧 But (soft) | but | aber | ma | αλλά | ама |
-| ✅ Tag "right?" | right?; yeah? | ne?; gell? | no?; vero? | έτσι; σωστά; ε; | нали? |
+| ✅ Tag "right?" | right?; yeah? | ne?; gell? | no?; vero? | έτσι; σωστά; ε; | нали?; нали вече спа не |
 | 🧠 Can't recall | what was it again… | wie hieß das noch mal… | come si chiamava già… | πώς το λέγανε… | к'во беше там… |
 | 📦 Stuff like that | stuff like that | so was halt | cose del genere | τέτοια πράγματα | такива там |
 | 🪄 Soft need | I kinda need to… | ich sollte mal… | dovrei un po'… | κάπως πρέπει να… | нещо трябва да… |
@@ -19,6 +19,9 @@ Expressions for being vague, uncertain, or softening statements.
 | 🇮🇹 Stuff/things | stuff; things | Sachen; Zeug | roba; cose | πράγματα; αντικείμενα | неща; работи |
 | 🤷 Gradually | gradually | allmählich | gradualmente | σταδιακά | постепенно |
 | 🤷 And whatnot | and whatnot | und so weiter | e cose del genere | και τα λοιπά | и какво ли не |
+| 🇮🇹 Nothing difficult | nothing difficult | nichts Schwieriges | niente di difficile | τίποτα δύσκολο | нищо трудно |
+| 🇮🇹 Inside itself | inside itself | in sich selbst | dentro di sé | μέσα του | в себе си |
+| 🇧🇬 Not much what/how/why | not much what/how/why | nicht viel was/wie/warum | non molto cosa/come/perché | όχι πολύ τι/πώς/γιατί | то няма много какво/как/защо |
 | 🌫️ Kind of | kind of; sozusagen | sozusagen; irgendwie | per così dire; tipo | ας πούμε; κάπως | така да се каже; нещо като |
 | 🤷 Doesn't matter | it doesn't matter | es ist egal; macht nichts | non importa | δεν πειράζει; δεν έχει σημασία | няма значение |
 

@@ -29,6 +29,7 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | 🔀 In the meantime | in the meantime | in der Zwischenzeit | nel frattempo | στο μεταξύ | междувременно |
 | 🇮🇹 In the meantime | in the meantime | inzwischen | nel frattempo | στο μεταξύ | междувременно |
 | 🇩🇪 So far/until now | so far; until now | bislang | finora | μέχρι τώρα | досега |
+| 🇩🇪 Haven't responded so far | they haven't responded so far | sie haben bislang nicht geantwortet | non hanno ancora risposto | δεν έχουν απαντήσει ακόμα | все още не са отговорили |
 | 🚫 Almost/nearly | almost; nearly | fast; beinahe | за малко да | για λίγο να | за малко да |
 | ↔️ Between X and Y | between X and Y | zwischen X und Y | tra X e Y | ανάμεσα σε Χ και Ψ | между Х и Y |
 | ⏱️ During | during | während | durante | κατά τη διάρκεια | по време на |

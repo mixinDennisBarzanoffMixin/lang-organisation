@@ -22,6 +22,7 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🔗 Until | until | bis | fino a | μέχρι; έως | до |
 | 🔗 Which/that | which; that | welches; das | che; il quale | που; ο οποίος | който/която |
 | 🔗 While | while | während | mentre | ενώ; καθώς | докато |
+| 🔗 While the other... | while the other... | während die andere... | mentre l'altra... | ενώ η άλλη... | докато другите... |
 | 🔗 As (temporal) | as we are doing X; as this happens | während wir X machen; als das passiert | mentre facciamo X; mentre succede | καθώς κάνουμε X; καθώς συμβαίνει αυτό | докато правим X; докато се случва това |
 | 🔗 Since | since | seit; da | da; poiché | αφού; από τότε που | откакто; тъй като |
 | 🧷 "I mean" | I mean | ich meine | cioè | δηλαδή | демек; в смисъл |
@@ -30,8 +31,7 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🚧 Despite | despite; in spite of | trotz | nonostante | παρά | въпреки |
 | 🔄 Even though | even though | auch wenn; obwohl | anche se; benché | ακόμα κι αν; αν και | въпреки че; дори и |
 | 🔀 Otherwise | otherwise | sonst; andernfalls | altrimenti | αλλιώς | иначе |
-| 💡 In fact/actually | in fact; actually | eigentlich; in der Tat | infatti; in realtà | στην πραγματικότητα; πραγματικά | всъщност; в действителност |
-| 🇮🇹 Indeed/in fact | indeed; in fact | in der Tat; tatsächlich | infatti | πράγματι; όντως | наистина; всъщност |
+| 💡 In fact/actually/indeed | in fact; actually; indeed | eigentlich; in der Tat; tatsächlich | infatti; in realtà | στην πραγματικότητα; πραγματικά; πράγματι; όντως | всъщност; в действителност; наистина |
 | 🇮🇹 However | however | jedoch; allerdings | tuttavia | ωστόσο; όμως | обаче; въпреки това |
 | 🎯 Not only | not only… (but also) | nicht nur… (sondern auch) | non solo… (ma anche) | όχι μόνο… (αλλά και) | не само… (но и) |
 | 🚫 Not just | not just… | nicht nur… | non solo… | όχι απλώς… | не просто… |
@@ -57,7 +57,7 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🇮🇹 Let alone | let alone; much less | geschweige denn | figuriamoci | πόσο μάλλον | камо ли |
 | 🔄 Or rather | or rather | besser gesagt | o meglio | ή μάλλον | или по-скоро |
 | 🎯 As far as that's concerned | as far as that's concerned | was das betrifft | per quanto riguarda questo | όσο αφορά αυτό | що се отнася до това |
-| 🎯 As it pertains to X | as it pertains to X; regarding X | was X betrifft | per quanto riguarda X | όσο αφορά X | що се отнася до X |
+| 🎯 As it pertains to X | as it pertains to X; regarding X | was X betrifft | per quanto riguarda X | όσο αφορά X; όσο αναφορά X | що се отнася до X |
 | 🔄 The same way | the same way | auf dieselbe Weise | allo stesso modo | με τον ίδιο τρόπο | по същия начин |
 | 💡 Turns out | turns out; it turns out that | es stellt sich heraus | si scopre; viene fuori | αποδεικνύεται | оказва се |
 | 🇩🇪 If applicable | if applicable; if necessary | gegebenenfalls | se necessario | εάν χρειαστεί | ако е необходимо |
@@ -69,6 +69,16 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🔄 In view of the fact that | in view of the fact that | angesichts der Tatsache, dass | in vista del fatto che | ενόψει του γεγονότος ότι | предвид факта, че |
 | 🔄 All in all | all in all | alles in allem | tutto sommato | συνολικά; όλα μαζί | все пак; като цяло |
 | 🔄 To a large extent | to a large extent | in großem Maße | in gran parte | σε μεγάλο βαθμό | до голяма степен |
+| 🇩🇪 Whereby/while | whereby; while | wobei | mentre | ενώ; καθώς | като; докато |
+| 🇩🇪 Out of it/from that | out of it; from that | daraus zu machen | farne qualcosa | από αυτό να κάνω | от това да направя |
+| 🇩🇪 In this regard | in this regard | in dieser Hinsicht | a questo riguardo | σε αυτή την άποψη | в това отношение |
+| 🇩🇪 Enclosed/attached | enclosed; attached | anbei bekommen Sie | in allegato riceverete | επισυνάπτεται | в приложение получавате |
+| 🇩🇪 Come here/bring | come here; bring | die Menschen sind herbeigekommen | la gente è venuta | οι άνθρωποι ήρθαν | хората дойдоха |
+| 🇩🇪 Through the making | through the making of X | durch die Machung von X | attraverso il fare X | μέσω του κάνω X | чрез правенето на X |
+| 🇩🇪 Not but rather | not... but rather | nicht... sondern eher | non... ma piuttosto | όχι... αλλά μάλλον | не... а по-скоро |
+| 🇩🇪 Via LinkedIn/Facebook | via LinkedIn; via Facebook | über LinkedIn; über Facebook | tramite LinkedIn; tramite Facebook | μέσω LinkedIn; μέσω Facebook | чрез LinkedIn; чрез Facebook |
+| 🔄 Used alongside | used alongside to do X | verwendet zusammen mit X zu tun | usato insieme per fare X | χρησιμοποιείται μαζί για να κάνω X | използван заедно за да направя X |
+| 🔄 Make sure to | make sure to X | stell sicher, dass du X machst | assicurati di fare X | φρόντισε να κάνεις X | погрижи се да направиш X |
 | 🚫 Not one of these things can | not one of these things can... | nicht eines dieser Dinge kann... | nessuna di queste cose può... | κανένα από αυτά δεν μπορεί... | нито едно от тия неща не може... |
 
 ---

@@ -39,10 +39,14 @@ Expressions for emphasizing points and focusing attention.
 | 😤 How dare you/I have something to say | what do you think you are, I *first* have to... | was bildest du dir ein, ich *zuerst* muss... | ma chi ti credi di essere, io *prima* devo... | τι νομίζεις ότι είσαι, εγώ *πρώτα* πρέπει να... | що си се разгордял, аз *те първа* имам да... |
 
 | 🎯 Exactly/bravo | exactly!; bravo! | genau!; bravo! | esatto!; bravo! | ε, μπράβο!; ακριβώς! | точно!; браво! |
-| 🚫 Not so! | not so!; that's not right! | nicht so!; das stimmt nicht! | non è così! | δεν είναι έτσι! | не е така! |
+| 🚫 Not so! | not so!; that's not right! | nicht so!; das stimmt nicht! | non è così! | δεν είναι έτσι! | не е така!; еее така деее, нали, ок |
 | 🎯 Exactly that! | exactly that!; that's it! | genau das!; das ist es! | proprio quello!; ecco! | ακριβώς αυτό!; α, αυτό! | точно това!; а това! |
 | 🔥 Totally fine | totally fine | völlig in Ordnung | perfettamente bene | εντελώς εντάξει | напълно наред |
-| 🚫 I won't even | I won't even... | ich werde nicht einmal... | non farò nemmeno... | δεν θα κάνω καν... | ееε чак да... не... |
+| 🚫 I won't even | I won't even... | ich werde nicht einmal... | non farò nemmeno... | δεν θα κάνω καν... | еее чак да... не... |
+| 🇬🇷 Actually/really | actually; you know what | πραγματικά; ξέρεις τι | wirklich; weißt du was | davvero; sai che | πράγματι; ξέρεις τι | наистина; знаеш ли какво |
+| 🔄 I couldn't resist | I couldn't handle/resist/help, but to come back | ich konnte nicht widerstehen, aber zurückzukommen | non potevo resistere, ma tornare | δεν μπόρεσα να αντισταθώ, αλλά να γυρίσω | не можах да се въздържа, но да се върна |
+| 🔄 It won't matter anyway | it won't matter anyway | es wird sowieso nicht wichtig sein | non importerà comunque | δεν θα έχει σημασία έτσι κι αλλιώς; δεν έχει σημασία τέλος πάντων | така или иначе няма да има значение |
+| 🚫 I won't do it anyway | I won't do it anyway | ich werde es sowieso nicht machen | non lo farò comunque | δεν θα το κάνω έτσι κι αλλιώς | така или иначе няма да го направя |
 
 ---
 **Tips**: Great for making your point clear and adding emotional impact.
