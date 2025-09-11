@@ -39,6 +39,10 @@ Expressions for emphasizing points and focusing attention.
 | 😤 How dare you/I have something to say | what do you think you are, I *first* have to... | was bildest du dir ein, ich *zuerst* muss... | ma chi ti credi di essere, io *prima* devo... | τι νομίζεις ότι είσαι, εγώ *πρώτα* πρέπει να... | що си се разгордял, аз *те първа* имам да... |
 
 | 🎯 Exactly/bravo | exactly!; bravo! | genau!; bravo! | esatto!; bravo! | ε, μπράβο!; ακριβώς! | точно!; браво! |
+| 🚫 Not so! | not so!; that's not right! | nicht so!; das stimmt nicht! | non è così! | δεν είναι έτσι! | не е така! |
+| 🎯 Exactly that! | exactly that!; that's it! | genau das!; das ist es! | proprio quello!; ecco! | ακριβώς αυτό!; α, αυτό! | точно това!; а това! |
+| 🔥 Totally fine | totally fine | völlig in Ordnung | perfettamente bene | εντελώς εντάξει | напълно наред |
+| 🚫 I won't even | I won't even... | ich werde nicht einmal... | non farò nemmeno... | δεν θα κάνω καν... | ееε чак да... не... |
 
 ---
 **Tips**: Great for making your point clear and adding emotional impact.

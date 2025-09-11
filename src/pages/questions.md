@@ -11,6 +11,9 @@ Question words and interactive expressions for conversation.
 | ❓ What do you mean? | what do you mean? | was meinst du? | cosa intendi? | τι εννοείς; | какво имаш предвид? |
 | ❓ Why? How come? | why? how come? | warum? wieso? | perché? come mai? | γιατί; πώς έτσι; | защо? как така? |
 | ❓ Really? Is that so? | really? is that so? | wirklich? ach so? | davvero? è così? | αλήθεια; έτσι είναι; | вярно ли? така ли е? |
+| ❓ What's the difference? | what's the difference? | was ist der Unterschied? | qual è la differenza? | ποια είναι η διαφορά; | каква е разликата? |
+| ❓ What's next? | what's next? | was kommt als nächstes? | cosa c'è dopo? | τι γίνεται περαιτέρω; | какво следва? |
+| ❓ Where should I help? | where should I help? | wo soll ich helfen? | dove dovrei aiutare? | πού πρέπει να βοηθήσω; | къде трябва да помогна? |
 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG |

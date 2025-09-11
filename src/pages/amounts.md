@@ -21,6 +21,8 @@ Basic quantifiers, amounts, and degree expressions.
 | 🔄 Often | often | oft | spesso | συχνά | често |
 | 🚀 Insanely | insanely | wahnsinnig | follemente | τρελά | безумно |
 | 🚀 Extremely | extremely | extrem; äußerst | estremamente | εξαιρετικά; πάρα πολύ | изключително |
+| 🇩🇪 Significantly/much | significantly; much more | wesentlich mehr | molto di più | πολύ περισσότερο | значително повече |
+| 🇩🇪 Absolutely/must | absolutely; must | unbedingt | assolutamente | απαραίτητα | непременно |
 | 🚀 So much | so much | so sehr | così tanto | τόσο πολύ | толкова много |
 | 😎 So cool/strong | so cool/strong | so cool/stark | così figo/forte | τόσο ωραίο/δυνατό | толкова яко/силно |
 | 🔇 At all | at all (not at all) | überhaupt (gar nicht) | affatto; per niente | καθόλου | изобщо |

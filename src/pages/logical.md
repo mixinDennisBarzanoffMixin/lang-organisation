@@ -31,6 +31,8 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🔄 Even though | even though | auch wenn; obwohl | anche se; benché | ακόμα κι αν; αν και | въпреки че; дори и |
 | 🔀 Otherwise | otherwise | sonst; andernfalls | altrimenti | αλλιώς | иначе |
 | 💡 In fact/actually | in fact; actually | eigentlich; in der Tat | infatti; in realtà | στην πραγματικότητα; πραγματικά | всъщност; в действителност |
+| 🇮🇹 Indeed/in fact | indeed; in fact | in der Tat; tatsächlich | infatti | πράγματι; όντως | наистина; всъщност |
+| 🇮🇹 However | however | jedoch; allerdings | tuttavia | ωστόσο; όμως | обаче; въпреки това |
 | 🎯 Not only | not only… (but also) | nicht nur… (sondern auch) | non solo… (ma anche) | όχι μόνο… (αλλά και) | не само… (но и) |
 | 🚫 Not just | not just… | nicht nur… | non solo… | όχι απλώς… | не просто… |
 | 🔗 Therefore (strong) | hence; thus | folglich; somit | dunque; pertanto | συνεπώς | следователно |
@@ -63,6 +65,10 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🔄 Either through X or Y | either through X or through Y | entweder durch X oder durch Y | o attraverso X o attraverso Y | είτε μέσα από X είτε από Y | или чрез X, или чрез Y |
 | 📤 Take from X out | take out from X; extract from X | aus X herausnehmen | prendere da X fuori | βγάλω από X | вземам от X навън |
 | 🔄 But overall it was X | but overall, it was X | aber insgesamt war es X | ma nel complesso era X | αλλά συνολικά ήταν X | но като цяло беше X |
+| 🔄 According to | according to | laut; nach | secondo | σύμφωνα με | според |
+| 🔄 In view of the fact that | in view of the fact that | angesichts der Tatsache, dass | in vista del fatto che | ενόψει του γεγονότος ότι | предвид факта, че |
+| 🔄 All in all | all in all | alles in allem | tutto sommato | συνολικά; όλα μαζί | все пак; като цяло |
+| 🔄 To a large extent | to a large extent | in großem Maße | in gran parte | σε μεγάλο βαθμό | до голяма степен |
 | 🚫 Not one of these things can | not one of these things can... | nicht eines dieser Dinge kann... | nessuna di queste cose può... | κανένα από αυτά δεν μπορεί... | нито едно от тия неща не може... |
 
 ---

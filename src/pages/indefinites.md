@@ -28,6 +28,8 @@ Something, someone, somewhere - and their negative counterparts.
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🔄 Whatever/anything | whatever; anything | was auch immer; irgendwas | qualsiasi cosa; qualcosa | ό,τι να 'ναι; οτιδήποτε | каквото и да е; нещо си |
+| 🇮🇹 Any such | any such; qualsiasi | jede solche | qualsiasi | οποιοδήποτε τέτοιο | всякакъв такъв |
+| 🔘 Those ones | those ones | jene; diese da | quelli; quelli lì | εκείνα; αυτά εκεί | ония; тия |
 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG |

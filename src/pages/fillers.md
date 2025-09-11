@@ -13,6 +13,9 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | 👀 Getting attention | look, here's the thing | schau/also, folgendes | guarda, senti | κοίτα, άκου | виж сега |
 | 💥 Strong reaction (colloq.) | damn…; whoa | verdammt…; boah | cavolo…; accidenti | πωω…; που να πάρει… | ебаси… (разг.) |
 | 💬 I mean | I mean; in the sense that | ich meine; im Sinne von | cioè | δηλαδή | в смисъл |
+| 🤔 Thinking while saying | I mean; you know, it's like | ich meine; weißt du, es ist wie | cioè; sai, è come | δηλαδή; ξέρεις, είναι σαν | в смисъл; знаеш, като че ли |
+| 💬 Just to say | just to say; per dire | nur um zu sagen | per dire | για να πω | само да кажа |
+| 🇮🇹 Ostensibly | ostensibly; apparently | angeblich; scheinbar | δήθεν | δήθεν | уж; привидно |
 | 🤫 To be honest | to be honest | um ehrlich zu sein | a dire la verità | να σου πω την αλήθεια | да ти кажа |
 | 🙄 Come on | come on | komm schon | dai | άντε | айде де |
 | 👍 Agreement | yeah, exactly; right | stimmt; genau | esatto; giusto | ναι σωστά; ακριβώς | точно така; вярно |

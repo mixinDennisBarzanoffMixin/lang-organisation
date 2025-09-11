@@ -16,6 +16,9 @@ Expressions for being vague, uncertain, or softening statements.
 | 📦 Stuff like that | stuff like that | so was halt | cose del genere | τέτοια πράγματα | такива там |
 | 🪄 Soft need | I kinda need to… | ich sollte mal… | dovrei un po'… | κάπως πρέπει να… | нещо трябва да… |
 | 🤷 Well… | well… | tja… | eh… | ε… | еми… |
+| 🇮🇹 Stuff/things | stuff; things | Sachen; Zeug | roba; cose | πράγματα; αντικείμενα | неща; работи |
+| 🤷 Gradually | gradually | allmählich | gradualmente | σταδιακά | постепенно |
+| 🤷 And whatnot | and whatnot | und so weiter | e cose del genere | και τα λοιπά | и какво ли не |
 | 🌫️ Kind of | kind of; sozusagen | sozusagen; irgendwie | per così dire; tipo | ας πούμε; κάπως | така да се каже; нещо като |
 | 🤷 Doesn't matter | it doesn't matter | es ist egal; macht nichts | non importa | δεν πειράζει; δεν έχει σημασία | няма значение |
 

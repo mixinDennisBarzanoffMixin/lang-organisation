@@ -27,6 +27,9 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | ⏱️ X ago | X minutes/days ago | vor X Minuten/Tagen | X minuti/giorni fa | πριν από Χ λεπτά/μέρες | преди Х минути/дни |
 | ⏭️ After | after | nach; nachdem | dopo (che) | μετά (που) | след (като) |
 | 🔀 In the meantime | in the meantime | in der Zwischenzeit | nel frattempo | στο μεταξύ | междувременно |
+| 🇮🇹 In the meantime | in the meantime | inzwischen | nel frattempo | στο μεταξύ | междувременно |
+| 🇩🇪 So far/until now | so far; until now | bislang | finora | μέχρι τώρα | досега |
+| 🚫 Almost/nearly | almost; nearly | fast; beinahe | за малко да | για λίγο να | за малко да |
 | ↔️ Between X and Y | between X and Y | zwischen X und Y | tra X e Y | ανάμεσα σε Χ και Ψ | между Х и Y |
 | ⏱️ During | during | während | durante | κατά τη διάρκεια | по време на |
 
