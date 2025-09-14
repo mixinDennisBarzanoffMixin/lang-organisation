@@ -25,6 +25,7 @@ Expressions for emphasizing points and focusing attention.
 | 👍 Okay | ok; alright | ok; alles klar | ok; d'accordo | οκ; εντάξει | окей; добре |
 | 🤩 Wow | wow! | wow! | wow! | ουάου! | уау! |
 | 😅 Oops | oops! | ups! | ops! | ωπας! | опа! |
+| 😲 Surprised | oh my!; whoa! | ach du meine Güte!; boah! | madonna mia!; ma donna! | μαμά μου!; ωχ! | лелеее! |
 
 ### Strong constructions
 | Concept | EN | DE | IT | GR | BG |
@@ -43,6 +44,7 @@ Expressions for emphasizing points and focusing attention.
 | 🎯 Exactly that! | exactly that!; that's it! | genau das!; das ist es! | proprio quello!; ecco! | ακριβώς αυτό!; α, αυτό! | точно това!; а това! |
 | 🔥 Totally fine | totally fine | völlig in Ordnung | perfettamente bene | εντελώς εντάξει | напълно наред |
 | 🚫 I won't even | I won't even... | ich werde nicht einmal... | non farò nemmeno... | δεν θα κάνω καν... | еее чак да... не... |
+| 🇧🇬 I don't know shit | I don't know shit about English | ich kann kein Wort Englisch | non so un cavolo di inglese | δεν ξέρω τίποτα αγγλικά | аз не знам БЪКЕЛ английски |
 | 🇬🇷 Actually/really | actually; you know what | πραγματικά; ξέρεις τι | wirklich; weißt du was | davvero; sai che | πράγματι; ξέρεις τι | наистина; знаеш ли какво |
 | 🔄 I couldn't resist | I couldn't handle/resist/help, but to come back | ich konnte nicht widerstehen, aber zurückzukommen | non potevo resistere, ma tornare | δεν μπόρεσα να αντισταθώ, αλλά να γυρίσω | не можах да се въздържа, но да се върна |
 | 🔄 It won't matter anyway | it won't matter anyway | es wird sowieso nicht wichtig sein | non importerà comunque | δεν θα έχει σημασία έτσι κι αλλιώς; δεν έχει σημασία τέλος πάντων | така или иначе няма да има значение |

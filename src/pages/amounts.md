@@ -12,6 +12,8 @@ Basic quantifiers, amounts, and degree expressions.
 | 🎚️ Likely | likely; probably | wahrscheinlich | probabilmente | μάλλον; πιθανότατα | вероятно |
 | 🎚️ Sort of | sort of; kind of | so irgendwie; sozusagen | un po'; tipo | κάπως; τύπου | като че ли; донякъде |
 | 📈 Most of | most of | die meisten von | la maggior parte di | οι περισσότεροι; το μεγαλύτερο μέρος | повечето от |
+| 📈 The most | the most | das meiste; am meisten | il più; di più | το πιο πολύ; περισσότερο | най-много |
+| 📉 The least | the least; the one I know the least | das wenigste; am wenigsten | il meno; quello che conosco meno | το λιγότερο; αυτό που ξέρω λιγότερο | най-малко; това което знам най-малко |
 | 📉 At least | at least | mindestens; wenigstens | almeno | τουλάχιστον | поне |
 | 📉 At most/max | at most; maximum | höchstens; maximal | al massimo | το πολύ; μέγιστο | най-много; максимум |
 | 📉 At minimum | at minimum | zumindest; minimal | al minimo | τουλάχιστον; ελάχιστο | минимум; поне |

@@ -31,7 +31,7 @@ Conditional statements, concessions, and purpose expressions.
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 🔄 Whether X or Y | whether X or Y | bilo to X или Y | sia X che Y | είτε X είτε Y | било то X или Y |
-| ⏳ After X, then Y | after X, then Y | nach X, dann Y | dopo X, allora Y | μετά το X, τότε Y | след като X, значи Y |
+| ⏳ Since X, then Y | since X, then Y | da X, dann Y; weil X, dann Y | dato che X, allora Y; siccome X, allora Y | αφού X, τότε Y; επειδή X, τότε Y | след като X, значи Y |
 | 🎯 Depending on that, X | depending on that, X | je nach dem, X | a seconda di quello, X | ανάλογα με αυτό, X | в зависимост от това, X |
 
 ### Additional expressions

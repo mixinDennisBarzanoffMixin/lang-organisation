@@ -29,7 +29,7 @@ Contemporary expressions, slang, and very colloquial language.
 | 💥 That was such a... | that was such a...; oh man, that guy | das war so ein...; ach der Typ | quello era così...; oh quello | αυτό ήταν τέτοιο...; ε αυτός | ех, че си такъв... |
 | 🔥 I really like X & Y | I really like X & Y | X & Y gefallen mir richtig gut | mi piace un sacco X & Y | μου αρέσει φουλ X & Y | много ми харесват X & Y |
 | 🗣️ That's what's up, Denis | that's what's up, Denis | so ist das, Denis | ecco come stanno le cose, Denis | έτσι είναι, Ντένις | това бе, Денис |
-| 🎯 And also you know... | and also you know... | und außerdem weißt du... | e poi sai... | και επίσης ξέρεις... | и аз съм с него, нали... |
+| 🎯 And also you know... | and also you know... | und außerdem weißt du... | e poi sai... | και επίσης ξέρεις... | и също знаеш ли... |
 
 ### German particles
 | Concept | EN | DE | IT | GR | BG |
@@ -60,6 +60,9 @@ Contemporary expressions, slang, and very colloquial language.
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 👥 And I'm with him, right... | and I'm with him, right... | und ich bin bei ihm, oder... | e io sto con lui, no... | και εγώ είμαι μαζί του, έτσι... | и аз съм с него, нали... |
+| 😎 You guys are big on | you guys are big on doing X | ihr seid groß darin, X zu machen | voi siete bravi a fare X | εσείς είστε μεγάλοι στο να κάνετε X | вие сте големи по правенето на X |
+| 😕 My lack of X | my lack of X; lack of having done X | mein Mangel an X; mangelnde | la mia mancanza di X | η έλλειψή μου σε X | моята липса на X |
+| 🇬🇷 So that's Greek for you | so that's Greek/X for you (expression) | das ist typisch griechisch/X | ecco il tipico greco/X | αυτό είναι τυπικά ελληνικό/X | това е типично гръцко/X |
 | 🔄 Back and forth | back and forth | hin und her | avanti e indietro | πέρα-δώθε | насам-натам |
 | 😤 Oh come on now... | oh come on now... I won't explain | ach komm schon... ich erkläre nicht | ma dai ora... non spiego | μα έλα τώρα... δεν θα εξηγήσω | абе сегааа... няма да обяснявам |
 | 🤷 Supposedly/apparently | supposedly; apparently | angeblich; scheinbar | a quanto pare; presumibilmente | υποτίθεται; φαίνεται | уж |

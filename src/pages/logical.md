@@ -77,8 +77,17 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🇩🇪 Through the making | through the making of X | durch die Machung von X | attraverso il fare X | μέσω του κάνω X | чрез правенето на X |
 | 🇩🇪 Not but rather | not... but rather | nicht... sondern eher | non... ma piuttosto | όχι... αλλά μάλλον | не... а по-скоро |
 | 🇩🇪 Via LinkedIn/Facebook | via LinkedIn; via Facebook | über LinkedIn; über Facebook | tramite LinkedIn; tramite Facebook | μέσω LinkedIn; μέσω Facebook | чрез LinkedIn; чрез Facebook |
+| 🇩🇪 Otherwise/already sold | otherwise; already sold | anderweitig; schon vorhand verkauft | altrimenti; già venduto | αλλιώς; ήδη πουλημένο | иначе; вече продадено |
+| 🇩🇪 Go up the stairs | go up the stairs | die Treppe hinaufgehen | salire le scale | ανεβαίνω τις σκάλες | качвам се по стълбите |
+| 🇩🇪 Ensures that X happens | ensures that X happens | sorgt für, X zu passieren | fa sì che X accada | φροντίζει να συμβεί X | грижи се X да се случи |
 | 🔄 Used alongside | used alongside to do X | verwendet zusammen mit X zu tun | usato insieme per fare X | χρησιμοποιείται μαζί για να κάνω X | използван заедно за да направя X |
 | 🔄 Make sure to | make sure to X | stell sicher, dass du X machst | assicurati di fare X | φρόντισε να κάνεις X | погрижи се да направиш X |
+| 🤔 Whether it can according to | дали може според мен/вас/това | ob es nach mir/euch/dem geht | se può secondo me/voi/questo | αν μπορεί σύμφωνα με μένα/εσάς/αυτό | дали може според мен/вас/това |
+| 🔄 Regardless of how | regardless of how | unabhängig davon, wie | indipendentemente da come | ανεξάρτητα από το πώς | независимо от това как |
+| 🇮🇹 Everything goes (well) | everything goes (in a certain way) | alles läuft (in einer bestimmten Weise) | tutto venga (organizzato bene/gestito bene) | όλα πάνε (με έναν τρόπο) | всичко върви (по определен начин) |
+| 🇮🇹 That's why you don't | that's why you don't X | deshalb machst du X nicht | ecco perché non (li vedi) | γι' αυτό δεν κάνεις X | ето защо не правиш X |
+| 🔄 And hence why | aaand hence why I applied/did X | und daher warum ich X gemacht habe | e quindi ecco perché ho fatto X | και γι' αυτό έκανα X | и ето защо направих X |
+| 🔄 On the basis of | do X (cancel contract) on the basis of | X machen (Vertrag kündigen) auf der Grundlage von | fare X (cancellare contratto) sulla base di | κάνω X (ακυρώνω συμβόλαιο) με βάση | правя X (прекратявам договор) въз основа на |
 | 🚫 Not one of these things can | not one of these things can... | nicht eines dieser Dinge kann... | nessuna di queste cose può... | κανένα από αυτά δεν μπορεί... | нито едно от тия неща не може... |
 
 ---

@@ -19,9 +19,12 @@ Expressions for being vague, uncertain, or softening statements.
 | 🇮🇹 Stuff/things | stuff; things | Sachen; Zeug | roba; cose | πράγματα; αντικείμενα | неща; работи |
 | 🤷 Gradually | gradually | allmählich | gradualmente | σταδιακά | постепенно |
 | 🤷 And whatnot | and whatnot | und so weiter | e cose del genere | και τα λοιπά | и какво ли не |
+| 🤷 Determine X and whatnot | to determine X and whatnot | X bestimmen und so weiter | determinare X e cose del genere | να καθορίσω X και τα λοιπά | да определя X и какво ли не |
 | 🇮🇹 Nothing difficult | nothing difficult | nichts Schwieriges | niente di difficile | τίποτα δύσκολο | нищо трудно |
+| 🇮🇹 Nothing to show | nothing to show | nichts zu zeigen | niente da mostrare | τίποτα να δείξω | нищо за показване |
 | 🇮🇹 Inside itself | inside itself | in sich selbst | dentro di sé | μέσα του | в себе си |
 | 🇧🇬 Not much what/how/why | not much what/how/why | nicht viel was/wie/warum | non molto cosa/come/perché | όχι πολύ τι/πώς/γιατί | то няма много какво/как/защо |
+| 🤷 Shoot it on the other side | shoot it on the other side over the X | schieß es auf die andere Seite über das X | sparalo dall'altra parte sopra X | ρίξ' το από την άλλη πλευρά πάνω από το X | стреляй го от другата страна над X |
 | 🌫️ Kind of | kind of; sozusagen | sozusagen; irgendwie | per così dire; tipo | ας πούμε; κάπως | така да се каже; нещо като |
 | 🤷 Doesn't matter | it doesn't matter | es ist egal; macht nichts | non importa | δεν πειράζει; δεν έχει σημασία | няма значение |
 

@@ -8,14 +8,15 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 ### Discourse starters and fillers
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
-| 🧩 Warm-up/filler | uh, well…; you know | äh, also… | eh, allora… | ε, λοιπόν… | абе…, ами…; лелеее |
+| 🧩 Warm-up/filler | uh, well…; you know | äh, also… | eh, allora… | ε, λοιπόν… | абе…, ами…;|
 
 | 🧩 Generalizing | basically; overall; essentially | im Großen und Ganzen | in generale | γενικά; συνολικά | общо взето |
 | 👀 Getting attention | look, here's the thing | schau/also, folgendes | guarda, senti | κοίτα, άκου | виж сега |
 | 💥 Strong reaction (colloq.) | damn…; whoa | verdammt…; boah | cavolo…; accidenti; ma donna! | πωω…; που να πάρει…; μα τη Παναγία! | ебаси… (разг.); лелеее |
 | 💬 I mean | I mean; in the sense that | ich meine; im Sinne von | cioè | δηλαδή | в смисъл |
 | 🤔 Thinking while saying | I mean; you know, it's like | ich meine; weißt du, es ist wie | cioè; sai, è come | δηλαδή; ξέρεις, είναι σαν | в смисъл; знаеш, като че ли |
-| 💬 Just to say | just to say; per dire | nur um zu sagen | per dire | για να πω | само да кажа |
+| 🤷 They say... you can't | they say "think", you know, it's like, you can't... | sie sagen "denk", weißt du, es ist wie, du kannst nicht... | dicono "pensa", sai, è come, non puoi... | λένε "σκέψου", ξέρεις, είναι σαν, δεν μπορείς... | казват "мисли", знаеш ли, като че ли, не можеш... |
+| 💬 Just to say | just to say; per dire | nur um zu sagen | per dire; per dire subito | για να πω; για να πω αμέσως | само да кажа; само да кажа веднага |
 | 🇮🇹 Ostensibly | ostensibly; apparently | angeblich; scheinbar | δήθεν | δήθεν | уж; привидно |
 | 🤫 To be honest | to be honest | um ehrlich zßu sein | a dire la verità | να σου πω την αλήθεια | да ти кажа |
 | 🙄 Come on | come on | komm schon | dai | άντε | айде де |
