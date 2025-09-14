@@ -52,6 +52,7 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
+| 📈 Over time X happens | over time... X happens | mit der Zeit... passiert X | col tempo... X succede | με τον καιρό... συμβαίνει X | с времето... X се случва |
 | ⏰ For the past few days | for the past few days | seit ein paar Tagen | da qualche giorno | εδώ και λίγες μέρες | от няколко дни насам |
 | ⏰ Once upon a time | once upon a time there was/had to be | es war einmal; da musste mal | c'era una volta; doveva esserci una volta | κάποτε υπήρχε/έπρεπε | по едно време имаше/трябваше |
 | ⏰ I woke up at 5 o'clock *sharp* | I woke up at 5 o'clock sharp | ich bin um 5 Uhr *pünktlich* aufgewacht | mi sono svegliato alle 5 *in punto* | ξύπνησα στις 5 η ώρα *παρά* | събудих се в 5 часа *точно* |

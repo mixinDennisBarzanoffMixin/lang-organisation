@@ -11,6 +11,7 @@ Contemporary expressions, slang, and very colloquial language.
 | 🤷 I don't care | I don't care; whatever | mir egal; was auch immer | non mi importa; qualsiasi cosa | δεν με νοιάζει; ό,τι να 'ναι | все ми е едно; каквото и да е |
 | 🚫 Forget it | forget it | vergiss es | lascia perdere | άσ' το καλύτερα | остави го |
 | 🤷 Leave it alone | leave it alone | lass es | mani quello | μάνι αυτό | мани това |
+| 🇧🇬 What are you doing? | what are you doing?; what's wrong? | was machst du?; was ist los? | che fai?; che succede? | τι κάνεις; τι γίνεται; | аре бе, кво се стискаш/правиш |
 
 ### Colloquial particles and fillers
 | Concept | EN | DE | IT | GR | BG |
@@ -60,6 +61,10 @@ Contemporary expressions, slang, and very colloquial language.
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
 | 👥 And I'm with him, right... | and I'm with him, right... | und ich bin bei ihm, oder... | e io sto con lui, no... | και εγώ είμαι μαζί του, έτσι... | и аз съм с него, нали... |
+| 🗣️ C'mon man, you gotta | c'mon man, you gotta beat me now | komm schon, du musst mich jetzt schlagen | dai, devi battermi ora | έλα, πρέπει να με νικήσεις τώρα | хайде бе, трябва да ме биеш сега |
+| 😤 Barely managing as is | I'm barely managing things as is | ich schaffe es gerade so | riesco a malapena così | μόλις τα καταφέρνω έτσι | едва се справям както си е |
+| 🧰 Do the job (suffice) | it does the job; to do the job | tut seinen Zweck; die Arbeit machen | fa il suo dovere; fare il lavoro | κάνει τη δουλειά του; να κάνω τη δουλειά | върши работа; да свърша работата |
+| 🇧🇬 You know/have/can it | you know/have/can it; if not, can't rely on it | du kennst/hast/kannst es; sonst unzuverlässig | lo sai/hai/puoi; se no, non affidabile | το ξέρεις/έχεις/μπορείς· αλλιώς δεν βασίζεσαι | я го знаеш/имаш/можеш· иначе не можеш да разчиташ |
 | 😎 You guys are big on | you guys are big on doing X | ihr seid groß darin, X zu machen | voi siete bravi a fare X | εσείς είστε μεγάλοι στο να κάνετε X | вие сте големи по правенето на X |
 | 😕 My lack of X | my lack of X; lack of having done X | mein Mangel an X; mangelnde | la mia mancanza di X | η έλλειψή μου σε X | моята липса на X |
 | 🇬🇷 So that's Greek for you | so that's Greek/X for you (expression) | das ist typisch griechisch/X | ecco il tipico greco/X | αυτό είναι τυπικά ελληνικό/X | това е типично гръцко/X |

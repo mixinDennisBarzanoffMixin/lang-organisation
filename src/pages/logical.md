@@ -50,6 +50,8 @@ Basic logical connections - cause, effect, contrast, addition.
 ### Additional logical constructions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
+| 🎯 For all intents and purposes | for all intents and purposes | praktisch gesehen; im Grunde | a tutti gli effetti | για όλους τους σκοπούς | на практика; в крайна сметка |
+| 🎯 Be it X or Y | be it X or Y | sei es X oder Y | che sia X o Y | είτε X είτε Y | било то X ή Y |
 | 🔀 Instead of (doing) | instead of doing... | anstatt zu...; statt zu... | invece di fare... | αντί να κάνω... | вместо да... |
 | ❓ How come X? | how come X? | wie kommt es dass X? | come mai X? | πώς έτσι X?; πώς γίνεται X? | как така X? |
 | 🔄 If, however, X | if, however, X | wenn allerdings X | se però X | αν όμως X; ако обаче X | ако, обаче, X |

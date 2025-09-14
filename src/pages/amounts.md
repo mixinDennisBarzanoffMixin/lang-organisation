@@ -55,6 +55,7 @@ Basic quantifiers, amounts, and degree expressions.
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG |
 |---|---|---|---|---|---|
+| 🚀 Hardest ever | that's the hardest ever | das ist das Schwerste überhaupt | è la cosa più difficile mai | αυτό είναι το πιο δύσκολο ποτέ | това е най-трудното някога |
 | 🎯 Even (emphasis) | even he... | sogar er... | perfino lui... | ακόμη και αυτός... | даже той... |
 | 📊 More/less than | more than; less than | mehr als; weniger als | più di; meno di | περισσότερο από; λιγότερο από | повече от; по-малко от |
 | 👥 All of them are X | all of them are X | alle sind X | tutti loro sono X | όλοι τους είναι X | всички те са X |
