@@ -12,7 +12,7 @@ Each word progression shows:
 - **L2 (Intermediate)**: More sophisticated, educated vocabulary  
 - **L3 (Advanced)**: Refined, literary, or specialized terms
 
-Perfect for expanding vocabulary naturally across all five languages: **EN • DE • IT • GR • BG**
+Perfect for expanding vocabulary naturally across all six languages: **EN • DE • IT • GR • BG • SR**
 
 ## 📚 Available Progressions
 

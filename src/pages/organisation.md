@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/Base.astro
 ---
-## Multilingual Expression Blocks (EN • DE • IT • GR • BG)
+## Multilingual Expression Blocks (EN • DE • IT • GR • BG • SR)
 
 Small, reusable speaking blocks for language practice organized by topic.
 
@@ -10,7 +10,7 @@ Small, reusable speaking blocks for language practice organized by topic.
 
 ### New - Prefix categorisation for N1
 
-- **[Prefixes](./prefixes.md)** - Prefixes and their logic accross languages that you can add to any verb in any sentence to make your logic richer
+- **[Prefixes](./prefixes)** - Prefixes and their logic accross languages that you can add to any verb in any sentence to make your logic richer
 
 
 ### Core Expression Types
@@ -50,7 +50,7 @@ Small, reusable speaking blocks for language practice organized by topic.
 
 **Structure**: Each expression includes:
 - **Concept**: Abstract idea with emoji
-- **5 Languages**: EN, DE, IT, GR, BG with natural variants
+- **6 Languages**: EN, DE, IT, GR, BG, SR with natural variants
 
 **Purpose**: Practice natural conversation flow across languages without direct translation.
 

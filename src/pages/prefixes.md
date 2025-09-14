@@ -1,142 +1,57 @@
 ---
 layout: ../layouts/Base.astro
 ---
-## Language Prefixes & Suffixes (EN • DE • IT • GR • BG)
+## Language Prefixes & Suffixes (EN • DE • IT • GR • BG • SR)
 
 True 1:1 operators that can be applied generatively to most verbs. Each concept represents an operational rule you can apply across languages.
 
+### Legend
+
+*   **<span style="color:green">Green</span>**: Native support (prefix or particle)
+*   **<span style="color:red">red</span>**: Support through adverbs
+
 ### Core Operational Prefixes
 
-| Concept (operational rule) | Bulgarian | English | German | Greek | Italian |
-|---|---|---|---|---|---|
-| **REDO** — repeat the *same* action again (no alteration) | **N/A** | **reline** (a coat) | **wiederverlegen** (relay flooring) | **ξαναράβω** (sew again) | **rifoderare** (reline) |
-| **INTO (ingress)** — force/guide something *from outside to inside* | **вкопая се** (dig myself in) | **wedge in** | **einkeilen** (wedge in) | **εισφηνώνω** (wedge in) | **incuneare** (wedge in) |
-| **OUT-OF (egress)** — pull/drive something *from inside to outside* | **изсмуча** (suck out) | **pry out** | **ausfräsen** (mill out) | **εξορύσσω** (mine out) | **espiantare** (explant) |
-| **OFF / DETACH** — separate a piece from a base/surface | **отлющя** (flake off) | **shear off** | **abknipsen** (snip off) | **αποκολλώ** (unglue) | **scollare** (unglue) |
-| **THROUGH / THOROUGH** — traverse internal structure *end-to-end* | **протрия** (rub through) | **chew through** | **durchkauen** (chew through) | **διατρυπώ** (pierce through) | **perforare** (bore through) |
-| **AROUND / ENCIRCLE** — surround or reorganize *around* a boundary | **обшия** (stitch around) | **band around** | **umflechten** (braid around) | **περιζώνω** (gird) | **cingere** (gird) |
-| **ACROSS / TRANSFER** — carry/shift *across* a boundary or domain | **препратя** (forward on) | **transship** | **überführen** (transfer vehicles) | **μεταγγίζω** (transfuse) | **traslare** (shift/transfer) |
-| **SURPASS / OUTDO** — perform *more/better than* a target | **надпея** (outsing) | **outsing** | **übertönen** (drown out) | **υπερακοντίζω** (outdo) | **sovrastare** (overbear) |
-| **COMPLETION "-UP"** — drive the action to *endpoint/totality* | **излоча** (slurp up) | **use up** | **aufzehren** (use up) | **καταβροχθίζω** (devour) | **N/A** |
-| **EXHAUST / EMPTY "-OUT"** — *deplete to zero* (stock, energy) | **източа** (drain out) | **drain out** | **auslaugen** (leach out) | **εξαντλώ** (exhaust) | **N/A** |
-| **APART / DISASSEMBLE** — break into constituent parts | **разшия** (unsew) | **unsolder** | **zersägen** (saw apart) | **διαμελίζω** (dismember) | **disinnestare** (unseat) |
-| **TOGETHER / WITH (co-)** — act jointly or *join elements* into one | **съшия** (sew together) | **co-construct** | **mitverfassen** (co-author) | **συρράπτω** (stitch together) | **congiungere** (conjoin) |
-| **UNDER-DO / INSUFFICIENTLY** — perform *below* required degree | **недосоля** (under-salt) | **underseason** | **unterdosieren** (under-dose) | **υποσιτίζω** (under-feed) | **N/A** |
-| **UNDER / BENEATH** — place/support *underneath* | **подлепя** (glue under) | **underpin** | **unterfüttern** (pad under) | **υποβαστάζω** (under-prop) | **sottolineare** (underline) |
-| **OVERDO / EXCESS** — perform *beyond optimal* (too much) | **пресладя** (over-sweeten) | **overseason** | **überwürzen** (over-season) | **υπερφορτώνω** (overload) | **strapagare** (overpay) |
-| **CHANGE / TRANSFORM** — re-form into a *different* shape/state | **прекроя** (re-cut/re-shape) | **transmute** | **verformen** (deform/re-shape) | **μεταπλάθω** (remold) | **trasfigurare** (transfigure) |
-| **TOWARD THERE** — directional particle: motion *away from speaker* | **(натам)** *отивам натам* | **there** *go there* | **hinfahren** | **(εκεί)** *πάω εκεί* | **(là)** *andare là* |
-| **TOWARD HERE** — directional particle: motion *toward the speaker* | **(насам)** *ела насам* | **here** *come here* | **herkommen** | **(εδώ)** *έλα εδώ* | **(qui)** *venire qui* |
-| **MAKE TRANSITIVE / AIM AT OBJECT** — point the action *onto* a direct object | **N/A** | **N/A** | **beäugen** (eye sb.) | **N/A** | **N/A** |
+| Concept (operational rule) | Bulgarian | English | German | Greek | Italian | Serbian | Notes |
+|---|---|---|---|---|---|---|---|
+| **REDO** — repeat the same action again (no alteration) | <span style="color:red">N/A (use *пак*)</span> | <span style="color:green">**re**- (re-read)</span> | <span style="color:green">**wieder**- (wiederholen)</span> | <span style="color:green">**ξανα**- (ξανακάνω)</span> | <span style="color:green">**ri**- (rifare)</span> | <span style="color:red">**ponovo** (ponovo pročitati)</span> | BG and SR use an adverb, not a prefix. |
+| **INTO (ingress)** — force/guide something *from outside to inside* | <span style="color:green">**в**- (вкопая се)</span> | <span style="color:green">**in**- (insert)</span> | <span style="color:green">**ein**- (eintreten)</span> | <span style="color:green">**εισ**- (εισέρχομαι)</span> | <span style="color:green">**in**- (inserire)</span> | <span style="color:green">**u**- (uklinuti)</span> |  |
+| **OUT-OF (egress)** — pull/drive something *from inside to outside* | <span style="color:green">**из**- (изсмуча)</span> | <span style="color:green">**ex**- (excavate)</span> | <span style="color:green">**aus**- (ausgehen)</span> | <span style="color:green">**εξ**- (εξέρχομαι)</span> | <span style="color:green">**es**- (espatriare)</span> | <span style="color:green">**iz**- (isisati)</span> |  |
+| **OFF** — separate a piece from a base or surface | <span style="color:green">**от**- (откъсна)</span> | <span style="color:green">-**off** (cut off)</span> | <span style="color:green">**ab**- (abnehmen)</span> | <span style="color:green">**απο**- (αποκόπτω)</span> | <span style="color:green">**s**- (sbottonare)</span> | <span style="color:green">**od**- (otkinuti)</span> | English uses a particle. |
+| **DETACH** — undo a connection | <span style="color:green">**раз**- (разкачам)</span> | <span style="color:green">**de**- (detach)</span> | <span style="color:green">**ent**- (entkoppeln)</span> | <span style="color:green">**απο**- (αποσυνδέω)</span> | <span style="color:green">**dis**- (disconnettere)</span> | <span style="color:green">**raz**- (razdvojiti)</span> |  |
+| **THROUGH / THOROUGH** — traverse internal structure *end-to-end* | <span style="color:green">**про**- (прочета)</span> | <span style="color:green">**through** (read through)</span> | <span style="color:green">**durch**- (durchlesen)</span> | <span style="color:green">**δια**- (διαβάζω)</span> | <span style="color:green">**per**- (perlustrare)</span> | <span style="color:green">**pro**- (pročitati)</span> | English uses a particle. |
+| **AROUND / ENCIRCLE** — surround or reorganize *around* a boundary | <span style="color:green">**об**- (обиколя)</span> | <span style="color:green">**circum**- (circumnavigate)</span> | <span style="color:green">**um**- (umwickeln)</span> | <span style="color:green">**περι**- (περιστρέφω)</span> | <span style="color:green">**circon**- (circondare)</span> | <span style="color:green">**ob**- (obići)</span> |  |
+| **ACROSS / TRANSFER** — carry/shift *across* a boundary or domain | <span style="color:green">**пре**- (препратя)</span> | <span style="color:green">**trans**- (transfer)</span> | <span style="color:green">**über**- (überführen)</span> | <span style="color:green">**μετα**- (μεταφέρω)</span> | <span style="color:green">**tras**- (trasportare)</span> | <span style="color:green">**pre**- (prebaciti)</span> |  |
+| **SURPASS / OUTDO** — do more/better than a target | <span style="color:green">**над**- (надмина)</span> | <span style="color:green">**out**- (outplay)</span> | <span style="color:green">**über**- (übertreffen)</span> | <span style="color:green">**υπερ**- (υπερνικώ)</span> | <span style="color:green">**sor**- (sorpassare)</span> | <span style="color:green">**nad**- (nadmašiti)</span> |  |
+| **COMPLETION "-UP"** — drive an action to its endpoint/totality | <span style="color:green">**из**- (изям)</span> | <span style="color:green">eat **up**</span> | <span style="color:green">**auf**- (aufessen)</span> | <span style="color:green">**κατα**- (καταναλώνω)</span> | <span style="color:red">N/A</span> | <span style="color:green">**po**- (pojesti)</span> | English uses a particle. |
+| **EXHAUST / EMPTY "-OUT"** — deplete to zero | <span style="color:green">**из**- (изчерпя)</span> | <span style="color:green">run **out**</span> | <span style="color:green">**aus**- (austrinken)</span> | <span style="color:green">**εξαν**- (εξαντλώ)</span> | <span style="color:red">N/A</span> | <span style="color:green">**is**- (iscrpeti)</span> | English uses a particle. |
+| **APART / DISASSEMBLE** — break something into parts | <span style="color:green">**раз**- (разглобя)</span> | <span style="color:green">**dis**- (disassemble)</span> | <span style="color:green">**zer**- (zerlegen) / **auseinander**- (auseinandernehmen)</span> | <span style="color:green">**δια**- (διαλύω)</span> | <span style="color:green">**dis**- (dismontare)</span> | <span style="color:green">**ras**- (rastaviti)</span> | German has two common prefixes for this. |
+| **TOGETHER / WITH (co-)** — act jointly or put elements together | <span style="color:green">**съ**- (сътруднича)</span> | <span style="color:green">**co**- (co-operate)</span> | <span style="color:green">**mit**- (mitarbeiten) / **zusammen**- (zusammenarbeiten)</span> | <span style="color:green">**συν**- (συνεργάζομαι)</span> | <span style="color:green">**col**- (collaborare)</span> | <span style="color:green">**sa**- (sarađivati)</span> | German has two common prefixes for this. |
+| **UNDER-DO / INSUFFICIENTLY** — perform less than needed | <span style="color:green">**недо**- (недоспя)</span> | <span style="color:green">**under**- (underpay)</span> | <span style="color:green">**unter**- (unterkühlen)</span> | <span style="color:green">**υπο**- (υποσιτίζω)</span> | <span style="color:red">N/A</span> | <span style="color:red">**nedovoljno** (nedovoljno platiti)</span> | Serbian uses an adverb. |
+| **UNDER / BENEATH** (spatial/figurative) — place below or subordinate | <span style="color:green">**под**- (подписвам)</span> | <span style="color:green">**under**- (underline)</span> | <span style="color:green">**unter**- (unterzeichnen)</span> | <span style="color:green">**υπο**- (υπογράφω)</span> | <span style="color:green">**sotto**- (sottoscrivere)</span> | <span style="color:green">**pot**- (potpisati)</span> |  |
+| **OVERDO / EXCESS** — perform *too much* | <span style="color:green">**пре**- (преям)</span> | <span style="color:green">**over**- (overcook)</span> | <span style="color:green">**über**- (überladen)</span> | <span style="color:green">**υπερ**- (υπερθερμαίνω)</span> | <span style="color:green">**stra**- (straparlare)</span> | <span style="color:green">**pre**- (prekuvati)</span> |  |
+| **CHANGE / TRANSFORM** (alter state) — re-form into a *different* shape/state | <span style="color:green">**пре**- (прекроя)</span> | <span style="color:green">**trans**- (transform)</span> | <span style="color:green">**ver**- (verformen)</span> | <span style="color:green">**μετα**- (μεταπλάθω)</span> | <span style="color:green">**tras**- (trasfigurare)</span> | <span style="color:green">**pre**- (preobraziti)</span> |  |
+| **TOWARD THERE** — directional particle: motion *away from speaker* | <span style="color:red">**(натам)** отивам натам</span> | <span style="color:green">go **there**</span> | <span style="color:green">**hin**- (hinfahren)</span> | <span style="color:red">**(εκεί)** πάω εκεί</span> | <span style="color:red">andare **là**</span> | <span style="color:red">idi **tamo**</span> | BG, GR, IT, SR use adverbs. |
+| **TOWARD HERE** — directional particle: motion *toward the speaker* | <span style="color:red">**(насам)** ела насам</span> | <span style="color:green">come **here**</span> | <span style="color:green">**her**- (herkommen)</span> | <span style="color:red">**(εδώ)** έλα εδώ</span> | <span style="color:red">venire **qui**</span> | <span style="color:red">dođi **ovamo**</span> | BG, GR, IT, SR use adverbs. |
+| **MAKE TRANSITIVE / AIM AT OBJECT** — morphologically point the action *onto* a direct object | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | <span style="color:green">**be**- (beäugen)</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | German specific. |
+| **AWAY** | <span style="color:green">**от**- (отдалечавам)</span> | <span style="color:green">**away** (go away)</span> | <span style="color:green">**weg**- (weggehen)</span> | <span style="color:green">**απο**- (απομακρύνω)</span> | <span style="color:red">**via** (andare via)</span> | <span style="color:green">**od**- (otići)</span> | English and Italian use a particle/adverb. |
+| **TO / TOWARDS** | <span style="color:green">**до**- (доближавам)</span> | <span style="color:green">**to** (go to)</span> | <span style="color:green">**zu**- (zugehen)</span> | <span style="color:green">**προς**- (προσεγγίζω)</span> | <span style="color:green">**a**- (avvicinarsi)</span> | <span style="color:green">**do**- (doći)</span> | |
+| **ON / AT** | <span style="color:green">**на**- (натискам)</span> | <span style="color:green">**on** (put on)</span> | <span style="color:green">**an**- (anmachen)</span> | <span style="color:green">**επι**- (επιτίθεμαι)</span> | <span style="color:green">**a**- (appoggiare)</span> | <span style="color:green">**na**- (nagaziti)</span> | |
+| **WITH / BY** | <span style="color:green">**с**- (сработвам се)</span> | <span style="color:green">**with** (work with)</span> | <span style="color:green">**bei**- (beitragen)</span> | <span style="color:green">**συν**- (συνεργάζομαι)</span> | <span style="color:green">**con**- (contribuire)</span> | <span style="color:green">**sa**- (sarađivati)</span> | |
+| **OVER / ACROSS** | <span style="color:green">**през**- (през нощта)</span> | <span style="color:green">**over** (sleep over)</span> | <span style="color:green">**über**- (übernachten)</span> | <span style="color:green">**δια**- (διανυκτερεύω)</span> | <span style="color:green">**per**- (pernottare)</span> | <span style="color:green">**pre**- (prenoćiti)</span> | English uses a particle. |
+| **CHANGE / WRONG** | <span style="color:red">N/A</span> | <span style="color:green">**mis**- (misunderstand)</span> | <span style="color:green">**ver**- (verwechseln)</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | German `ver-` can also mean a change for the worse, or a mistake. |
 
-### Bulgarian Prefix Examples
+### German Separable and Inseparable Prefixes
 
-#### из- (OUT/EXTRACTION)
-| Base Verb | Prefixed Form | Meaning | Example |
-|---|---|---|---|
-| мисля (think) | **измисля** | think out/devise | трябваше да **измислим** да го направим |
-| работя (work) | **изработя** | work out/produce | да го **изработим** |
-| комбинирам | **изкомбинирам** | combine out/figure out | можеш да си ги **изкомбинираш** както искаш |
+In German, some prefixes are “separable,” meaning they detach from the verb and move to the end of the clause in many sentence structures. Others are “inseparable” and always remain attached to the verb.
 
-#### от- (FROM/COMPLETION)
-| Base Verb | Prefixed Form | Meaning | Example |
-|---|---|---|---|
-| ям (eat) | **отядам се** | eat one's fill | **отядохме се** - ядохме доволно |
-| почивам (rest) | **отпочина** | rest thoroughly | **отпочинахме** - отпочинахме доволно |
-| правям (do) | **отправям** | direct towards | **отправям** към някого |
-| варя (boil) | **отваря** | boil/cook | **отварям** храна |
-| облека (dress) | **отблека** | undress | **отблека** - събличам |
+**Separable Prefixes:** These are generally stressed and have a more literal, independent meaning. Common examples include: *ab-, an-, auf-, aus-, bei-, ein-, mit-, nach-, weg-, zu-*.
 
-#### раз- (APART/CHAOTIC)
-| Base Verb | Prefixed Form | Meaning | Example |
-|---|---|---|---|
-| облека (dress) | **разблека** | undress chaotically | **разблека** - разбира се смисъла |
-| правя (do) | **разправя** | tell/narrate | **разправям** история |
+*   **Example:** *Ich **mache** die Tür **zu**.* (I close the door.) - *zumachen*
 
-#### пре- (OVER/AGAIN/TRANS)
-| Base Verb | Prefixed Form | Meaning | Example |
-|---|---|---|---|
-| правя (do) | **преправя** | redo/remake | **преправих** го - again |
-| давам (give) | **предавам** | give over/transmit | **предадох** - дадох beyond |
+**Inseparable Prefixes:** These are unstressed and often change the verb’s core meaning in a more abstract way. Common examples include: *be-, emp-, ent-, er-, ge-, miss-, ver-, zer-*.
 
-#### об- (AROUND/OVER)
-| Base Verb | Prefixed Form | Meaning | Example |
-|---|---|---|---|
-| ливам (pour) | **обливам** | pour over | when something spreads over you |
-| винявам (blame) | **обвинявам** | accuse | when blame spreads over someone |
-
-### German Separable Prefixes
-
-#### Common Separable Prefixes
-| Prefix | Meaning | Examples |
-|---|---|---|
-| **ab-** | off, away, down | **abnehmen** (take off), **abstellen** (turn off) |
-| **an-** | on, at, to | **anmachen** (turn on), **ankommen** (arrive) |
-| **auf-** | up, open | **aufmachen** (open), **aufstehen** (get up) |
-| **aus-** | out, off | **ausmachen** (turn off), **ausgehen** (go out) |
-| **bei-** | by, with | **beibringen** (teach), **beitragen** (contribute) |
-| **durch-** | through | **durchgehen** (go through), **durchmachen** (go through) |
-| **ein-** | in, into | **einsteigen** (get in), **einladen** (invite) |
-| **hin-** | there (away) | **hingehen** (go there), **hinfahren** (drive there) |
-| **her-** | here (toward) | **herkommen** (come here), **herfahren** (drive here) |
-| **mit-** | with, along | **mitkommen** (come along), **mitmachen** (participate) |
-| **über-** | over, across | **übernehmen** (take over), **übersetzen** (translate) |
-| **um-** | around, re- | **umziehen** (move), **umbauen** (rebuild) |
-| **unter-** | under, below | **untergehen** (go under), **unterschreiben** (sign) |
-| **vor-** | before, forward | **vorkommen** (occur), **vorstellen** (introduce) |
-| **weg-** | away | **weggehen** (go away), **wegnehmen** (take away) |
-| **zu-** | to, closed | **zumachen** (close), **zuhören** (listen) |
-
-#### Inseparable Prefixes
-| Prefix | Meaning | Examples |
-|---|---|---|
-| **be-** | make transitive | **bezahlen** (pay), **beantworten** (answer) |
-| **ver-** | change, away | **verkaufen** (sell), **verlieren** (lose) |
-| **er-** | achieve, get | **erreichen** (reach), **erhalten** (receive) |
-| **ent-** | away, de- | **entfernen** (remove), **entwickeln** (develop) |
-| **emp-** | receive | **empfangen** (receive), **empfehlen** (recommend) |
-| **miss-** | wrong, badly | **missverstehen** (misunderstand) |
-
-### Language Mastery Scale (N1-N4)
-
-#### N1 - Grammar Foundation
-- **Focus**: Only correct grammatical errors
-- **Ignore**: Stylistic errors, how it could be better
-- **Goal**: Pure grammatical accuracy
-- **Example**: "I go to store" → "I go to **the** store"
-
-#### N2 - Fluency Connectors  
-- **Focus**: Perfect use of L0 words for language fluency
-- **Key phrases**: "so that", "even though", "in reality", "however"
-- **Goal**: Natural flow and logical connections
-- **Example**: "It's raining. I stay home." → "**Since** it's raining, I'll stay home."
-
-#### N3 - Precision Vocabulary
-- **Focus**: Terminology for everything, highly nuanced words
-- **Words**: "embrace", "acquire", specific tree types, car parts
-- **Speech**: Mostly 🟡 🟢 words depending on mood
-- **Example**: "I like it" → "I **embrace** this concept"
-
-#### N4 - Literary Mastery
-- **Focus**: Only extremely literary words
-- **Never says**: "like" → "adore", "crazy idea" → "provocative hypothesis"  
-- **Goal**: Every concept has a specific name and type
-- **Speech**: Only 🔴 words, no abstraction, maximum specificity
-- **Example**: "That's a good point" → "That constitutes a **compelling** and **well-articulated** **proposition**"
-
-### Examples by Language
-
-#### English Particles
-- **fix up** - complete thoroughly
-- **fix over** - repair with specific nuance
-- **take out** - remove/extract
-- **use up** - consume completely
-- **drain out** - empty completely
-
-#### German be- Examples
-- **zahlen** → **bezahlen** (pay someone directly)
-- **antworten** → **beantworten** (answer something directly)
-- Like Italian "ci penso" → "pensare a" = German "bedenken"
+*   **Example:** *Ich **verstehe** das nicht.* (I don’t understand that.) - *verstehen*
 
 ---
 **Navigation**: [← Back to Main](./organisation) | [Language Mastery](./mastery)
