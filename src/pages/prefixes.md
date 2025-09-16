@@ -38,6 +38,7 @@ True 1:1 operators that can be applied generatively to most verbs. Each concept 
 | **TO / TOWARDS** | <span style="color:green">**до**- (доближавам)</span> | <span style="color:green">**to** (go to)</span> | <span style="color:green">**zu**- (zugehen)</span> | <span style="color:green">**προς**- (προσεγγίζω)</span> | <span style="color:green">**a**- (avvicinarsi)</span> | <span style="color:green">**do**- (doći)</span> | |
 | **ON / AT** | <span style="color:green">**на**- (натискам)</span> | <span style="color:green">**on** (put on)</span> | <span style="color:green">**an**- (anmachen)</span> | <span style="color:green">**επι**- (επιτίθεμαι)</span> | <span style="color:green">**a**- (appoggiare)</span> | <span style="color:green">**na**- (nagaziti)</span> | |
 | **WITH / BY** | <span style="color:green">**с**- (сработвам се)</span> | <span style="color:green">**with** (work with)</span> | <span style="color:green">**bei**- (beitragen)</span> | <span style="color:green">**συν**- (συνεργάζομαι)</span> | <span style="color:green">**con**- (contribuire)</span> | <span style="color:green">**sa**- (sarađivati)</span> | |
+| **TOWARDS** | <span style="color:green">**към**- (към теб)</span> | <span style="color:green">**towards** (towards you)</span> | <span style="color:green">**zu**- (zu dir)</span> | <span style="color:green">**προς**- (προς εσένα)</span> | <span style="color:green">**verso**- (verso di te)</span> | <span style="color:green">**prema**- (prema tebi)</span> | Note: Related to prepositions |
 | **OVER / ACROSS** | <span style="color:green">**през**- (през нощта)</span> | <span style="color:green">**over** (sleep over)</span> | <span style="color:green">**über**- (übernachten)</span> | <span style="color:green">**δια**- (διανυκτερεύω)</span> | <span style="color:green">**per**- (pernottare)</span> | <span style="color:green">**pre**- (prenoćiti)</span> | English uses a particle. |
 | **CHANGE / WRONG** | <span style="color:red">N/A</span> | <span style="color:green">**mis**- (misunderstand)</span> | <span style="color:green">**ver**- (verwechseln)</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | German `ver-` can also mean a change for the worse, or a mistake. |
 
@@ -49,9 +50,15 @@ In German, some prefixes are “separable,” meaning they detach from the verb 
 
 *   **Example:** *Ich **mache** die Tür **zu**.* (I close the door.) - *zumachen*
 
-**Inseparable Prefixes:** These are unstressed and often change the verb’s core meaning in a more abstract way. Common examples include: *be-, emp-, ent-, er-, ge-, miss-, ver-, zer-*.
+**Inseparable Prefixes:** These are unstressed and often change the verb's core meaning in a more abstract way. Common examples include: *be-, emp-, ent-, er-, ge-, miss-, ver-, zer-*.
 
-*   **Example:** *Ich **verstehe** das nicht.* (I don’t understand that.) - *verstehen*
+*   **Example:** *Ich **verstehe** das nicht.* (I don't understand that.) - *verstehen*
+
+**Special German Constructions:**
+
+*   **veran + lassen** - to cause/let something happen with responsibility
+*   **veran + X** - various constructions with responsibility/causation
+*   **heraus-** - out/forth (separable prefix for extraction/emergence)
 
 ---
 **Navigation**: [← Back to Main](./organisation) | [Language Mastery](./mastery)

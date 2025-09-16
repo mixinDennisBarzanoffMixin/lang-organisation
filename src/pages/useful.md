@@ -22,6 +22,8 @@ High-frequency, practical expressions for daily communication.
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
 | 🗣️ C'mon man, you gotta | c'mon man, you gotta beat me now | komm schon, du musst mich jetzt schlagen | dai, devi battermi ora | έλα, πρέπει να με νικήσεις τώρα | хайде бе, трябва да ме биеш сега | daj čoveče, moraš da me pobediš sada |
+| 🔄 I keep doing X | I keep doing X | ich mache X immer wieder | continuo a fare X | συνεχίζω να κάνω X | продължавам да правя X | nastavljam da radim X |
+| 🇪🇸 I keep doing X (Spanish) | I keep doing X | ich mache X ständig | tengo X (continuous) | συνεχίζω με X | имам X (продължително) | imam X (kontinuirano) |
 | 🇧🇬 What are you doing? | what are you doing?; what's wrong? | was machst du?; was ist los? | che fai?; che succede? | τι κάνεις; τι γίνεται; | аре бе, кво се стискаш/правиш | šta radiš?; šta nije u redu? |
 
 ### Choice & Examples

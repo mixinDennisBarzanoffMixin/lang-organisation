@@ -49,6 +49,11 @@ Expressions for emphasizing points and focusing attention.
 | 🔄 I couldn't resist | I couldn't handle/resist/help, but to come back | ich konnte nicht widerstehen, aber zurückzukommen | non potevo resistere, ma tornare | δεν μπόρεσα να αντισταθώ, αλλά να γυρίσω | не можах да се въздържа, но да се върна | nisam mogao da odolim, a da se ne vratim |
 | 🔄 It won't matter anyway | it won't matter anyway | es wird sowieso nicht wichtig sein | non importerà comunque | δεν θα έχει σημασία έτσι κι αλλιώς; δεν έχει σημασία τέλος πάντων | така или иначе няма да има значение | ionako neće biti važno |
 | 🚫 I won't do it anyway | I won't do it anyway | ich werde es sowieso nicht machen | non lo farò comunque | δεν θα το κάνω έτσι κι αλλιώς | така или иначе няма да го направя | ionako to neću uraditi |
+| 🇧🇬 There they are | there they are | da sind sie | eccoli | ιδού τους | там са си бе | evo ih |
+| 💥 When you fuck sth up | damn it! when you fuck sth up | verdammt! wenn du was vermasselst | cazzo! quando rovini qualcosa | γαμώτο! όταν τα σκατώνεις | еееееби му майката... | jebem ti! kad zasereš nešto |
+| 🇮🇹 Well, the thing is | well, the thing is... | nun ja, die Sache ist... | be', è la frase che è... | λοιπόν, το θέμα είναι... | е, работата е там че... | pa, stvar je u tome što... |
+| 💥 To fuck up (Italian) | to fuck up; to mess up | vermasseln; kaputtmachen | mandare all'aria | τα χαλάω; τα σκατώνω | развалям го; обърквам го | zajebati; pokvariti |
+| 🇮🇹 About it (built-in) | about it | darüber | ne (built-in particle) | γι' αυτό | за това | o tome |
 
 ---
 **Tips**: Great for making your point clear and adding emotional impact.

@@ -45,6 +45,8 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
 | ⏰ As long as | as long as | solange | fintanto che | όσο | докато | sve dok |
+| 🇬🇷 As long as you pay | as long as you pay | sofern du zahlst | purché tu paghi | εφόσον πληρώνεις | стига да плащаш | sve dok platiš |
+| 🇩🇪 Provided that (German) | provided that | sofern | purché | εφόσον | при условие че | pod uslovom da |
 | ⚡ As soon as | as soon as | sobald | appena | μόλις | щом | čim |
 | 🌀 Whenever/wherever | whenever; wherever; whoever | wann immer; wo immer; wer immer | quando; dovunque; chiunque | όποτε; οπουδήποτε; όποιος | когато и да е; където и да е; който и да е | kad god; gde god; ko god |
 | 🔄 Each time/every time | each time; every time | jedes Mal | ogni volta | κάθε φορά | всеки път | svaki put |
@@ -60,6 +62,9 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | 🔄 Again | again | wieder; nochmal | di nuovo; ancora | πάλι; ξανά | пак; отново | ponovo; opet |
 | ⏰ For now | for now | für jetzt; vorerst | per ora | προς το παρόν | засега | za sada |
 | 🕰️ Until now/so far | until now; so far | bisher | finora | μέχρι τώρα | до сега | do sada |
+| 🎯 Happened to do/have | happened to do/have | zufällig getan/gehabt | è capitato di fare/avere | έτυχε να κάνω/έχω | случи ми се да направя/имам | desilo se da uradim/imam |
+| ✅ Having already done X, Y | having already done X, Y | nachdem ich X getan hatte, Y | avendo già fatto X, Y | αφού έκανα ήδη X, Y | след като вече направих X, Y | pošto sam već uradio X, Y |
+| ⏰ X time ago | X time ago | vor X Zeit | X tempo fa | πριν από X χρόνο | преди X време | pre X vremena |
 | ⏱️ Just/now/yet | just now; already; yet; still; ever | gerade; schon; noch; je | proprio ora; già; ancora; mai | μόλις; ήδη; ακόμα; ποτέ | току-що; вече; още; някога | ... |
 | 🕘 Currently | currently; at the moment | momentan; gerade; derzeit | attualmente; al momento | προς το παρόν; αυτή τη στιγμή | в момента; понастоящем | ... |
 | ⏰ Soon | soon | bald | presto | σύντομα | скоро | ... |
