@@ -67,6 +67,8 @@ Basic quantifiers, amounts, and degree expressions.
 | 📉 Even lower | even lower | noch niedriger | ancora più basso | ακόμα πιο χαμηλά | още по-ниско | još niže |
 | 🎯 To do it anyway | to do it anyway | es trotzdem zu machen | farlo comunque | να το κάνει οπωσδήποτε | да го направя все пак | uraditi to svakako |
 | ❌ Not all X are Y | not all X are Y adjective | nicht alle X sind Y | non tutti gli X sono Y | όχι όλα τα X είναι Y | не всички X са Y | nisu svi X takvi Y |
+| 📈 More and more the case | it's more and more the case that X | es ist immer mehr der Fall, dass X | è sempre più il caso che X | είναι όλο και περισσότερο η περίπτωση που X | все повече става така че X | sve više je slučaj da X |
+| 🤏 Slightly | slightly | etwas; leicht | leggermente | ελαφρώς | леко; малко | blago; malo |
 | 📈 Most of | most of | die meisten von | la maggior parte di | οι περισσότεροι; το μεγαλύτερο μέρος | повечето от | većina |
 | 📈 The most | the most | das meiste; am meisten | il più; di più | το πιο πολύ; περισσότερο | най-много | ... |
 | 📉 The least | the least; the one I know the least | das wenigste; am wenigsten | il meno; quello che conosco meno | το λιγότερο; αυτό που ξέρω λιγότερο | най-малко; това което знам най-малко | ... |

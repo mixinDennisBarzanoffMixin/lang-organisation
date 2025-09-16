@@ -54,6 +54,23 @@ Expressions for emphasizing points and focusing attention.
 | 🇮🇹 Well, the thing is | well, the thing is... | nun ja, die Sache ist... | be', è la frase che è... | λοιπόν, το θέμα είναι... | е, работата е там че... | pa, stvar je u tome što... |
 | 💥 To fuck up (Italian) | to fuck up; to mess up | vermasseln; kaputtmachen | mandare all'aria | τα χαλάω; τα σκατώνω | развалям го; обърквам го | zajebati; pokvariti |
 | 🇮🇹 About it (built-in) | about it | darüber | ne (built-in particle) | γι' αυτό | за това | o tome |
+| 😤 I can *barely* | I can *barely* | ich kann *kaum* | riesco *a malapena* | μόλις *μπορώ* | едва *мога* | jedva *mogu* |
+| 🇩🇪 Your question by the way | your question by the way | deine Frage *nebenbei* | la tua domanda *tra parentesi* | η ερώτησή σου *παρεμπιπτόντως* | въпросът ти *между другото* | tvoje pitanje *usput* |
+| 🇩🇪 Just like that | just like that | eben so | proprio così | έτσι ακριβώς | точно така | baš tako |
+| 🇧🇬 Here and there | here and there | hier und da | qua e là | εδώ και εκεί | отсам оттам | tamo-amo |
+| 😊 Well glad you asked | well glad that you asked | na, schön dass du fragst | bene, sono contento che tu abbia chiesto | ε, χαίρομαι που ρώτησες | е, радвам се че питаш | pa drago mi je što pitaš |
+| 🎯 They are so much about X | they are so much about X | sie sind so sehr auf X fokussiert | sono così concentrati su X | είναι τόσο πολύ για το X | те са толкова много за X | oni su toliko o X |
+| 🎯 All about X | all about X | alles dreht sich um X | tutto ruota intorno a X | όλα γύρω από το X | всичко е за X | sve je o X |
+| 🎯 In terms of X | in terms of X | was X betrifft | in termini di X | όσον αφορά το X | що се отнася до X | što se tiče X |
+| 🤔 When it comes to X | when it comes to X | wenn es um X geht | quando si tratta di X | όταν πρόκειται για X | когато става дума за X | kada je reč o X |
+| 🇩🇪 What do they have from X | what do they have from X | was haben sie von X | cosa hanno da X | τι έχουν από το X | какво имат от X | šta imaju od X |
+| 🇩🇪 What do they speak of a language | what do they speak of a language | was sprechen sie von einer Sprache | cosa dicono di una lingua | τι λένε για μια γλώσσα | какво говорят за един език | šta govore o jeziku |
+| 🇬🇷 Forget it, I want to cry | forget it, I want to cry | vergiss es, ich will weinen | lascia perdere, voglio piangere | *άστα, άστα*, θέλω να κλάψω! | остави го, искам да плача | pusti to, hoću da plačem |
+| 🇧🇬 Yeah yeah, clear | yeah yeah, clear... | ja ja, klar... | sì sì, chiaro... | ναι ναι, σαφές... | *да бе да*, ясно... | da da, jasno... |
+| 🇩🇪 Now X is like that | now X is like that | nun ist X so | ora X è così | τώρα το X είναι έτσι | сега X е така | sada je X tako |
+| 🇩🇪 Now probably (halt) | now probably | nun + halt wahrscheinlich? | ora probabilmente | τώρα μάλλον | сега вероятно | sada verovatno |
+| 🇧🇬 Leave it, not worth it | leave it, it's not worth it | lass es, es ist es nicht wert | lascia perdere, non ne vale la pena | άστο, δεν αξίζει | *мани* тва не си е работа | pusti to, nije vredno |
+| 🚫 Nor am I in position to | I don't want, *nor* am I in the capacity/position to | ich will nicht, noch bin ich in der Lage zu | non voglio, né sono in grado di | δεν θέλω, ούτε είμαι σε θέση να | не искам, нито съм в позиция да | ne želim, niti sam u poziciji da |
 
 ---
 **Tips**: Great for making your point clear and adding emotional impact.

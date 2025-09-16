@@ -24,7 +24,10 @@ High-frequency, practical expressions for daily communication.
 | 🗣️ C'mon man, you gotta | c'mon man, you gotta beat me now | komm schon, du musst mich jetzt schlagen | dai, devi battermi ora | έλα, πρέπει να με νικήσεις τώρα | хайде бе, трябва да ме биеш сега | daj čoveče, moraš da me pobediš sada |
 | 🔄 I keep doing X | I keep doing X | ich mache X immer wieder | continuo a fare X | συνεχίζω να κάνω X | продължавам да правя X | nastavljam da radim X |
 | 🇪🇸 I keep doing X (Spanish) | I keep doing X | ich mache X ständig | tengo X (continuous) | συνεχίζω με X | имам X (продължително) | imam X (kontinuirano) |
+| 🇩🇪 It's my turn | it's my turn | ich bin dran | tocca a me | είναι η σειρά μου | на мен ми е редът | na meni je red |
 | 🇧🇬 What are you doing? | what are you doing?; what's wrong? | was machst du?; was ist los? | che fai?; che succede? | τι κάνεις; τι γίνεται; | аре бе, кво се стискаш/правиш | šta radiš?; šta nije u redu? |
+| 👥 *You guys*... | *you guys*... are here tomorrow? | *ihr*... seid morgen hier? | *voi ragazzi*... siete qui domani? | *εσείς παιδιά*... είστε εδώ αύριο; | *вие момчета*... сте тук утре? | *vi momci*... ste ovde sutra? |
+| 🎯 Especially | especially | besonders | soprattutto | ειδικά | особено | posebno |
 
 ### Choice & Examples
 | Concept | EN | DE | IT | GR | BG | SR |
