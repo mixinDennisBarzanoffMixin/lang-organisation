@@ -32,7 +32,8 @@ Perfect for expanding vocabulary naturally across all six languages: **EN • DE
 - **MAKE Progression** - creation and production terms
 - **TAKE Progression** - acquisition and possession
 
-### Descriptive & Qualitative (Coming Soon)
+### Descriptive & Qualitative
+- **[Visual Description](../visuals)** - Words to describe the visual properties of objects
 - **BIG Progression** - size and magnitude
 - **FAST Progression** - speed and urgency  
 - **BEAUTIFUL Progression** - aesthetic appreciation
