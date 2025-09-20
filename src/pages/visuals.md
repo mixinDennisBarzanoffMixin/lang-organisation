@@ -27,13 +27,13 @@ Words to describe the visual properties of objects.
 ### Shapes
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
-| ⚪ Circle | circle | Kreis | cerchio | κύκλος | кръг | krug |
-| ⬜ Square | square | Quadrat | quadrato | τετράγωνο | квадрат | kvadrat |
-| 🔼 Triangle | triangle | Dreieck | triangolo | τρίγωνο | триъгълник | trougao |
-| ▭ Rectangle | rectangle | Rechteck | rettangolo | ορθογώνιο | правоъгълник | pravougaonik |
-| ⭐ Star | star | Stern | stella | αστέρι | звезда | zvezda |
-| 🥚 Oval | oval | Oval | ovale | οβάλ | овал | oval |
-| ✝️ Cross | cross | Kreuz | croce | σταυρός | кръст | krst |
+| ⚪ Circular | circular/round | rund | circolare | κυκλικός | кръгъл | kružan |
+| ⬜ Square | square | quadratisch | quadrato | τετράγωνος | квадратен | kvadratan |
+| 🔼 Triangular | triangular | dreieckig | triangolare | τριγωνικός | триъгълен | trouglast |
+| ▭ Rectangular | rectangular | rechteckig | rettangolare | ορθογώνιος | правоъгълен | pravougaon |
+| ⭐ Star-shaped | star-shaped | sternförmig | stellare | αστεροειδής | звездообразен | zvezdast |
+| 🥚 Oval | oval | oval | ovale | οβάλ | овален | ovalan |
+| ✝️ Cross-shaped | cross-shaped | kreuzförmig | a croce | σταυροειδής | кръстообразен | križast |
 
 ### Colors
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -106,4 +106,3 @@ Words to describe the visual properties of objects.
 | ✨ Glossy | glossy | glänzend | lucido | γυαλιστερό | гланциран | sjajan |
 | 💎 Transparent | transparent | transparent | trasparente | διαφανές | прозрачен | providan |
 | 🌫️ Opaque | opaque | undurchsichtig | opaco | αδιαφανές | непрозрачен | neprovidan |
-
