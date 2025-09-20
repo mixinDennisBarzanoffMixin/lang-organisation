@@ -7,6 +7,10 @@ Small, reusable speaking blocks for language practice organized by topic.
 
 ## 📚 Browse by Category
 
+### 🇬🇧 English Improvement
+
+- **[English Improvement](./english-improvement/)** - Thought refinement, expression enhancement, and systematic language elevation
+  - [Thought Refinement](./english-improvement/thought-refinement) - Shakespearizing thoughts, discourse refinement, practice sessions
 
 ### New - Prefix categorisation for N1
 
