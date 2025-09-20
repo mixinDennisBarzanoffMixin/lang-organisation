@@ -28,6 +28,7 @@ Small, reusable speaking blocks for language practice organized by topic.
 - **[Logical Connectors](./logical)** - Basic cause-effect, contrast, addition
 - **[Conditions & Concessions](./conditions)** - Complex conditional statements, concessions
 - **[Advanced Expressions](./advanced)** - B-level+ sophisticated constructions
+- **[Professional Expressions](./professional)** - Formal and professional language for official documents and advanced communication.
 
 #### 💭 Opinions & Social
 - **[Opinions & Personal Views](./opinions)** - Personal stance, impressions, perceptions, knowledge claims
