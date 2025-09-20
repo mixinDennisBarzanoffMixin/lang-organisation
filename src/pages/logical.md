@@ -58,7 +58,7 @@ Basic logical connections - cause, effect, contrast, addition.
 | ❓ How come X? | how come X? | wie kommt es dass X? | come mai X? | πώς έτσι X?; πώς γίνεται X? | как така X? | kako to da X? |
 | 🔄 If, however, X | if, however, X | wenn allerdings X | se però X | αν όμως X; ако обаче X | ако, обаче, X | ako, međutim, X |
 | 🇬🇷 Beyond X | beyond X; something else beyond that | über X hinaus; etwas anderes darüber hinaus | oltre X; qualcosa d'altro oltre quello | πέρα από X; κάτι άλλο πέρα από αυτό | отвъд X; нещо друго освен това | preko X; nešto više od toga |
-| 🇮🇹 Let alone | let alone; much less | geschweige denn | figuriamoci | πόσο μάλλον | камо ли | a kamoli |
+| 🇮🇹 Let alone | let alone; much less; let alone when you don't even... | geschweige denn; geschweige denn wenn du nicht einmal... | figuriamoci; figuriamoci quando non... nemmeno | πόσο μάλλον; πόσο μάλλον όταν δεν... καν | камо ли; камо ли когато дори не... | a kamoli; a kamoli kad ne... čak ni |
 | 🔄 Or rather | or rather | besser gesagt | o meglio | ή μάλλον | или по-скоро | ili bolje rečeno |
 | 🎯 As far as that's concerned | as far as that's concerned | was das betrifft | per quanto riguarda questo | όσο αφορά αυτό | що се отнася до това | što se toga tiče |
 | 🎯 As it pertains to X | as it pertains to X; regarding X | was X betrifft | per quanto riguarda X | όσο αφορά X; όσο αναφορά X | що се отнася до X | što se tiče X |

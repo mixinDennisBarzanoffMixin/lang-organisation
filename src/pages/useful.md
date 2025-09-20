@@ -10,7 +10,7 @@ High-frequency, practical expressions for daily communication.
 |---|---|---|---|---|---|---|
 | 🔧 To do the job | to do the job | die Arbeit machen | fare il lavoro | να κάνω τη δουλειά | да свърша работата | obaviti posao |
 | 📈 Over time X happens | over time... X happens | mit der Zeit... passiert X | col tempo... X succede | με τον καιρό... συμβαίνει X | с времето... X се случва | vremenom se X dešava |
-| 😤 Barely managing as is | I'm barely managing things as is | ich schaffe es gerade so | riesco a malapena così | μόλις τα καταφέρνω έτσι | едва се справям както си е | jedva se snalazim |
+| 😤 Barely managing as is | I'm barely managing things AS IS | ich schaffe es gerade so, WIE ES IST | riesco a malapena COSÌ COM'È | μόλις τα καταφέρνω ΈΤΣΙ ΌΠΩς ΕΊΝΑΙ | едва се справям КАКТО СИ Е | jedva se snalazim KAKO JESTE |
 | 🤔 How X is to be made | how X is to be made/adjusted | wie X gemacht/angepasst werden soll | come X deve essere fatto/adattato | πώς πρέπει να γίνει/προσαρμοστεί το X | как трябва да се направи/коригира X | kako X treba da se napravi/podesi |
 
 ### Intensity & Extremes
@@ -84,7 +84,7 @@ High-frequency, practical expressions for daily communication.
 
 #### English Completive Particles
 - **use up** - consume completely
-- **fix up** - repair thoroughly  
+- **fix up** - repair thoroughly
 - **clean up** - clean completely
 - **eat up** - consume entirely
 
