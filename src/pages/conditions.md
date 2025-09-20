@@ -44,6 +44,10 @@ Conditional statements, concessions, and purpose expressions.
 | 🇮🇹 I do it anyway, even though | I do it anyway, even though it rains | ich mache es trotzdem, obwohl es regnet | lo faccio comunque, sebbene piova | το κάνω ούτως ή άλλως, παρόλο που βρέχει | правя го така или иначе, въпреки че вали | radim to svejedno, iako pada kiša |
 | 🇮🇹 As long as you want | as long as you want, I'm here for you | solange du willst, bin ich für dich da | finché vuoi, sono qui per te | όσο θέλεις, είμαι εδώ για σένα | докато искаш, аз съм тук за теб | dokle god hoćeš, tu sam za tebe |
 | 🇧🇬 Even if I have done X | even if I have done X | auch wenn ich X getan habe | anche se ho fatto X | ακόμα κι αν έχω κάνει X | дори и да съм направил X | čak i ako sam uradio X |
+| 🇩🇪 If on the other hand | if on the other hand they had done X | hätten sie hingegen X gemacht | se d'altra parte avessero fatto X | αν από την άλλη είχαν κάνει X | ако от друга страна бяха направили X | da su s druge strane uradili X |
+| 🇩🇪 Especially if/when | especially if/when | vor allem wenn | soprattutto se/quando | ειδικά αν/όταν | особено ако/когато | pogotovo ako/kada |
+| 🔄 Even though X, I did Y anyway | Even though X, I did Y anyway | Obwohl X, habe ich Y trotzdem gemacht | Anche se X, ho fatto Y comunque | Παρόλο που X, έκανα Y ούτως ή άλλως | Въпреки че X, направих Y все пак | Iako X, uradio sam Y ipak |
+| ✅ As long as you... it's enough to... | As long as you... it's enough to... | Solange du... ist es genug, um... | Finché tu... è abbastanza per... | Όσο εσύ... αρκεί να... | Докато ти... е достатъчно да... | Dokle god ti... dovoljno je da... |
 
 ---
 **Tips**: Perfect for expressing complex conditional relationships and contrasts.

@@ -10,6 +10,7 @@ Politeness, courtesy, and social interaction phrases.
 |---|---|---|---|---|---|---|
 | 🙇 Please | please | bitte | per favore | παρακαλώ | моля | molim |
 | 🙏 Thanks | thanks; thank you | danke | grazie | ευχαριστώ | благодаря | hvala |
+| 🎉 Have fun | have fun | viel Spaß | buon divertimento | καλή διασκέδαση | забавлявай се | lepo se provedi |
 
 ### Courtesy responses
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -19,6 +20,7 @@ Politeness, courtesy, and social interaction phrases.
 | 👌 No problem | no problem; it's fine | kein Problem; ist okay | nessun problema; va bene | κανένα πρόβлημα; εντάξει | няма проблем; наред е | nema problema; u redu je |
 | ✅ That's fine | that's fine; that's okay | das ist in Ordnung; das passt | va bene; è okay | εντάξει είναι; καλά είναι | добре е; наред е | u redu je; to je u redu |
 | 🇮🇹 I'm at your disposal | I'm at your disposal to do X | ich stehe zur Verfügung, um X zu tun | sono a disposizione per fare X | είμαι στη διάθεσή σας για να κάνω X | на ваше разположение съм да направя X | na raspolaganju sam da uradim X |
+| 🇩🇪 Likewise | likewise | Gleichfalls; ebenfalls | altrettanto | ομοίως | подобно | takođe |
 
 
 ### Politeness softeners

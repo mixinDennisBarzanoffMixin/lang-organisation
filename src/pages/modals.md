@@ -64,6 +64,8 @@ Modal verbs for ability, obligation, wishes, and possibilities.
 | 🆚 The one, the other | the one, the other | der eine, der andere | l'uno, l'altro | ο ένας, ο άλλος | единият, другият | ... |
 | 🇩🇪 You want *actually* | you actually want...; you do want... | du willst *ja*; ich brauche *ja* | tu vuoi *davvero* | θέλεις *στ' αλήθεια* | ти искаш *всъщност* |
 | 💪 I *do* open it | I *do* open it/do Y | ich mache es *doch* auf | lo apro *davvero* | το ανοίγω *όντως* | аз *наистина* го отварям | ... |
+| 🇩🇪 Not strictly necessary | that is not strictly necessary | das ist nicht zwingend notwendig | non è strettamente necessario | δεν είναι απολύτως απαραίτητο | не е задължително | nije strogo neophodno |
+| 🇩🇪 Might not end up there | they might not end up there | sie landen womöglich nicht da | potrebbero non finire lì | μπορεί να μην καταλήξουν εκεί | може да не се озоват там | možda neće završiti tamo |
 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG | SR |

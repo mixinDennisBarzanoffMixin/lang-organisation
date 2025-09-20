@@ -29,6 +29,8 @@ Expressions for being vague, uncertain, or softening statements.
 | 🤷 Doesn't matter | it doesn't matter | es ist egal; macht nichts | non importa | δεν πειράζει; δεν έχει σημασία | няма значение | nema veze; nije bitno |
 | 📈 At a reasonably high level | at a reasonably high level | auf einem ziemlich hohen Niveau | a un livello ragionevolmente alto | σε ένα λογικά υψηλό επίπεδο | на разумно високо ниво | na razumno visokom nivou |
 | 🤔 Nothing per se | nothing per se | nichts an sich | niente di per sé | τίποτα από μόνο του | нищо само по себе си | ništa samo po sebi |
+| 🤔 More of a | to have more of a feeling | eher ein Gefühl haben | avere più una sensazione | να έχω περισσότερο μια αίσθηση | да имам повече усещане | imati više osećaj |
+| 🤔 It could be like... | It could be like... | Es könnte so sein wie... | Potrebbe essere come... | Θα μπορούσε να είναι σαν... | Може да е като... | Moglo bi biti kao... |
 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG | SR |

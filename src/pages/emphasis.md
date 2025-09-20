@@ -38,9 +38,9 @@ Expressions for emphasizing points and focusing attention.
 | 🎯 Let me do X | let me do X | lass mich X machen | lasciami fare X | άσε με να κάνω X | я направи X | pusti me da uradim X |
 | 👀 Look at you! | look at you! | schau dich an! | guardati! | κοίτα σε! | я виж ти! | vidi se! |
 | 😤 How dare you/I have something to say | what do you think you are, I *first* have to... | was bildest du dir ein, ich *zuerst* muss... | ma chi ti credi di essere, io *prima* devo... | τι νομίζεις ότι είσαι, εγώ *πρώτα* πρέπει να... | що си се разгордял, аз *те първа* имам да... | kako se usuđuješ, ja *prvo* moram da... |
-
 | 🎯 Exactly/bravo | exactly!; bravo! | genau!; bravo! | esatto!; bravo! | ε, μπράβο!; ακριβώς! | точно!; браво! | tačno!; bravo! |
-| 🚫 Not so! | not so!; that's not right! | nicht so!; das stimmt nicht! | non è così! | δεν είναι έτσι! | не е така!; еее така деее, нали, ок | ne tako!; to nije tačno! |
+| 🚫 Not so! | not so!; that's not right! | nicht so!; das stimmt nicht! | non è così! | δεν είναι έτσι! | не е така! | ne tako! |
+| 🤷 Whatever | whatever... | egal... | non importa... | δεν πειράζει... | така де... | nije važno... |
 | 🎯 Exactly that! | exactly that!; that's it! | genau das!; das ist es! | proprio quello!; ecco! | ακριβώς αυτό!; α, αυτό! | точно това!; а това! | tačno to!; to je to! |
 | 🔥 Totally fine | totally fine | völlig in Ordnung | perfettamente bene | εντελώς εντάξει | напълно наред | potpuno u redu |
 | 🚫 I won't even | I won't even... | ich werde nicht einmal... | non farò nemmeno... | δεν θα κάνω καν... | еее чак да... не... | neću čak ni... |
@@ -60,6 +60,10 @@ Expressions for emphasizing points and focusing attention.
 | 🇧🇬 If you only knew | if you only knew | wenn du nur wüsstest | se solo sapessi | αν ήξερες | ти ако знаеш | kad bi samo znao |
 | 🤔 Not even remotely | not even remotely | nicht einmal annähernd | neanche lontanamente | ούτε κατά διάνοια | дори не и малко | ni izbliza |
 | 🇧🇬 Make sure you do it | make sure you do it | sieh zu, dass du es machst | guarda di farlo | κοίτα να το κάνεις | гледай да го направиш | gledaj da to uradiš |
+| 🤔 Of all things | what is this of all things | was ist das denn | che cos'è questa cosa | τι είναι αυτό τώρα | какво е пък това | šta je sad pa ovo |
+| 🗣️ There is... | There is... There is... You can have... | Es gibt... Es gibt... Du kannst haben... | C'è... C'è... Puoi avere... | Υπάρχει... Υπάρχει... Μπορείς να έχεις... | Има... Има... Можеш да имаш... | Ima... Ima... Možeš imati... |
+| 🗣️ You're going to be... | You're going to be... You're going to be... | Du wirst sein... Du wirst sein... | Sarai... Sarai... | Θα είσαι... Θα είσαι... | Ще бъдеш... Ще бъдеш... | Bićeš... Bićeš... |
+| 🗣️ It's not... | It's not... It's not... | Es ist nicht... Es ist nicht... | Non è... Non è... | Δεν είναι... Δεν είναι... | Не е... Не е... | Nije... Nije... |
 | 🇩🇪 Your question by the way | your question by the way | deine Frage *nebenbei* | la tua domanda *tra parentesi* | η ερώτησή σου *παρεμπιπτόντως* | въпросът ти *между другото* | tvoje pitanje *usput* |
 | 🇩🇪 Just like that | just like that | eben so | proprio così | έτσι ακριβώς | точно така | baš tako |
 | 🇧🇬 Here and there | here and there | hier und da | qua e là | εδώ και εκεί | отсам оттам | tamo-amo |

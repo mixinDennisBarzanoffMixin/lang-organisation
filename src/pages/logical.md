@@ -95,6 +95,12 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🚫 Not one of these things can | not one of these things can... | nicht eines dieser Dinge kann... | nessuna di queste cose può... | κανένα από αυτά δεν μπορεί... | нито едно от тия неща не може... | nijedna od ovih stvari ne može... |
 | 🗣️ Now that being said | now that being said... X | nun, da das gesagt ist... X | ora che è stato detto... X | τώρα που το είπαμε αυτό... X | сега, като се каза това... X | sad kad je to rečeno... X |
 | 🇧🇬 Through X to be able to Y | through X to be able to Y | durch X, um Y zu können | tramite X per poter Y | μέσω του X για να μπορέσουμε να Y | чрез X да можем да Y | kroz X da bismo mogli Y |
+| 🤷 Nothing in common | nothing in common | nichts gemeinsam | niente in comune | τίποτα κοινό | нищо общо | ništa zajedničko |
+|  consecuencias | the consequences of him not doing X | die Konsequenzen, wenn er X nicht tut | le conseguenze del suo non fare X | οι συνέπειες του να μην κάνει X | последствията от това, че не прави X | posledice toga što ne radi X |
+| 📄 Using which | the documents using which he was X | die Dokumente, mit denen er X war | i documenti con cui era X | τα έγγραφα με τα οποία ήταν X | документите, с които беше X | dokumenti pomoću kojih je bio X |
+| 🤔 Because when you... | Because when you... the way you... | Denn wenn du... die Art und Weise, wie du... | Perché quando tu... il modo in cui tu... | Επειδή όταν εσύ... ο τρόπος που εσύ... | Защото когато ти... начинът, по който ти... | Zato što kada ti... način na koji ti... |
+| 🤔 That's why X is all about Y | That's why X is all about Y | Deshalb dreht sich bei X alles um Y | Ecco perché X è tutto su Y | Γι' αυτό το X αφορά αποκλειστικά το Y | Ето защо X е изцяло за Y | Zato se X svodi na Y |
+| 🤔 Looks alike | looks alike | sieht ähnlich aus | si assomiglia | μοιάζει | прилича | liči |
 
 ---
 **Tips**: Essential for building complex arguments and explanations.

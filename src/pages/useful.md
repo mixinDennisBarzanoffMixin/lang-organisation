@@ -11,6 +11,7 @@ High-frequency, practical expressions for daily communication.
 | 🔧 To do the job | to do the job | die Arbeit machen | fare il lavoro | να κάνω τη δουλειά | да свърша работата | obaviti posao |
 | 📈 Over time X happens | over time... X happens | mit der Zeit... passiert X | col tempo... X succede | με τον καιρό... συμβαίνει X | с времето... X се случва | vremenom se X dešava |
 | 😤 Barely managing as is | I'm barely managing things as is | ich schaffe es gerade so | riesco a malapena così | μόλις τα καταφέρνω έτσι | едва се справям както си е | jedva se snalazim |
+| 🤔 How X is to be made | how X is to be made/adjusted | wie X gemacht/angepasst werden soll | come X deve essere fatto/adattato | πώς πρέπει να γίνει/προσαρμοστεί το X | как трябва да се направи/коригира X | kako X treba da se napravi/podesi |
 
 ### Intensity & Extremes
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -32,6 +33,10 @@ High-frequency, practical expressions for daily communication.
 | 🇮🇹 Now it's easy | now it's easy | jetzt ist es einfach | ora è facile | τώρα είναι εύκολο | сега е лесно | sada je lako |
 | 🇮🇹 It's your turn | it's your turn | du bist dran | tocca a te | είναι η σειρά σου | τвой ред е | tvoj je red |
 | 🇮🇹 I hope this is... | I hope this is more clear/easy/understandable | ich hoffe, das ist klarer/einfacher/verständlicher | spero che questo sia più chiaro/facile/comprensibile | ελπίζω αυτό να είναι πιο σαφές/εύκολο/κατανοητό | надявам се това да е по-ясно/лесно/разбираемо | nadam se da je ovo jasnije/lakše/razumljivije |
+| 🇮🇹 On purpose | on purpose | absichtlich | apposta | επίτηδες | нарочно | namerno |
+| 🇩🇪 On behalf of | on behalf of someone else | im Auftrag von jemand anderem | per conto di qualcun altro | εκ μέρους κάποιου άλλου | от името на някой друг | u ime nekog drugog |
+| 🤔 What if | what if do this | was, wenn wir das tun | e se facessimo questo | τι θα γινόταν αν το κάναμε αυτό | ами ако направим това | šta ako uradimo ovo |
+| 🤔 Have the flag | I mean ok, have the flag over there, do the X, have the Y | Ich meine, ok, hab die Flagge da drüben, mach das X, hab das Y | Voglio dire, ok, hai la bandiera laggiù, fai la X, hai la Y | Εννοώ, οκ, έχεις τη σημαία εκεί πέρα, κάνε το X, έχεις το Y | Искам да кажа, окей, имаш флага там, направи X, имаш Y | Mislim, ok, imaš zastavu tamo, uradi X, imaš Y |
 
 ### Choice & Examples
 | Concept | EN | DE | IT | GR | BG | SR |

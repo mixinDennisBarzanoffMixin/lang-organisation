@@ -12,6 +12,7 @@ Contemporary expressions, slang, and very colloquial language.
 | 🚫 Forget it | forget it | vergiss es | lascia perdere | άσ' το καλύτερα | остави го | zaboravi |
 | 🤷 Leave it alone | leave it alone | lass es | mani quello | μάνι αυτό | мани това | ostavi to |
 | 🇧🇬 What are you doing? | what are you doing?; what's wrong? | was machst du?; was ist los? | che fai?; che succede? | τι κάνεις; τι γίνεται; | аре бе, кво се стискаш/правиш | šta radiš?; šta nije u redu? |
+| 🇧🇬 No need to | no need to | kein Grund zur Sorge | не се притеснявай | няма нужда | бе нямаа са | nema potrebe |
 
 ### Colloquial particles and fillers
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -30,6 +31,7 @@ Contemporary expressions, slang, and very colloquial language.
 | 💥 That was such a... | that was such a...; oh man, that guy | das war so ein...; ach der Typ | quello era così...; oh quello | αυτό ήταν τέτοιο...; ε αυτός | ех, че си такъв... | to je bio takav...; o čoveče, taj lik |
 | 🔥 I really like X & Y | I really like X & Y | X & Y gefallen mir richtig gut | mi piace un sacco X & Y | μου αρέσει φουλ X & Y | много ми харесват X & Y | stvarno mi se sviđaju X i Y |
 | 🗣️ That's what's up, Denis | that's what's up, Denis | so ist das, Denis | ecco come stanno le cose, Denis | έτσι είναι, Ντένις | това бе, Денис | to je to, Denise |
+| 🤔 Like just so many | like just so many requests | einfach so viele Anfragen | tipo così tante richieste | σαν τόσες πολλές αιτήσεις | просто толкова много заявки | kao samo toliko zahteva |
 | 🎯 And also you know... | and also you know... | und außerdem weißt du... | e poi sai... | και επίσης ξέρεις... | и също знаеш ли... | i takođe znaš... |
 
 ### German particles
@@ -84,6 +86,7 @@ Contemporary expressions, slang, and very colloquial language.
 | 🇧🇬 I'll kill you (joking) | I'll kill you (joking) | ich bring dich um (scherzhaft) | ti ammazzo (scherzando) | θα σε σκοτώσω (πλάκα) | направо ще те убия | ubiću te (šala) |
 | 💥 Won't they fucking take that | won't they fucking take that | werden die das verdammt nicht nehmen | non lo prenderanno, cazzo | δεν θα το πάρουν, γαμώτο | няма ли да го вземат, по дяволите | zar ga neće jebeno uzeti |
 | 😤 Stop being dramatic | stop being dramatic | hör auf zu dramatisieren | smettila di fare il/la drammatico/a | σταμάτα να κάνεις δράμα | стига си вдигала джабала | prestani da dramiš |
+| 🇧🇬 Fucking hard | fucking hard | verdammt schwer | fottutamente difficile | γαμημένα δύσκολο | на куче брат | jebeno teško |
 
 ---
 **Tips**: Use these for casual, contemporary conversations. Some are quite informal!

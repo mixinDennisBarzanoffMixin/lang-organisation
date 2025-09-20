@@ -33,6 +33,9 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | 🎯 Naturally/of course | naturally; of course | natürlich | naturalmente | φυσικά | естествено са | naravno; prirodno |
 | 🚫 Not there/missing | it's not there | ist nicht da | non c'è | δεν υπάρχει | няма го | nema ga |
 | 🏁 I'll do/put it simply | I'll do/put it simply | ich mache/sage es einfach | lo faccio/dico semplicemente | θα το κάνω/πω απλά | ще го направя/сложа, просто… | uradiću/reći ću to jednostavno |
+| 🇧🇬 And then like | and then, you know, like... | und dann, weißt du, so wie... | e poi, sai, tipo... | και μετά, ξέρεις, κάπως... | и тогава, един вид, нали... | i onda, znaš, kao... |
+| 🤔 You know how you always... | You know how you always... | Du weißt doch, wie du immer... | Sai come sempre... | Ξέρεις πώς πάντα... | Нали знаеш как винаги... | Znaš kako uvek... |
+| 🤷 So yeah... | so yeah... | also ja... | quindi sì... | οπότε ναι... | така че да... | pa da... |
 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -54,6 +57,7 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | ⚖️ On one hand | on the one hand… / on the other hand… | einerseits… / andererseits… | da una parte… / dall'altra… | αφενός… / αφετέρου… | от една страна… / от друга страна… | s jedne strane... / s druge strane... |
 | 💬 By the way | by the way | übrigens | a proposito | παρεμπιπτόντως | между другото | uzgred; usput |
 | 👣 Step by step | step by step | Schritt für Schritt | passo dopo passo | βήμα βήμα | стъпка по стъпка | korak po korak |
+| 🇩🇪 Initially | initially | zunächst | inizialmente | αρχικά | първоначално | početno |
 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG | SR |

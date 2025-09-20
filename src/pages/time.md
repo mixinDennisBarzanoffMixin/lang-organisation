@@ -21,6 +21,8 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | 🔜 Later | later | später | più tardi | αργότερα | по-късно | kasnije |
 | 🇮🇹 In a bit | in a bit | in Kürze | tra poco | σε λίγο | след малко | za malo |
 | 🇮🇹 A lot of time | a lot of time | eine Menge Zeit | tantissimo tempo | πάρα πολύς χρόνος | много време | puno vremena |
+| 🇧🇬 Just now | just now | gerade eben | proprio adesso | току-що | току-що | upravo sada |
+| ⏳ For the time being | for the time being | vorläufig | per il momento | προς το παρόν | за момента | za sada |
 
 ### Temporal relations
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -68,6 +70,7 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | 🕰️ Until now/so far | until now; so far | bisher | finora | μέχρι τώρα | до сега | do sada |
 | 🎯 Happened to do/have | happened to do/have | zufällig getan/gehabt | è capitato di fare/avere | έτυχε να κάνω/έχω | случи ми се да направя/имам | desilo se da uradim/imam |
 | ✅ Having already done X, Y | having already done X, Y | nachdem ich X getan hatte, Y | avendo già fatto X, Y | αφού έκανα ήδη X, Y | след като вече направих X, Y | pošto sam već uradio X, Y |
+| ❌ Having not done X yet | having not done X yet | X noch nicht getan haben | non avendo ancora fatto X | μη έχοντας κάνει ακόμα X | все още не съм направил X | pošto još nisam uradio X |
 | ⏰ X time ago | X time ago | vor X Zeit | X tempo fa | πριν από X χρόνο | преди X време | pre X vremena |
 | 🇧🇬 Just about to X | just about to X | gerade dabei X zu tun | sto per fare X | μόλις θα κάνω X | тъкмо да X | upravo ću da X |
 | 🇬🇷 Up to now (Greek) | up to now | bis jetzt | fino ad ora | μέχρι στιγμής κιόλας | до сега | do sada |
