@@ -15,13 +15,16 @@ Small, reusable speaking blocks for language practice organized by topic.
 
 ### Core Expression Types
 
+#### Most important nouns and adjectives
+- **[Visuals](./visuals)** - Essential nouns for describing any other object
+
 #### 💬 Conversation & Discourse
 - **[Fillers & Starters](./fillers)** - Warm-ups, attention-getters, conversation starters, discourse structuring
 - **[Vagueness & Hedging](./vagueness)** - Softening statements, being uncertain, hedging
-- **[Questions & Interaction](./questions)** - Question words and interactive expressions  
+- **[Questions & Interaction](./questions)** - Question words and interactive expressions
 - **[Focus & Emphasis](./emphasis)** - Emphasizing points, strong reactions, interjections
 
-#### 🔗 Logic & Structure  
+#### 🔗 Logic & Structure
 - **[Logical Connectors](./logical)** - Basic cause-effect, contrast, addition
 - **[Conditions & Concessions](./conditions)** - Complex conditional statements, concessions
 - **[Advanced Expressions](./advanced)** - B-level+ sophisticated constructions
