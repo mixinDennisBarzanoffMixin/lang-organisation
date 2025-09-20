@@ -35,6 +35,7 @@ Basic quantifiers, amounts, and degree expressions.
 | 📉 Few/little | few; little | wenige; wenig | pochi; poco | λίγοι; λίγο | малко; малцина | malo; nekoliko |
 | ➕ Enough | enough; sufficient | genug | abbastanza | αρκετά | достатъчно | dovoljno |
 | ➖ Not enough | not enough | nicht genug | non abbastanza | δεν είναι αρκετά | не е достатъчно | nedovoljno |
+| plenty | there's plenty of X | es gibt jede Menge X | ce n'è in abbondanza | υπάρχει άφθονο Χ | има много X | ima dosta X |
 
 ### Effort/time quantities
 | Concept | EN | DE | IT | GR | BG | SR |

@@ -81,6 +81,7 @@ Contemporary expressions, slang, and very colloquial language.
 | 💥 What the hell? | what the hell? | was zur Hölle? | che cazzo? | τι στο διάολο; | какво по дяволите? | šta dođavola? |
 | 😤 Damn it! | damn it! | verdammt! | merda! | γαμώτο! | по дяволите! | prokletstvo! |
 | 🔥 Damn (intensifier) | damn foreigner; damn good | verdammter Ausländer; verdammt gut | dannato straniero; dannato buono | καταραμένος ξένος; πολύ καλός | проклет чужденец; много добър | prokleti stranac; prokleto dobro |
+| 🇧🇬 I'll kill you (joking) | I'll kill you (joking) | ich bring dich um (scherzhaft) | ti ammazzo (scherzando) | θα σε σκοτώσω (πλάκα) | направо ще те убия | ubiću te (šala) |
 | 💥 Won't they fucking take that | won't they fucking take that | werden die das verdammt nicht nehmen | non lo prenderanno, cazzo | δεν θα το πάρουν, γαμώτο | няма ли да го вземат, по дяволите | zar ga neće jebeno uzeti |
 | 😤 Stop being dramatic | stop being dramatic | hör auf zu dramatisieren | smettila di fare il/la drammatico/a | σταμάτα να κάνεις δράμα | стига си вдигала джабала | prestani da dramiš |
 

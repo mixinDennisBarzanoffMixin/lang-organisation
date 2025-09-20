@@ -21,6 +21,7 @@ More sophisticated expressions for intermediate and advanced learners.
 | 🎯 As far as to | went as far as to | ging so weit zu | è arrivato al punto di | έφτασε στο σημείο να | стигна дотам, че | išao je dotle da |
 | 📊 There's X left | there's X left; X is missing | es fehlt X; X ist übrig | manca X | λείπει X | липсва X | ostalo je X; fali X |
 | 🤷 Are X to one another | are X to one another | sind X zueinander | sono X l'uno all'altro | είναι X μεταξύ τους | са X един към друг | su X jedan drugome |
+| 🇧🇬 As if X, I shouldn't have | as if X, I shouldn't have... | als ob X, ich hätte nicht... | come se X, non avrei dovuto... | λες και X, δεν θα έπρεπε να... | едва ли не X, да не съм... | kao da X, nisam trebao... |
 
 ### Formal expressions
 | Concept | EN | DE | IT | GR | BG | SR |

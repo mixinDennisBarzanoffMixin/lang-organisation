@@ -38,6 +38,12 @@ Conditional statements, concessions, and purpose expressions.
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
 | 🇮🇹 Even though/although | even though; although | obwohl; auch wenn | quantunque | αν και; παρόλο που | въпреки че | iako |
+| 🤔 Whether X or not | whether X or not | ob X oder nicht | se X o no | είτε X είτε όχι | дали X или не | da li X ili ne |
+| 🚫 Except for X | except for X | außer für X | salvo X | εκτός από X | освен X | osim za X |
+| 🇮🇹 Regardless of X | regardless of X | unabhängig von X | indipendentemente da X | ανεξάρτητα από το X | независимо от X | bez obzira na X |
+| 🇮🇹 I do it anyway, even though | I do it anyway, even though it rains | ich mache es trotzdem, obwohl es regnet | lo faccio comunque, sebbene piova | το κάνω ούτως ή άλλως, παρόλο που βρέχει | правя го така или иначе, въпреки че вали | radim to svejedno, iako pada kiša |
+| 🇮🇹 As long as you want | as long as you want, I'm here for you | solange du willst, bin ich für dich da | finché vuoi, sono qui per te | όσο θέλεις, είμαι εδώ για σένα | докато искаш, аз съм тук за теб | dokle god hoćeš, tu sam za tebe |
+| 🇧🇬 Even if I have done X | even if I have done X | auch wenn ich X getan habe | anche se ho fatto X | ακόμα κι αν έχω κάνει X | дори и да съм направил X | čak i ako sam uradio X |
 
 ---
 **Tips**: Perfect for expressing complex conditional relationships and contrasts.

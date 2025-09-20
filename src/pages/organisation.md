@@ -69,3 +69,4 @@ Small, reusable speaking blocks for language practice organized by topic.
 - Certainty expressions: "for sure/di sicuro"
 - Connectors: "понеже", "salvo/except"
 - Number ranges: "από το 1 έως το 10"
+- Discourse markers: "става въпрос за X", "let's start from here/there"

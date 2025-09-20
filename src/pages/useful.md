@@ -28,6 +28,10 @@ High-frequency, practical expressions for daily communication.
 | 🇧🇬 What are you doing? | what are you doing?; what's wrong? | was machst du?; was ist los? | che fai?; che succede? | τι κάνεις; τι γίνεται; | аре бе, кво се стискаш/правиш | šta radiš?; šta nije u redu? |
 | 👥 *You guys*... | *you guys*... are here tomorrow? | *ihr*... seid morgen hier? | *voi ragazzi*... siete qui domani? | *εσείς παιδιά*... είστε εδώ αύριο; | *вие момчета*... сте тук утре? | *vi momci*... ste ovde sutra? |
 | 🎯 Especially | especially | besonders | soprattutto | ειδικά | особено | posebno |
+| 🇮🇹 In some way | in some way | in irgendeiner Weise | in qualche modo | με κάποιο τρόπο | по някакъв начин | na neki način |
+| 🇮🇹 Now it's easy | now it's easy | jetzt ist es einfach | ora è facile | τώρα είναι εύκολο | сега е лесно | sada je lako |
+| 🇮🇹 It's your turn | it's your turn | du bist dran | tocca a te | είναι η σειρά σου | τвой ред е | tvoj je red |
+| 🇮🇹 I hope this is... | I hope this is more clear/easy/understandable | ich hoffe, das ist klarer/einfacher/verständlicher | spero che questo sia più chiaro/facile/comprensibile | ελπίζω αυτό να είναι πιο σαφές/εύκολο/κατανοητό | надявам се това да е по-ясно/лесно/разбираемо | nadam se da je ovo jasnije/lakše/razumljivije |
 
 ### Choice & Examples
 | Concept | EN | DE | IT | GR | BG | SR |

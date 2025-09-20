@@ -8,8 +8,8 @@ Basic logical connections - cause, effect, contrast, addition.
 ### Logical connectors
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
-| 🔗 Because | because | weil | perché | επειδή | защото | jer |
-| 🔗 Since/because | since; because | da; weil | siccome; perché | αφού; επειδή | понеже; тъй като | pošto; jer |
+| 🔗 Since/because | since; because (siccome X, Y) | da; weil (da X, Y) | siccome; perché | αφού; επειδή | понеже; тъй като | pošto; jer |
+| 🔗 Because | because (perché at end of sentence) | weil | perché | επειδή | защото | jer |
 | 🔗 Therefore | therefore; so | deshalb; daher | quindi; pertanto | άρα; γι' αυτό | следователно; затова | dakle; pa |
 | 🔗 Due to | due to; because of | aufgrund; wegen | a causa di | λόγω | поради; заради | zbog |
 | 🔗 Instead of | instead of | anstatt | invece di | αντί για | вместо | umesto |
@@ -46,6 +46,8 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🔀 Instead of | instead of | anstatt; statt | invece di | αντί για | вместо да | umesto da |
 | 🇮🇹 Anzi (actually/on the contrary) | actually; on the contrary; rather | im Gegenteil; vielmehr | anzi | μάλλον; αντίθετα | напротив; по-точно | naprotiv; štaviše |
 | 🚫 Not this, but... | not this, but... | nicht das, sondern... | non questo, ma... | όχι αυτό, αλλά... | не това, ами... | ne ovo, nego... |
+| 🇮🇹 That is to say | that is to say | das heißt | ossia | δηλαδή | тоест | to jest |
+| 🇮🇹 In short | in short | kurz gesagt | insomma | με λίγα λόγια | накратко | ukratko |
 
 ### Additional logical constructions
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -91,6 +93,8 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🔄 And hence why | aaand hence why I applied/did X | und daher warum ich X gemacht habe | e quindi ecco perché ho fatto X | και γι' αυτό έκανα X | и ето защо направих X | i zato sam se prijavio/uradio X |
 | 🔄 On the basis of | do X (cancel contract) on the basis of | X machen (Vertrag kündigen) auf der Grundlage von | fare X (cancellare contratto) sulla base di | κάνω X (ακυρώνω συμβόλαιο) με βάση | правя X (прекратявам договор) въз основа на | uraditi X (otkazati ugovor) na osnovu |
 | 🚫 Not one of these things can | not one of these things can... | nicht eines dieser Dinge kann... | nessuna di queste cose può... | κανένα από αυτά δεν μπορεί... | нито едно от тия неща не може... | nijedna od ovih stvari ne može... |
+| 🗣️ Now that being said | now that being said... X | nun, da das gesagt ist... X | ora che è stato detto... X | τώρα που το είπαμε αυτό... X | сега, като се каза това... X | sad kad je to rečeno... X |
+| 🇧🇬 Through X to be able to Y | through X to be able to Y | durch X, um Y zu können | tramite X per poter Y | μέσω του X για να μπορέσουμε να Y | чрез X да можем да Y | kroz X da bismo mogli Y |
 
 ---
 **Tips**: Essential for building complex arguments and explanations.

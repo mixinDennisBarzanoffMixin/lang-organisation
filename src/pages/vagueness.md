@@ -27,6 +27,8 @@ Expressions for being vague, uncertain, or softening statements.
 | 🤷 Shoot it on the other side | shoot it on the other side over the X | schieß es auf die andere Seite über das X | sparalo dall'altra parte sopra X | ρίξ' το από την άλλη πλευρά πάνω από το X | стреляй го от другата страна над X | prebaci to na drugu stranu preko X |
 | 🌫️ Kind of | kind of; sozusagen | sozusagen; irgendwie | per così dire; tipo | ας πούμε; κάπως | така да се каже; нещо като | nekako; na neki način |
 | 🤷 Doesn't matter | it doesn't matter | es ist egal; macht nichts | non importa | δεν πειράζει; δεν έχει σημασία | няма значение | nema veze; nije bitno |
+| 📈 At a reasonably high level | at a reasonably high level | auf einem ziemlich hohen Niveau | a un livello ragionevolmente alto | σε ένα λογικά υψηλό επίπεδο | на разумно високо ниво | na razumno visokom nivou |
+| 🤔 Nothing per se | nothing per se | nichts an sich | niente di per sé | τίποτα από μόνο του | нищо само по себе си | ništa samo po sebi |
 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG | SR |

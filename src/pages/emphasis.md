@@ -55,6 +55,11 @@ Expressions for emphasizing points and focusing attention.
 | 💥 To fuck up (Italian) | to fuck up; to mess up | vermasseln; kaputtmachen | mandare all'aria | τα χαλάω; τα σκατώνω | развалям го; обърквам го | zajebati; pokvariti |
 | 🇮🇹 About it (built-in) | about it | darüber | ne (built-in particle) | γι' αυτό | за това | o tome |
 | 😤 I can *barely* | I can *barely* | ich kann *kaum* | riesco *a malapena* | μόλις *μπορώ* | едва *мога* | jedva *mogu* |
+| 💪 I *AM* carrying | I *AM* carrying a bit of branding | ich *BIN* ein bisschen am Branding | *STO* portando un po' di branding | *ΚΑΝΩ* λίγο branding | *АЗ* нося малко брандинг | *JA* nosim malo brendinga |
+| 💪 I *DID* do X | I *DID* do X | ich *HABE* X gemacht | *HO* fatto X | *ΕΚΑΝΑ* X | *НАПРАВИХ* X | *URADIO SAM* X |
+| 🇧🇬 If you only knew | if you only knew | wenn du nur wüsstest | se solo sapessi | αν ήξερες | ти ако знаеш | kad bi samo znao |
+| 🤔 Not even remotely | not even remotely | nicht einmal annähernd | neanche lontanamente | ούτε κατά διάνοια | дори не и малко | ni izbliza |
+| 🇧🇬 Make sure you do it | make sure you do it | sieh zu, dass du es machst | guarda di farlo | κοίτα να το κάνεις | гледай да го направиш | gledaj da to uradiš |
 | 🇩🇪 Your question by the way | your question by the way | deine Frage *nebenbei* | la tua domanda *tra parentesi* | η ερώτησή σου *παρεμπιπτόντως* | въпросът ти *между другото* | tvoje pitanje *usput* |
 | 🇩🇪 Just like that | just like that | eben so | proprio così | έτσι ακριβώς | точно така | baš tako |
 | 🇧🇬 Here and there | here and there | hier und da | qua e là | εδώ και εκεί | отсам оттам | tamo-amo |

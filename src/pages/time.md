@@ -19,12 +19,15 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | ⏳ Forever/always | always; forever | immer | sempre | πάντα | винаги | uvek; zauvek |
 | ⏲️ Eventually | eventually; in the end | schließlich; am Ende | alla fine; eventualmente | τελικά | накрая | na kraju; konačno |
 | 🔜 Later | later | später | più tardi | αργότερα | по-късно | kasnije |
+| 🇮🇹 In a bit | in a bit | in Kürze | tra poco | σε λίγο | след малко | za malo |
+| 🇮🇹 A lot of time | a lot of time | eine Menge Zeit | tantissimo tempo | πάρα πολύς χρόνος | много време | puno vremena |
 
 ### Temporal relations
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
 | ⏮️ Before | before | bevor; vor | prima (di) | πριν (από) | преди | pre |
 | ⏱️ X ago | X minutes/days ago | vor X Minuten/Tagen | X minuti/giorni fa | πριν από Χ λεπτά/μέρες | преди Х минути/дни | pre X minuta/dana |
+| 🇮🇹 A few minutes ago | a few minutes ago | vor ein paar Minuten | pochi minuti fa | πριν από λίγα λεπτά | преди няколко минути | pre nekoliko minuta |
 | ⏭️ After | after | nach; nachdem | dopo (che) | μετά (που) | след (като) | posle; nakon |
 | 🔀 In the meantime | in the meantime | in der Zwischenzeit | nel frattempo | στο μεταξύ | междувременно | u međuvremenu |
 | 🇮🇹 In the meantime | in the meantime | inzwischen | nel frattempo | στο μεταξύ | междувременно | u međuvremenu |

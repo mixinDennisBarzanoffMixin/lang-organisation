@@ -14,6 +14,7 @@ Question words and interactive expressions for conversation.
 | ❓ What's the difference? | what's the difference? | was ist der Unterschied? | qual è la differenza? | ποια είναι η διαφορά; | каква е разликата? | koja je razlika? |
 | ❓ What's next? | what's next? | was kommt als nächstes? | cosa c'è dopo? | τι γίνεται περαιτέρω; | какво следва? | šta je sledeće? |
 | ❓ Where should I help? | where should I help? | wo soll ich helfen? | dove dovrei aiutare? | πού πρέπει να βοηθήσω; | къде трябва да помогна? | gde da pomognem? |
+| 🇮🇹 What is it about | what is it about | worum geht es | di cosa si tratta | περί τίνος πρόκειται | за какво става въпрос | o čemu se radi |
 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -24,6 +25,7 @@ Question words and interactive expressions for conversation.
 | 💡 Do you have any idea | do you have any idea? | hast du eine Ahnung? | hai qualche idea? | έχεις καμία ιδέα; | имаш ли представа | da li imaš predstavu? |
 | 👀 Are you familiar with | do you know that store?; are you familiar with...? | kennst du den Laden?; bist du vertraut mit...? | conosci quel negozio?; hai presente...? | ξέρεις το μαγαζί; είσαι εξοικειωμένος με...; | познаваш ли този магазин?; запознат ли си с...? | da li poznaješ tu prodavnicu?; da li si upoznat sa...? |
 | 🤷 What does X represent | what does X represent | was stellt X dar | cosa rappresenta X | τι αντιπροσωπεύει το X | какво представлява X | šta predstavlja X? |
+| 🇧🇬 Do you see...? | do you see...? (rhetorical) | siehst du...? | vedi...? | βλέπεις...; | да виждаш някой да X...; | da vidiš...? |
 
 ---
 **Tips**: Essential for asking questions and keeping conversations interactive.

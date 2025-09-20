@@ -21,6 +21,7 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | 🙄 Come on | come on | komm schon | dai | άντε | айде де | hajde |
 | 👍 Agreement | yeah, exactly; right | stimmt; genau | esatto; giusto | ναι σωστά; ακριβώς | точно така; вярно | da, tačno; tako je |
 | 🤔 Thinking | let me think… | lass mich nachdenken… | fammi pensare… | άσε να σκεφτώ… | чакай да помисля… | daj da razmislim… |
+| 🤔 Let me see | let me see | lass mich sehen | fammi vedere | για να δω | я да видя | da vidim |
 | 🎯 The thing is | the thing is | die Sache ist | la cosa è che | το θέμα είναι | работата е | stvar je u tome... |
 | ⚠️ The problem is | the problem is | das Problem ist | il problema è | το πρόβλημα είναι | проблемът е | problem je... |
 | 🔄 Actually/in reality | actually; in reality | eigentlich; in Wirklichkeit | in realtà | στην πραγματικότητα | всъщност | zapravo; u stvarnosti |
