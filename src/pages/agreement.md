@@ -18,6 +18,11 @@ Expressing agreement, disagreement, and certainty levels.
 | 👁️ Obviously/apparently | obviously; apparently | offensichtlich; anscheinend | ovviamente; a quanto pare | προφανώς; φαίνεται | явно | očigledno; izgleda |
 | ✅ That's fine | that's fine; that's okay | das ist in Ordnung; das passt | va bene; è okay | εντάξει είναι; καλά είναι | добре е; наред е | to je u redu; u redu je |
 | 👌 No problem | no problem; it's fine | kein Problem; ist okay | nessun problema; va bene | κανένα πρόβλημα; εντάξει | няма проблем; наред е | nema problema; u redu je |
+| 👍 Sounds good | sounds good to me | klingt gut für mich | mi suona bene | μου ακούγεται καλό | звучи ми добре | zvuči mi dobro |
+| 🇧🇬 Apparently not | apparently it's not possible/it doesn't work | anscheinend nicht möglich/funktioniert nicht | a quanto pare non è possibile/non funziona | προφανώς δεν είναι δυνατό/δεν λειτουργεί | явно не може/става | očigledно nije moguće/ne radi |
+| 😎 Cool | cool | cool | figo | готино | kul |
+| 🇩🇪 Not necessarily | that's not necessarily so | das ist nicht zwingend so | non è necessariamente così | δεν είναι απαραίτητα έτσι | това не е непременно така | to nije nužno tako |
+| 🇮🇹 Precisely | precisely; exactly | genau; eben | appunto; precisamente | ακριβώς | точно | tačno |
 
 ### Advanced modal expressions
 | Concept | EN | DE | IT | GR | BG | SR |

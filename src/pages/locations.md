@@ -14,6 +14,7 @@ Detailed spatial descriptions and directional expressions for precise location i
 | ⬇️ Under/below | under; below | unter; darunter | sotto; al di sotto | κάτω; από κάτω | под; отдолу | ispod; dole |
 | ➡️ A little forward | a little forward | etwas nach vorn | un po' in avanti | λίγο μπροστά | малко по-напред | malo napred |
 | 🔄 Move your finger over it around forward | move your finger over it around forward | bewege deinen Finger darüber herum nach vorn | muovi il dito sopra intorno in avanti | κίνησε το δάχτυλό σου από πάνω γύρω μπροστά | мини с пръста отгоре около него напред | pomeri prst preko toga oko napred |
+| 👉 Right here | right here | genau hier | proprio qui | ακριβώς εδώ | ето тук | evo baš ovde |
 
 ### Complex Spatial Instructions
 

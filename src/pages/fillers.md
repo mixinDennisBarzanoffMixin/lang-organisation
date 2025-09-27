@@ -36,6 +36,12 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | 🇧🇬 And then like | and then, you know, like... | und dann, weißt du, so wie... | e poi, sai, tipo... | και μετά, ξέρεις, κάπως... | и тогава, един вид, нали... | i onda, znaš, kao... |
 | 🤔 You know how you always... | You know how you always... | Du weißt doch, wie du immer... | Sai come sempre... | Ξέρεις πώς πάντα... | Нали знаеш как винаги... | Znaš kako uvek... |
 | 🤷 So yeah... | so yeah... | also ja... | quindi sì... | οπότε ναι... | така че да... | pa da... |
+| 🤔 So... now... | so... now... | also... jetzt... | allora... ora... | λοιπόν... τώρα... | така... сега... | tako... sada... |
+| 🤔 Hold on/wait | one moment... hold on... wait... | Moment... warte... | un momento... aspetta... | μια στιγμή... περίμενε... | момент... стой... чакай... | momenat... stani... čekaj... |
+| 🤔 It's like... | it's like, X | es ist so, X | è come, X | είναι κάπως, X | нещо като, X | to je kao, X |
+| 🇮🇹 It's about... | it's about X; it concerns X | es geht um X | si tratta di X | πρόκειται για X | става въпрос за X | radi se o X |
+| 🇩🇪 Halt (filler) | I would just...; as you know... | ich würde halt...; halt | vorrei solo...; sai... | θα ήθελα απλά...; ξέρεις... | просто бих...; нали знаеш... | ja bih prosto...; znaš... |
+| 🇧🇬 Well... / Indeed... | well...; indeed... (rhetorical) | na ja...; allerdings... | beh...; appunto... | ε...; μα ναι... | а де... | pa...; dabome... |
 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG | SR |

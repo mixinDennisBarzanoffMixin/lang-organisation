@@ -38,6 +38,10 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🔗 Therefore (strong) | hence; thus | folglich; somit | dunque; pertanto | συνεπώς | следователно | stoga; dakle |
 | 🔁 Anyway/in any case | anyway; in any case | jedenfalls; sowieso | comunque; ad ogni modo | έτσι κι αλλιώς; σε κάθε περίπτωση | така или иначе; във всеки случай | u svakom slučaju; svejedno |
 | 📋 The fact that | the fact that… | die Tatsache, dass… | il fatto che… | το γεγονός ότι… | фактът, че… | činjenica da... |
+| 🇩🇪 That's because | that's because...; the reason is that... | das liegt daran, dass... | questo è perché...; la ragione è che... | αυτό συμβαίνει επειδή...; ο λόγος είναι ότι... | това е защото...; причината е, че... | to je zato što...; razlog je taj što... |
+| 🇩🇪 To lead to | to lead to; to result in | dazu führen | portare a; risultare in | οδηγεί σε | води до | dovesti do |
+| 🤔 After all | after all | schließlich | dopo tutto | τελικά | в края на краищата | na kraju krajeva |
+| 🇮🇹 Due to the fact that | due to the fact that | aufgrund der Tatsache, dass | per il fatto che | λόγω του γεγονότος ότι | поради факта, че | zbog činjenice da |
 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -101,6 +105,8 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🤔 Because when you... | Because when you... the way you... | Denn wenn du... die Art und Weise, wie du... | Perché quando tu... il modo in cui tu... | Επειδή όταν εσύ... ο τρόπος που εσύ... | Защото когато ти... начинът, по който ти... | Zato što kada ti... način na koji ti... |
 | 🤔 That's why X is all about Y | That's why X is all about Y | Deshalb dreht sich bei X alles um Y | Ecco perché X è tutto su Y | Γι' αυτό το X αφορά αποκλειστικά το Y | Ето защо X е изцяло за Y | Zato se X svodi na Y |
 | 🤔 Looks alike | looks alike | sieht ähnlich aus | si assomiglia | μοιάζει | прилича | liči |
+| 🤔 More like X, less like Y | it's more like it works like X and less like Y | es ist mehr so, dass es wie X und weniger wie Y funktioniert | è più che funziona come X e meno come Y | είναι περισσότερο ότι λειτουργεί σαν X και λιγότερο σαν Y | по-скоро работи като X и по-малко като Y | više radi kao X a manje kao Y |
+| 🇮🇹 Not due to | it was not due to X | es war nicht auf X zurückzuführen | non era dovuta a X | δεν οφειλόταν στο X | не се дължеше на X | nije bilo zbog X |
 
 ---
 **Tips**: Essential for building complex arguments and explanations.

@@ -33,6 +33,10 @@ Contemporary expressions, slang, and very colloquial language.
 | 🗣️ That's what's up, Denis | that's what's up, Denis | so ist das, Denis | ecco come stanno le cose, Denis | έτσι είναι, Ντένις | това бе, Денис | to je to, Denise |
 | 🤔 Like just so many | like just so many requests | einfach so viele Anfragen | tipo così tante richieste | σαν τόσες πολλές αιτήσεις | просто толкова много заявки | kao samo toliko zahteva |
 | 🎯 And also you know... | and also you know... | und außerdem weißt du... | e poi sai... | και επίσης ξέρεις... | и също знаеш ли... | i takođe znaš... |
+| 🇷🇸 Wow/geez | wow; geez; all kinds of things | was es nicht alles gibt | che roba; pazzesco | τι να πω; απίστευτο | какво ли не; свашта | svašta |
+| 🤔 Awfully X | that's awfully graphic/stupid | das ist furchtbar anschaulich/dumm | è terribilmente grafico/stupido | αυτό είναι τρομερά παραστατικό/χαζό | това е ужасно графично/глупаво | to je užasno grafički/glupo |
+| 🇧🇬 Straight up (intensifier) | straight up; literally (it was straight up super) | einfach; total (es war einfach super) | proprio; davvero (era proprio super) | κυριολεκτικά; τελείως (ήταν κυριολεκτικά σούπερ) | направо (направо супер беше) | bukvalno; totalno (bilo je bukvalno super) |
+| 😲 Yooo! Damn! | yooo! damn! | yooo! verdammt! | yooo! cavolo! | γιοοο! γαμώτο! | йооо! по дяволите! | jooo! dođavola! |
 
 ### German particles
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -75,6 +79,7 @@ Contemporary expressions, slang, and very colloquial language.
 | 🤷 Supposedly/apparently | supposedly; apparently | angeblich; scheinbar | a quanto pare; presumibilmente | υποτίθεται; φαίνεται | уж | navodno; očigledno |
 | 🎁 Here you go | here you go; there you have it | hier hast du; da hast du | ecco qua; eccoti | ορίστε; ετούτο | ето ти | izvoli; eto ti |
 | 📉 Not a bit/gram | not a bit; not a gram | kein bisschen; kein Gramm | neanche un po'; neanche un grammo | ούτε λίγο; ούτε γραмμάριο | грам нямаше | ni malo; ni grama |
+| 🤔 Not like it's surprising | I mean, not like this is something surprising | ich meine, nicht, dass das überraschend wäre | cioè, non che sia una sorpresa | εννοώ, όχι ότι είναι κάτι περίεργο | в смисъл, не че е нещо изненадващо | mislim, nije da je to nešto iznenađujuće |
 
 ### Strong expressions (vulgar/colloquial)
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -87,6 +92,7 @@ Contemporary expressions, slang, and very colloquial language.
 | 💥 Won't they fucking take that | won't they fucking take that | werden die das verdammt nicht nehmen | non lo prenderanno, cazzo | δεν θα το πάρουν, γαμώτο | няма ли да го вземат, по дяволите | zar ga neće jebeno uzeti |
 | 😤 Stop being dramatic | stop being dramatic | hör auf zu dramatisieren | smettila di fare il/la drammatico/a | σταμάτα να κάνεις δράμα | стига си вдигала джабала | prestani da dramiš |
 | 🇧🇬 Fucking hard | fucking hard | verdammt schwer | fottutamente difficile | γαμημένα δύσκολο | на куче брат | jebeno teško |
+| 🇮🇹 No way (vulgar) | no way; fuck no | auf keinen Fall; Scheiß drauf | col cazzo | με τίποτα; σιγά μην | в никакъв случай; да бе | nema šanse; ma kurac |
 
 ---
 **Tips**: Use these for casual, contemporary conversations. Some are quite informal!

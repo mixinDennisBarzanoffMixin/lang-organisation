@@ -12,13 +12,14 @@ Conditional statements, concessions, and purpose expressions.
 | 🚫 Unless | unless | es sei denn | a meno che (non) | εκτός αν | освен ако | osim ako |
 | ➕ Even if | even if/though | selbst wenn | anche se | ακόμα κι αν | дори и | čak i ako |
 | ⏳ Only when | only when | erst wenn | solo quando | μόνο όταν | едва когато | tek kada |
-| 🎯 Purpose | so that; in order to | damit; um … zu | affinché; per | ώστε να; για να | за да; така че | da bi; kako bi |
+| 🎯 Purpose | so that; in order to | damit; um … zu | affinché; per; così che | ώστε να; για να | за да; така че | da bi; kako bi |
 | ⏳ As long as | as long as | solange | finché | όσο; εφόσον | докато | sve dok |
 
 ### No matter constructions
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
 | 🔄 No matter what | no matter what; regardless | egal was; ungeachtet | non importa cosa | δεν έχει σημασία τι | без значение какво | bez obzira na sve |
+| 🇩🇪 Whatever happens | whatever happens; however it runs | was auch immer passiert; wie er auch immer läuft | qualsiasi cosa accada; comeunque vada | ό,τι κι αν συμβεί; όπως κι αν τρέξει | каквото и да стане; както и да тръгне | šta god da se desi; kako god da ide |
 
 ### Comparative structures
 | Concept | EN | DE | IT | GR | BG | SR |

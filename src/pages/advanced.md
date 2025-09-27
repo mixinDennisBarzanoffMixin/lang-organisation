@@ -30,12 +30,14 @@ More sophisticated expressions for intermediate and advanced learners.
 | 🎯 At least/not enough | although it's not enough; zwar nicht, but... | obwohl es nicht genug ist; zwar nicht, aber... | anche se non è abbastanza; non proprio, ma... | αν και δεν είναι αρκετό; όχι ακριβώς, αλλά... | въпреки че не е достатъчно; не точно, но... | iako nije dovoljno; doduše ne, ali... |
 | ❓ Do you have any idea | do you have any idea | hast du eine Ahnung | hai qualche idea | έχεις καμία ιδέα | имаш ли представа | da li imaš predstavu |
 | 📍 What does X represent | what does X represent | was stellt X dar | cosa rappresenta X | τι αντιπροσωπεύει το X | какво представлява X | šta predstavlja X |
+| ✍️ I'd be remiss | I would be remiss if I didn't remind you that X | ich würde es versäumen, Sie nicht daran zu erinnern, dass X | sarei negligente se non ti ricordassi che X | θα ήταν παράλειψή μου να μην σας υπενθυμίσω ότι X | би било пропуск от моя страна да не ви напомня, че X | bio bih nemaran ako vas ne podsetim da X |
 
 ### Advanced German expressions
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
 | 🇩🇪 Although it is, it's... | although it is, it's... | es ist zwar, dass... | anche se è, è... | αν και είναι, είναι... | въпреки че е, е... | iako jeste, to je... |
 | 🇩🇪 Whatsoever | whatsoever | überhaupt; was auch immer | qualsiasi cosa | οτιδήποτε | изобщо какво и да е | bilo šta; uopšte |
+| 🇩🇪 Mainly/primarily | mainly; primarily | hauptsächlich | principalmente | κυρίως | основно | uglavnom |
 
 ### Nuanced distinctions
 | Concept | EN | DE | IT | GR | BG | SR |

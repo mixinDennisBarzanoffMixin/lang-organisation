@@ -12,11 +12,13 @@ Expressions for emphasizing points and focusing attention.
 | ⚡ The only thing | the only thing is… | das einzige ist… | l'unica cosa è… | το μόνο πράγμα είναι… | единственото нещо е… | jedina stvar je... |
 | 🎯 The one/this one | the one; this one | derjenige; dieser | quello; questo | εκείνος; αυτός | този; онзи | onaj; ovaj |
 | 📍 Each/respectively | each; respectively | jeweils; entsprechend | ciascuno; rispettivamente | κάθε ένας; αντίστοιχα | всеки; съответно | svaki; odnosno |
+| 🇩🇪 Any/every (emphatic) | any; every | jegliche | qualsiasi; ogni | κάθε; οποιοδήποτε | всякакъв | svaki; bilo koji |
 
 ### Hypothetical
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
 | 🤔 As if | as if; as though | als ob | come se | σαν να; λες και | като че ли | kao da |
+| 🇧🇬 It's as if | it's as if X; it's like, right... | es ist, als ob X | è come se X | είναι σαν να X | това е като все едно X; все едно нали... | to je kao da X |
 
 ### Interjections
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -32,7 +34,7 @@ Expressions for emphasizing points and focusing attention.
 |---|---|---|---|---|---|---|
 | 🎯 It's gonna work out | it's gonna work out; it'll be fine | das wird schon klappen; wird schon | ce la faremo; andrà bene | θα τα καταφέρουμε; θα πάει καλά | ще се оправя | uspeće; biće u redu |
 | 🧠 Don't think/do it | don't think about it; don't do it | denk nicht daran; mach es nicht | non pensarci; non farlo | μην το σκέφτεσαι; μην το κάνεις | не мисли за това; не го прави | ne misli o tome; ne radi to |
-| 🤷 Even without that | even without that | auch ohne das | anche senza quello | ακόμα και χωρίς αυτό | и без това; дори без това | čak i bez toga |
+| 🤷 Even without that | even without that (this envelope is torn *anyway*) | auch ohne das (der Umschlag ist *sowieso* zerrissen) | anche senza quello (questa busta è strappata *comunque*) | ακόμα και χωρίς αυτό (αυτός ο φάκελος είναι σκισμένος *έτσι κι αλλιώς*) | и без това/тва (тоя плик *и без тва* е скъсан) | čak i bez toga (ova koverta je *ionako* pocepana) |
 | 🚫 No more way/internet | no more way; no internet | kein Weg mehr; kein Internet | non c'è più modo; niente internet | δεν υπάρχει άλλος τρόπος; δεν έχει ίντερνετ | няма вече как; няма интернет | nema više načina; nema interneta |
 | 💥 Emphatic contradiction | oh yes (I do)!; but I am! | doch! | invece sì!; ma sì! | μα ναι!; όμως είμαι! | ама пък да!; все пак съм! | ma da (ja radim)!; ali ja jesam! |
 | 🎯 Let me do X | let me do X | lass mich X machen | lasciami fare X | άσε με να κάνω X | я направи X | pusti me da uradim X |
@@ -80,6 +82,17 @@ Expressions for emphasizing points and focusing attention.
 | 🇩🇪 Now probably (halt) | now probably | nun + halt wahrscheinlich? | ora probabilmente | τώρα μάλλον | сега вероятно | sada verovatno |
 | 🇧🇬 Leave it, not worth it | leave it, it's not worth it | lass es, es ist es nicht wert | lascia perdere, non ne vale la pena | άστο, δεν αξίζει | *мани* тва не си е работа | pusti to, nije vredno |
 | 🚫 Nor am I in position to | I don't want, *nor* am I in the capacity/position to | ich will nicht, noch bin ich in der Lage zu | non voglio, né sono in grado di | δεν θέλω, ούτε είμαι σε θέση να | не искам, нито съм в позиция да | ne želim, niti sam u poziciji da |
+| 🗣️ Every single one | every single one has a word for it | jeder einzelne hat ein Wort dafür | ognuno ha una parola per questo | κάθε ένας έχει μια λέξη γι' αυτό | всеки един има дума за това | svaki pojedini ima reč za to |
+| 😫 How many... | How many X have I gone through to be able to Y | Wie viele X musste ich durchmachen, um Y zu können | Quanti X ho dovuto passare per poter Y | Πόσα X έχω περάσει για να μπορέσω να Y | През колко X съм минал, за да мога да Y | Kroz koliko X sam prošao da bih mogao Y |
+| ✅ Simple as that | yeah, just... simple as that | ja, einfach so | sì, semplicemente così | ναι, απλά έτσι | да, просто така | da, prosto tako |
+| 😲 It's fascinating how... | it's fascinating to me how much/quickly/stupidly X | es ist faszinierend für mich, wie sehr/schnell/dumm X | è affascinante per me quanto/velocemente/stupidamente X | είναι συναρπαστικό για μένα πόσο/γρήγορα/ανόητα X | очарователно е за мен колко/бързо/глупаво X | fascinantno mi je koliko/brzo/glupo X |
+| 🙅 Anything but | being able to do X is anything but easy/good | X zu können ist alles andere als einfach/gut | essere in grado di fare X è tutt'altro che facile/buono | το να μπορείς να κάνεις X είναι κάθε άλλο παρά εύκολο/καλό | да можеш да правиш X е всичко друго, но не и лесно/добро | moći uraditi X je sve samo ne lako/dobro |
+| ✨ A good one at that | a good one at that | und was für einer | e che uno | και τι καλό | и то какъв | i to kakav |
+| 🎯 The very X | the very X that did Y for you | genau das X, das Y für dich getan hat | proprio l'X che ha fatto Y per te | ακριβώς το X που έκανε Y για σένα | точно това X, което направи Y за теб | baš taj X koji je uradio Y za tebe |
+| 📖 By definition | almost by definition, X is Y | quasi per Definition ist X Y | quasi per definizione, X è Y | σχεδόν εξ ορισμού, το X είναι Y | почти по дефиниция, X е Y | skoro po definiciji, X je Y |
+| 🎯 It's X, not any other | it's X, not any other | es ist X, und kein anderes | è X, non un altro | είναι το X, όχι κάποιο άλλο | това е X, а не някой друг | to je X, a ne bilo koji drugi |
+| 🏁 Once and for all | once and for all | ein für alle Mal | una volta per tutte | μια για πάντα | веднъж завинаги | jednom za svagda |
+| 🖱️ One click away | it's literally one click away | es ist buchstäblich nur einen Klick entfernt | è letteralmente a un clic di distanza | είναι κυριολεκτικά ένα κλικ μακριά | буквално е на един клик разстояние | bukvalno je na jedan klik |
 
 ---
 **Tips**: Great for making your point clear and adding emotional impact.

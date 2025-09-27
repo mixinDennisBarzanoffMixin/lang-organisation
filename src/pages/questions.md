@@ -15,6 +15,8 @@ Question words and interactive expressions for conversation.
 | ❓ What's next? | what's next? | was kommt als nächstes? | cosa c'è dopo? | τι γίνεται περαιτέρω; | какво следва? | šta je sledeće? |
 | ❓ Where should I help? | where should I help? | wo soll ich helfen? | dove dovrei aiutare? | πού πρέπει να βοηθήσω; | къде трябва да помогна? | gde da pomognem? |
 | 🇮🇹 What is it about | what is it about | worum geht es | di cosa si tratta | περί τίνος πρόκειται | за какво става въпрос | o čemu se radi |
+| 🇩🇪 What is X, actually? | what is X, actually? | was ist denn eigentlich X? | che cos'è in realtà X? | τι είναι τελικά το X; | какво всъщност е X? | šta je zapravo X? |
+| 🤔 How do I go about this? | how do I go about this? | wie gehe ich das an? | come affronto la questione? | πώς να το χειριστώ αυτό; | как да подходя към това? | kako da pristupim ovome? |
 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG | SR |

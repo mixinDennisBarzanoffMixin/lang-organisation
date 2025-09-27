@@ -30,12 +30,16 @@ Basic quantifiers, amounts, and degree expressions.
 | 🔇 At all | at all (not at all) | überhaupt (gar nicht) | affatto; per niente | καθόλου | изобщо | uopšte (ni najmanje) |
 | 🎯 Ganz/gar kein | quite; none at all | ganz; gar kein | del tutto; nessun/affatto | τελείως; καθόλου/κανένας | съвсем; изобщо никакъв | potpuno; nimalo |
 | 🤏 A little bit | a little bit | ein bisschen | un po' | λίγο | малко | malo |
-| 📊 Too much | too much | zu viel | troppo | πάρα πολύ | твърде много | previše |
+| 📊 Too much | too much | zu viel | troppo (iniziavo troppe cose) | πάρα πολύ | твърде много | previše |
 | 📈 A lot/many | a lot; many | viele; viel | molti; tanto | πολλά; πολύ | много | mnogo; puno |
 | 📉 Few/little | few; little | wenige; wenig | pochi; poco | λίγοι; λίγο | малко; малцина | malo; nekoliko |
 | ➕ Enough | enough; sufficient | genug | abbastanza | αρκετά | достатъчно | dovoljno |
 | ➖ Not enough | not enough | nicht genug | non abbastanza | δεν είναι αρκετά | не е достатъчно | nedovoljno |
 | plenty | there's plenty of X | es gibt jede Menge X | ce n'è in abbondanza | υπάρχει άφθονο Χ | има много X | ima dosta X |
+| 🇩🇪 Just as little/much | just as little; just as much | ebenso wenig; ebenso viel | altrettanto poco; altrettanto | εξίσου λίγο; εξίσου πολύ | също толкова малко; също толкова много | jednako malo; jednako mnogo |
+| 🇮🇹 Not even one | not even one | nicht einmal einer | neanche una | ούτε ένα | нито един | nijedan |
+| 🏆 Among the best | among the X best | unter den X besten | tra i X migliori | μεταξύ των X καλύτερων | сред X-те най-добри | među X najboljih |
+| 🇧🇬 At least X | at least 10 | mindestens 10 | almeno 10 | τουλάχιστον 10 | поне 10 | najmanje 10 |
 
 ### Effort/time quantities
 | Concept | EN | DE | IT | GR | BG | SR |

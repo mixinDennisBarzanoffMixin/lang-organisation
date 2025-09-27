@@ -12,6 +12,8 @@ High-frequency, practical expressions for daily communication.
 | 📈 Over time X happens | over time... X happens | mit der Zeit... passiert X | col tempo... X succede | με τον καιρό... συμβαίνει X | с времето... X се случва | vremenom se X dešava |
 | 😤 Barely managing as is | I'm barely managing things AS IS | ich schaffe es gerade so, WIE ES IST | riesco a malapena COSÌ COM'È | μόλις τα καταφέρνω ΈΤΣΙ ΌΠΩς ΕΊΝΑΙ | едва се справям КАКТО СИ Е | jedva se snalazim KAKO JESTE |
 | 🤔 How X is to be made | how X is to be made/adjusted | wie X gemacht/angepasst werden soll | come X deve essere fatto/adattato | πώς πρέπει να γίνει/προσαρμοστεί το X | как трябва да се направи/коригира X | kako X treba da se napravi/podesi |
+| 🌍 Applicable all around | applicable all around | rundum anwendbar | applicabile a 360 gradi | εφαρμόσιμο παντού | приложимо навсякъде | primenjivo svuda |
+| 🔄 Situation frequency | you'll constantly/rarely/barely have the situation that X | du wirst ständig/selten/kaum die Situation haben, dass X | ti capiterà costantemente/raramente/a malapena che X | θα έχεις συνεχώς/σπάνια/μόλις και μετά βίας την κατάσταση όπου X | постоянно/рядко/едва ли ще имаш ситуацията, в която X | stalno/retko/jedva ćeš imati situaciju da X |
 
 ### Intensity & Extremes
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -93,6 +95,17 @@ High-frequency, practical expressions for daily communication.
 - **herkommen** - come here (toward speaker)
 - **hinfahren** - drive there
 - **herfahren** - drive here
+
+### Conversational Patterns
+| Concept | EN | DE | IT | GR | BG | SR |
+|---|---|---|---|---|---|---|
+| 🤔 If you let me... | if you actually let me do X, you'll see that... | wenn du mich X machen lässt, wirst du sehen, dass... | se mi lasci fare X, vedrai che... | αν με αφήσεις να κάνω X, θα δεις ότι... | ако ми позволиш да направя X, ще видиш, че... | ako mi dozvoliš da uradim X, videćeš da... |
+| 🧐 X aspects | there are X aspects to this | es gibt X Aspekte dabei | ci sono X aspetti in questo | υπάρχουν X πτυχές σε αυτό | има X аспекта на това | postoje X aspekta ovoga |
+| ⚖️ Over/under-doing | overly/underly doing X has Y effects | übermäßiges/unzureichendes Tun von X hat Y-Effekte | fare troppo/troppo poco X ha effetti Y | το να κάνεις υπερβολικά/ανεπαρκώς το X έχει Y επιπτώσεις | прекаленото/недостатъчното правене на X има Y ефекти | preterano/nedovoljno rađenje X ima Y efekte |
+| 🤔 The tricky thing | the tricky thing is that... | das Knifflige daran ist, dass... | la cosa difficile è che... | το δύσκολο είναι ότι... | сложната част е, че... | škakljiva stvar je što... |
+| 🚶 Comes along | this one guy/girl/thing comes along | da kommt dieser eine Typ/Mädel/Ding | arriva questo tizio/a/coso | идва този един човек/нещо | dolazi taj jedan lik/devojka/stvar |
+| 🇩🇪 In this way/manner | in this way; in this manner | auf diese Art; auf diese Weise | in questo modo; in questa maniera | με αυτόν τον τρόπο | по този начин | na ovaj način |
+| 🗣️ Appropriate prefix | to use the appropriate prefix /X | den passenden Präfix /X zu verwenden | usare il prefisso appropriato /X | να χρησιμοποιήσετε το κατάλληλο πρόθεμα /X | да използвате подходящия префикс /X | da koristite odgovarajući prefiks /X |
 
 ---
 **Tips**: These expressions are essential for natural, fluent communication in each language.

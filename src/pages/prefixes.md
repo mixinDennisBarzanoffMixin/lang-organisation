@@ -44,6 +44,7 @@ True 1:1 operators that can be applied generatively to most verbs. Each concept 
 | **CHANGE / WRONG** | <span style="color:red">N/A</span> | <span style="color:green">**mis**- (misunderstand)</span> | <span style="color:green">**ver**- (verwechseln)</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | German `ver-` can also mean a change for the worse, or a mistake. |
 | **FOR A WHILE** | <span style="color:green">**по**- (поиграя)</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | Bulgarian prefix for doing something for a little bit. |
 | **INTO** (German) | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | <span style="color:green">**hinein**- (hineinlegen)</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | German separable prefix. |
+| **CORE / CENTRAL** | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | <span style="color:green">**Kern**- (Kernproblem)</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | <span style="color:red">N/A</span> | German prefix for core/central. |
 
 ### German Separable and Inseparable Prefixes
 
@@ -62,6 +63,11 @@ In German, some prefixes are “separable,” meaning they detach from the verb 
 *   **veran + lassen** - to cause/let something happen with responsibility
 *   **veran + X** - various constructions with responsibility/causation
 *   **heraus-** - out/forth (separable prefix for extraction/emergence)
+
+### German Suffixes
+| Suffix | Meaning | Example |
+|---|---|---|
+| -gemäß | in accordance with; according to | sinngemäß (according to the meaning), regelgemäß (according to the rules) |
 
 ---
 **Navigation**: [← Back to Main](./organisation) | [Language Mastery](./mastery)

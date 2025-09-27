@@ -35,6 +35,7 @@ Expressing personal opinions, impressions, and how things appear to you.
 | 🤔 It seems like | yeah, it seems like | ja, es scheint so | sì, sembra | ναι, φαίνεται | да, изглежда така | da, čini se tako |
 | 🌤️ Seems | it seems | es scheint | sembra | φαίνεται | изглежда | čini se |
 | 🫥 Feels like | it feels … | es fühlt sich … an | si sente … | αισθάνεται …; νιώθεται … | усеща се … | oseća se... |
+| 👃 I feel/sense | I feel; I sense | ich spüre | sento | αισθάνομαι | усещам | osećam |
 | 💭 It feels like | it feels like | es fühlt sich an | mi sembra | αισθάνεται σαν | усеща се като | osećaj je kao |
 | 🎲 It turns out | it turns out; it happens that | es stellt sich heraus | si scopre che | αποδεικнύεται ότι | оказва се че | ispada; dešava se da |
 | 🇧🇬 It seemed to me | it seemed to me | es schien mir | mi è sembrato | μου φάνηκε | видя ми се/вижда ми се | učinilo mi se |
@@ -65,6 +66,11 @@ Expressing personal opinions, impressions, and how things appear to you.
 | 🧠 As far as X is concerned | as far as X is concerned | was X betrifft | per quanto riguarda X | όσον аφορά το X | що се отнася до X | što se tiče X |
 | 💯 Definitely | definitely | definitiv; bestimmt | definitivamente | σίγουρα; οπωσδήποτε | определено | definitivno; sigurno |
 | 🔍 What represents X | what does X represent | was stellt X dar | cosa rappresenta X | τι αντιπροσωπεύει το X | какво представлява X | šta predstavlja X |
+
+### Future usage opinions
+| Concept | EN | DE | IT | GR | BG | SR |
+|---|---|---|---|---|---|---|
+| 🔮 I don't see myself using this | I don't see myself using this anymore | ich sehe mich das nicht mehr benutzen | non mi vedo più usarlo | δεν με βλέπω να το χρησιμοποιώ πια | не се виждам да го използвам повече | ne vidim sebe da ovo više koristim |
 
 ---
 **Tips**: Use these to express your personal views while maintaining conversational flow and credibility.

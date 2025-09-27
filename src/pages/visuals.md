@@ -106,3 +106,18 @@ Words to describe the visual properties of objects.
 | ✨ Glossy | glossy | glänzend | lucido | γυαλιστερό | гланциран | sjajan |
 | 💎 Transparent | transparent | transparent | trasparente | διαφανές | прозрачен | providan |
 | 🌫️ Opaque | opaque | undurchsichtig | opaco | αδιαφανές | непрозрачен | neprovidan |
+
+### Completeness
+| Concept | EN | DE | IT | GR | BG | SR |
+|---|---|---|---|---|---|---|
+| ⚪ Whole | whole | ganz | intero | ολόκληρο | цял | ceo |
+| ◑ Partial | partial | teilweise | parziale | μερικό | частичен | delimičan |
+
+### Liquid Properties
+| Concept | EN | DE | IT | GR | BG | SR |
+|---|---|---|---|---|---|---|
+| 💧 Sticky | sticky | klebrig | appiccicoso | κολλώδες | лепкав | lepljiv |
+| 💧 Slimy | slimy | schleimig | viscido | γλοιώδες | лигав | sluzav |
+| 💧 Clear | clear | klar | limpido | διαυγές | бистър | bistar |
+| 💧 Thick | thick | dickflüssig | denso | παχύρρευστο | гъст | gust |
+| 💧 Thin | thin | dünnflüssig | liquido | αραιό | рядък | redak |

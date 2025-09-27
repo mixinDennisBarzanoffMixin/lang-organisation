@@ -13,8 +13,8 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | 🕘 Currently | currently; at the moment | momentan; gerade; derzeit | attualmente; al momento | προς το παρόν; αυτή τη στιγμή | в момента; понастоящем | trenutno; u ovom trenutku |
 | ⏰ Soon | soon | bald | presto | σύντομα | скоро | uskoro |
 | 🌍 Nowadays | nowadays; these days | heutzutage; in der heutigen Zeit | oggigiorno; di questi tempi | στις μέρες μας; σήμερα | в днешно време; днес | danas; u današnje vreme |
-| ✅ Already | already | schon | già | ήδη | вече | već |
-| ⏳ Still | still | noch; immer noch | ancora | ακόμα | още | još uvek |
+| ✅ Already | already | schon | già | ήδη; κιόλας | вече | već |
+| ⏳ Still | still | noch; immer noch | ancora | ακόμα | още | još; još uvek |
 | ❌ Never | never | nie | mai | ποτέ | никога | nikada |
 | ⏳ Forever/always | always; forever | immer | sempre | πάντα | винаги | uvek; zauvek |
 | ⏲️ Eventually | eventually; in the end | schließlich; am Ende | alla fine; eventualmente | τελικά | накрая | na kraju; konačno |
@@ -23,14 +23,20 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | 🇮🇹 A lot of time | a lot of time | eine Menge Zeit | tantissimo tempo | πάρα πολύς χρόνος | много време | puno vremena |
 | 🇧🇬 Just now | just now | gerade eben | proprio adesso | току-що | току-що | upravo sada |
 | ⏳ For the time being | for the time being | vorläufig | per il momento | προς το παρόν | за момента | za sada |
+| 🇩🇪 Now and then | now and then; occasionally | ab und zu | di tanto in tanto | πού και πού | от време на време | s vremena na vreme |
+| 🇩🇪 From the outset | from the outset; from the very beginning | von vornherein | fin dall'inizio | από την αρχή | от самото начало | od samog početka |
+| 💨 All at once | all at once; suddenly | auf einmal; plötzlich | tutto in una volta; improvvisamente | όλα μαζί; ξαφνικά | изведнъж | odjednom |
+| 🇮🇹 By now / at this point | by now; at this point | mittlerweile; inzwischen | ormai | μέχρι τώρα; σε αυτό το σημείο | досега; в този момент | do sada; u ovom trenutku |
 
 ### Temporal relations
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
+| ⏮️ Right before | right before | direkt davor | subito prima | ακριβώς πριν | точно преди | odmah pre |
 | ⏮️ Before | before | bevor; vor | prima (di) | πριν (από) | преди | pre |
 | ⏱️ X ago | X minutes/days ago | vor X Minuten/Tagen | X minuti/giorni fa | πριν από Χ λεπτά/μέρες | преди Х минути/дни | pre X minuta/dana |
 | 🇮🇹 A few minutes ago | a few minutes ago | vor ein paar Minuten | pochi minuti fa | πριν από λίγα λεπτά | преди няколко минути | pre nekoliko minuta |
 | ⏭️ After | after | nach; nachdem | dopo (che) | μετά (που) | след (като) | posle; nakon |
+| ⏭️ Right after | right after | direkt danach | subito dopo | ακριβώς μετά | точно след | odmah posle |
 | 🔀 In the meantime | in the meantime | in der Zwischenzeit | nel frattempo | στο μεταξύ | междувременно | u međuvremenu |
 | 🇮🇹 In the meantime | in the meantime | inzwischen | nel frattempo | στο μεταξύ | междувременно | u međuvremenu |
 | 🇩🇪 So far/until now | so far; until now | bislang | finora | μέχρι τώρα | досега | do sada |
@@ -74,6 +80,11 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | ⏰ X time ago | X time ago | vor X Zeit | X tempo fa | πριν από X χρόνο | преди X време | pre X vremena |
 | 🇧🇬 Just about to X | just about to X | gerade dabei X zu tun | sto per fare X | μόλις θα κάνω X | тъкмо да X | upravo ću da X |
 | 🇬🇷 Up to now (Greek) | up to now | bis jetzt | fino ad ora | μέχρι στιγμής κιόλας | до сега | do sada |
+| 🤔 You told us some time ago | you've told us about this some time ago | du hast uns das vor einiger Zeit erzählt | ce ne hai parlato qualche tempo fa | μας το είπες αυτό πριν από λίго καιρό | ти ни разказа за това преди известно време | rekao si nam o ovome pre nekog vremena |
+| 🇩🇪 More than ever | more than ever | mehr denn je | più che mai | περισσότερο από ποτέ | повече от всякога | više nego ikad |
+| 🤔 At some point | at some point they would X | irgendwann würden sie X | a un certo punto farebbero X | κάποια στιγμή θα έκαναν X | в някакъв момент те биха X | u nekom trenutku bi X |
+| 🇧🇬 For the umpteenth time | for the umpteenth time; once again | zum x-ten Mal; schon wieder | per l'ennesima volta; ancora una volta | για πολλοστή φορά; για άλλη μια φορά | за пореден път | po ko zna koji put; opet |
+| 🇮🇹 For several X | for several years/for some time | für einige Jahre/einige Zeit | per diversi anni/per diverso tempo | για αρκετά χρόνια/για κάποιο διάστημα | за няколко години/за известно време | nekoliko godina/neko vreme |
 | ⏱️ Just/now/yet | just now; already; yet; still; ever | gerade; schon; noch; je | proprio ora; già; ancora; mai | μόλις; ήδη; ακόμα; ποτέ | току-що; вече; още; някога | ... |
 | 🕘 Currently | currently; at the moment | momentan; gerade; derzeit | attualmente; al momento | προς το παρόν; αυτή τη στιγμή | в момента; понастоящем | ... |
 | ⏰ Soon | soon | bald | presto | σύντομα | скоро | ... |

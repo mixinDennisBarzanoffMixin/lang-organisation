@@ -16,6 +16,8 @@ Small, reusable speaking blocks for language practice organized by topic.
 
 - **[Prefixes](./prefixes)** - Prefixes and their logic accross languages that you can add to any verb in any sentence to make your logic richer
 
+### 💡 Topics
+- **[Confusion](./topics/confusion)** - How to express confusion and ask for clarification.
 
 ### Core Expression Types
 

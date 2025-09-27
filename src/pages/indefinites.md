@@ -23,6 +23,8 @@ Something, someone, somewhere - and their negative counterparts.
 | ⭕ None of it/that | none of it/that is… | nichts davon ist… | niente di tutto ciò è… | τίποτα από αυτά δεν είναι… | нищо от това не е… | ništa od toga nije... |
 | ⭕ Nowhere | nowhere | nirgendwo | da nessuna parte | πουθενά | никъде | nigde |
 | ⭕ In no way | in no way | auf keinen Fall | in nessun modo | με κανέναν τρόπο | по никакъв начин | ni na koji način |
+| 🇩🇪 Someone else's | someone else's | eines anderen | di qualcun altro | κάποιου άλλου | на някой друг | nečiji drugi |
+| 🇩🇪 Someone else's | someone else's | eines anderen | di qualcun altro | κάποιου άλλου | на някой друг | nečiji drugi |
 
 ### Placeholders
 | Concept | EN | DE | IT | GR | BG | SR |
