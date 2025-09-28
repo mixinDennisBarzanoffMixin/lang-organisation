@@ -47,5 +47,10 @@ Expressing agreement, disagreement, and certainty levels.
 | 🇮🇹 No problem at all | no problem at all; don't mention it | kein Problem; gern geschehen | figurati; ci mancherebbe | τίποτα; μην το αναφέρεις | няма за какво; разбира се | nema na čemu; nema problema |
 | 🇮🇹 Of course not! | of course not!; heaven forbid! | natürlich nicht!; Gott bewahre! | ci mancherebbe! | μα φυσικά όχι! | недей господи! | naravno da ne!; ne daj bože! |
 
+### Opposition
+| Concept | EN | DE | IT | GR | BG | SR |
+|---|---|---|---|---|---|---|
+| ⚔️ Against them | against them | gegen sie | contro di loro | εναντίον τους | срещу тях | protiv njih |
+
 ---
 **Tips**: Essential for participating in discussions and showing your position clearly.

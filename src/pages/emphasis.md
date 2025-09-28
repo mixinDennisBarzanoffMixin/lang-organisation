@@ -94,6 +94,8 @@ Expressions for emphasizing points and focusing attention.
 | 🏁 Once and for all | once and for all | ein für alle Mal | una volta per tutte | μια για πάντα | веднъж завинаги | jednom za svagda |
 | 🖱️ One click away | it's literally one click away | es ist buchstäblich nur einen Klick entfernt | è letteralmente a un clic di distanza | είναι κυριολεκτικά ένα κλικ μακριά | буквално е на един клик разстояние | bukvalno je na jedan klik |
 | 🔄 On the contrary | on the contrary, I am VERY much in X way | im Gegenteil, ich bin SEHR wohl auf X Weise | al contrario, sono MOLTO in modalità X | αντίθετα, είμαι ΠΟΛΥ σε φάση X | напротив, аз СЪМ много в X режим | naprotiv, ja sam VRLO u X fazonu |
+| ❗ By definition! | by definition! | per Definition! | per definizione! | εξ ορισμού! | по дефиниция! | po definiciji! |
+| ❗ That is IT! | I only have 3 things. That is IT! Nothing else. | Ich habe nur 3 Dinge. Das ist ALLES! Nichts sonst. | Ho solo 3 cose. È TUTTO! Nient'altro. | Έχω μόνο 3 πράγματα. ΑΥΤΟ είναι! Τίποτα άλλο. | Имам само 3 неща. Това е! Нищо друго. | Imam samo 3 stvari. To je TO! Ništa više. |
 
 ---
 **Tips**: Great for making your point clear and adding emotional impact.

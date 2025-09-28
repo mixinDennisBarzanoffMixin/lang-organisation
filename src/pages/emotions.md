@@ -18,6 +18,7 @@ Instead of direct translations, these emotions are described through words, gest
 | 😡 Angry | *clenches fists* "This is ridiculous!" | *ballt Fäuste* "Das ist lächerlich!" | *stringe i pugni* "È ridicolo!" | *σφίγγει γροθιές* "Αυτό είναι γελοίο!" | *стиска юмруци* "Това е смешно!" | *steže pesnice* "Ovo je smešno!" |
 | 🤔 Confused | *scratches head* "wait, what?" | *kratzt sich am Kopf* "warte, was?" | *si gratta la testa* "aspetta, cosa?" | *ξύνει το κεφάλι* "περίμενε, τι;" | *чеше си главата* "чакай, какво?" | *češe glavu* "čekaj, šta?" |
 | 😫 Can't take it anymore | I can't anymore; I can't take it anymore | ich kann nicht mehr | non ce la faccio più | δεν αντέχω άλλο | не мога повече | ne mogu više |
+| 😵 Fall into confusion | to fall into confusion | in Verwirrung geraten | cadere in confusione | περιπίπτω σε σύγχυση | изпадам в объркване | pasti u konfuziju |
 
 ### Gestural Descriptions
 
