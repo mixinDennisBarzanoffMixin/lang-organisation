@@ -18,6 +18,7 @@ Small, reusable speaking blocks for language practice organized by topic.
 
 ### 💡 Topics
 - **[Confusion](./topics/confusion)** - How to express confusion and ask for clarification.
+- **[Metacognition](./topics/metacognition)** - Words and concepts for thinking about thinking.
 
 ### Core Expression Types
 

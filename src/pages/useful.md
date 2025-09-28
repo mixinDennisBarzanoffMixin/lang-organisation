@@ -106,6 +106,7 @@ High-frequency, practical expressions for daily communication.
 | 🚶 Comes along | this one guy/girl/thing comes along | da kommt dieser eine Typ/Mädel/Ding | arriva questo tizio/a/coso | идва този един човек/нещо | dolazi taj jedan lik/devojka/stvar |
 | 🇩🇪 In this way/manner | in this way; in this manner | auf diese Art; auf diese Weise | in questo modo; in questa maniera | με αυτόν τον τρόπο | по този начин | na ovaj način |
 | 🗣️ Appropriate prefix | to use the appropriate prefix /X | den passenden Präfix /X zu verwenden | usare il prefisso appropriato /X | να χρησιμοποιήσετε το κατάλληλο πρόθεμα /X | да използвате подходящия префикс /X | da koristite odgovarajući prefiks /X |
+| 🔁 Go through again | I have to go through all of this again | ich muss das alles noch einmal durchgehen | devo ripassare tutto di nuovo | πρέπει να τα ξαναπεράσω όλα αυτά | трябва да мина през всичко това отново | moram ponovo proći kroz sve ovo |
 
 ---
 **Tips**: These expressions are essential for natural, fluent communication in each language.

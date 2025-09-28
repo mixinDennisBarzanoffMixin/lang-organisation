@@ -44,6 +44,7 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | 🚫 Almost/nearly | almost; nearly | fast; beinahe | за малко да | για λίγο να | за малко да | skoro; zamalo |
 | ↔️ Between X and Y | between X and Y | zwischen X und Y | tra X e Y | ανάμεσα σε Χ και Ψ | между Х и Y | između X i Y |
 | ⏱️ During | during | während | durante | κατά τη διάρκεια | по време на | tokom; za vreme |
+| 🇬🇷 For years | for years; since years | seit Jahren | da anni | και χρόνια | от години | godinama |
 
 ### Temporal and causal expressions (duplicated from larger file)
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -85,6 +86,7 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | 🤔 At some point | at some point they would X | irgendwann würden sie X | a un certo punto farebbero X | κάποια στιγμή θα έκαναν X | в някакъв момент те биха X | u nekom trenutku bi X |
 | 🇧🇬 For the umpteenth time | for the umpteenth time; once again | zum x-ten Mal; schon wieder | per l'ennesima volta; ancora una volta | για πολλοστή φορά; για άλλη μια φορά | за пореден път | po ko zna koji put; opet |
 | 🇮🇹 For several X | for several years/for some time | für einige Jahre/einige Zeit | per diversi anni/per diverso tempo | για αρκετά χρόνια/για κάποιο διάστημα | за няколко години/за известно време | nekoliko godina/neko vreme |
+| 🇬🇷 Sometimes X, sometimes Y | sometimes this way, sometimes that way | mal so, mal so | a volte così, a volte cosà | πότε έτσι, πότε αλλιώς | понякога така, понякога иначе | nekad ovako, nekad onako |
 | ⏱️ Just/now/yet | just now; already; yet; still; ever | gerade; schon; noch; je | proprio ora; già; ancora; mai | μόλις; ήδη; ακόμα; ποτέ | току-що; вече; още; някога | ... |
 | 🕘 Currently | currently; at the moment | momentan; gerade; derzeit | attualmente; al momento | προς το παρόν; αυτή τη στιγμή | в момента; понастоящем | ... |
 | ⏰ Soon | soon | bald | presto | σύντομα | скоро | ... |

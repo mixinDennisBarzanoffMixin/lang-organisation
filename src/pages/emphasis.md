@@ -93,6 +93,7 @@ Expressions for emphasizing points and focusing attention.
 | 🎯 It's X, not any other | it's X, not any other | es ist X, und kein anderes | è X, non un altro | είναι το X, όχι κάποιο άλλο | това е X, а не някой друг | to je X, a ne bilo koji drugi |
 | 🏁 Once and for all | once and for all | ein für alle Mal | una volta per tutte | μια για πάντα | веднъж завинаги | jednom za svagda |
 | 🖱️ One click away | it's literally one click away | es ist buchstäblich nur einen Klick entfernt | è letteralmente a un clic di distanza | είναι κυριολεκτικά ένα κλικ μακριά | буквално е на един клик разстояние | bukvalno je na jedan klik |
+| 🔄 On the contrary | on the contrary, I am VERY much in X way | im Gegenteil, ich bin SEHR wohl auf X Weise | al contrario, sono MOLTO in modalità X | αντίθετα, είμαι ΠΟΛΥ σε φάση X | напротив, аз СЪМ много в X режим | naprotiv, ja sam VRLO u X fazonu |
 
 ---
 **Tips**: Great for making your point clear and adding emotional impact.

@@ -11,7 +11,7 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🔗 Since/because | since; because (siccome X, Y) | da; weil (da X, Y) | siccome; perché | αφού; επειδή | понеже; тъй като | pošto; jer |
 | 🔗 Because | because (perché at end of sentence) | weil | perché | επειδή | защото | jer |
 | 🔗 Therefore | therefore; so | deshalb; daher | quindi; pertanto | άρα; γι' αυτό | следователно; затова | dakle; pa |
-| 🔗 Due to | due to; because of | aufgrund; wegen | a causa di | λόγω | поради; заради | zbog |
+| 🔗 Due to | due to; because of; on account of | aufgrund; wegen | a causa di | λόγω | поради; заради | zbog |
 | 🔗 Instead of | instead of | anstatt | invece di | αντί για | вместо | umesto |
 | 🔗 Without | without | ohne | senza | χωρίς | без | bez |
 | 🔗 In addition | in addition; also | außerdem; zusätzlich | inoltre | επιπλέον | освеν това | pored toga; takođe |
@@ -28,7 +28,7 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🧷 "I mean" | I mean | ich meine | cioè | δηλαδή | демек; в смисъл | mislim |
 | 🔄 Though (end) | though | allerdings; doch | però; anche se | όμως | обаче | ipak |
 | 🔄 However/but | however; but | jedoch; aber | però; ma | ωστόσο; αλλά | обаче; но | međutim; ali |
-| 🚧 Despite | despite; in spite of | trotz | nonostante | παρά | въпреки | uprkos |
+| 🚧 Despite | despite; in spite of | trotz | nonostante | παρά; παρά τις | въпреки | uprkos |
 | 🔄 Even though | even though | auch wenn; obwohl | anche se; benché | ακόμα κι αν; αν και | въпреки че; дори и | iako; mada |
 | 🔀 Otherwise | otherwise | sonst; andernfalls | altrimenti | αλλιώς | иначе | inače |
 | 💡 In fact/actually/indeed | in fact; actually; indeed | eigentlich; in der Tat; tatsächlich | infatti; in realtà | στην πραγματικότητα; πραγματικά; πράγματι; όντως | всъщност; в действителност; наистина | zapravo; u stvari; zaista |

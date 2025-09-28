@@ -93,6 +93,7 @@ Contemporary expressions, slang, and very colloquial language.
 | 😤 Stop being dramatic | stop being dramatic | hör auf zu dramatisieren | smettila di fare il/la drammatico/a | σταμάτα να κάνεις δράμα | стига си вдигала джабала | prestani da dramiš |
 | 🇧🇬 Fucking hard | fucking hard | verdammt schwer | fottutamente difficile | γαμημένα δύσκολο | на куче брат | jebeno teško |
 | 🇮🇹 No way (vulgar) | no way; fuck no | auf keinen Fall; Scheiß drauf | col cazzo | με τίποτα; σιγά μην | в никакъв случай; да бе | nema šanse; ma kurac |
+| 💩 The most random shit | the most random shit | der willkürlichste Scheiß | la cazzata più assurda | η πιο άκυρη μαλακία | най-случайната глупост | najveće sranje |
 
 ---
 **Tips**: Use these for casual, contemporary conversations. Some are quite informal!
