@@ -36,7 +36,9 @@ Contemporary expressions, slang, and very colloquial language.
 | 🇷🇸 Wow/geez | wow; geez; all kinds of things | was es nicht alles gibt | che roba; pazzesco | τι να πω; απίστευτο | какво ли не; свашта | svašta |
 | 🤔 Awfully X | that's awfully graphic/stupid | das ist furchtbar anschaulich/dumm | è terribilmente grafico/stupido | αυτό είναι τρομερά παραστατικό/χαζό | това е ужасно графично/глупаво | to je užasno grafički/glupo |
 | 🇧🇬 Straight up (intensifier) | straight up; literally (it was straight up super) | einfach; total (es war einfach super) | proprio; davvero (era proprio super) | κυριολεκτικά; τελείως (ήταν κυριολεκτικά σούπερ) | направо (направо супер беше) | bukvalno; totalno (bilo je bukvalno super) |
-| 😲 Yooo! Damn! | yooo! damn! | yooo! verdammt! | yooo! cavolo! | γιοοο! γαμώτο! | йооо! по дяволите! | jooo! dođavola! |
+| 😲 Yooo! Damn! | yooo! damn! | yooo! cavolo! | γιοοο! γαμώτο! | йооо! по дяволите! | jooo! dođavola! |
+| ♟️ Your runner is going down | your runner is almost going down | beinahe geht dein Läufer | il tuo corridore sta quasi cadendo | ο δρομέας σου σχεδόν πέφτει | твоят бегач почти пада | tvoj trkač skoro pada |
+| 💸 There goes my X | there goes my X | da geht mein X | ecco il mio X | πάει το X μου | отиде ми X-а | ode moj X |
 
 ### German particles
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -74,7 +76,7 @@ Contemporary expressions, slang, and very colloquial language.
 | 😎 You guys are big on | you guys are big on doing X | ihr seid groß darin, X zu machen | voi siete bravi a fare X | εσείς είστε μεγάλοι στο να κάνετε X | вие сте големи по правенето на X | vi ste super u tome da radite X |
 | 😕 My lack of X | my lack of X; lack of having done X | mein Mangel an X; mangelnde | la mia mancanza di X | η έλλειψή μου σε X | моята липса на X | moj nedostatak X |
 | 🇬🇷 So that's Greek for you | so that's Greek/X for you (expression) | das ist typisch griechisch/X | ecco il tipico greco/X | αυτό είναι τυπικά ελληνικό/X | това е типично гръцко/X | eto ti ga na grčkom/X |
-| 🔄 Back and forth | back and forth | hin und her | avanti e indietro | πέρα-δώθε | насам-натам | napred-nazad |
+| 🔄 Back and forth | back and forth | hin und her | avanti e indietro | πέρα-δώθε; μπρος πίσω | насам-натам | napred-nazad |
 | 😤 Oh come on now... | oh come on now... I won't explain | ach komm schon... ich erkläre nicht | ma dai ora... non spiego | μα έλα τώρα... δεν θα εξηγήσω | абе сегааа... няма да обяснявам | ma daj sada... neću da objašnjavam |
 | 🤷 Supposedly/apparently | supposedly; apparently | angeblich; scheinbar | a quanto pare; presumibilmente | υποτίθεται; φαίνεται | уж | navodno; očigledno |
 | 🎁 Here you go | here you go; there you have it | hier hast du; da hast du | ecco qua; eccoti | ορίστε; ετούτο | ето ти | izvoli; eto ti |
@@ -94,6 +96,15 @@ Contemporary expressions, slang, and very colloquial language.
 | 🇧🇬 Fucking hard | fucking hard | verdammt schwer | fottutamente difficile | γαμημένα δύσκολο | на куче брат | jebeno teško |
 | 🇮🇹 No way (vulgar) | no way; fuck no | auf keinen Fall; Scheiß drauf | col cazzo | με τίποτα; σιγά μην | в никакъв случай; да бе | nema šanse; ma kurac |
 | 💩 The most random shit | the most random shit | der willkürlichste Scheiß | la cazzata più assurda | η πιο άκυρη μαλακία | най-случайната глупост | najveće sranje |
+| 🇧🇬 Зор (a struggle) | a big effort; a struggle | eine große Anstrengung; ein Kampf | un grande sforzo; una lotta | μια μεγάλη προσπάθεια; ένας αγώνας | зор | muka; borba |
+| 🇮🇹 So annoying when | so annoying when people X | so nervig, wenn Leute X | che palle sta gente che X | τόσο ενοχλητικό όταν οι άνθρωποι X | толкова е дразнещо, когато хората X | tako je iritantno kada ljudi X |
+| 🇧🇬 He says it as if | he says it as if she is right there, but it's not exactly like that | er sagt es, als ob sie genau da wäre, aber es ist nicht genau so | dice come se lei fosse proprio lì, ma non è esattamente così | λέει λες και είναι ακριβώς εκεί, αλλά δεν είναι ακριβώς έτσι | тоя вика все едно едва ли не тя е точно там, а то не е точно така | on kaže kao da je ona baš tu, ali nije baš tako |
+| 🇧🇬 You say that now, but | you say that now, but we're still going | du sagst das jetzt, aber wir gehen trotzdem | tu dici questo ora, ma andiamo comunque | το λες αυτό τώρα, αλλά και πάλι πάμε | ти пък сега, ще ходим та | ti to sada kažeš, ali mi ipak idemo |
+| 🇧🇬 Out of necessity | out of necessity; having no other choice | aus der Not heraus; weil es nicht anders geht | per necessità; non avendo altra scelta | από ανάγκη; μη έχοντας άλλη επιλογή | от немайкъде | iz nužde; jer nema drugog izbora |
+| 🇧🇬 You can't! / Oh yeah? | You can't do X! / Oh yeah, I can't? | Du kannst X nicht! / Ach ja, kann ich nicht? | Non puoi fare X! / Ah si, non posso? | Δεν μπορείς να κάνεις το Χ! / Α, ναι, δεν μπορώ; | Ти не можеш Х! / Айде бе, не мога? | Ne možeš X! / Ma da, ne mogu? |
+| 🇧🇬 It would have been like that anyway | it would have been like that anyway | es wäre sowieso so gewesen | sarebbe stato così comunque | θα ήταν έτσι κι αλλιώς | то щеше да е така и без това | bilo bi tako svejedno |
+| 🇧🇬 Passed it by about | we passed it by about 300 meters | wir sind etwa 300 Meter daran vorbeigefahren | l'abbiamo superato di circa 300 metri | το περάσαμε περίπου 300 μέτρα | подминахме го с едно триста метра | prošli smo ga za oko 300 metara |
+| 🇧🇬 Not that I was | I stopped, not that I was going out much before | Ich habe aufgehört, nicht dass ich vorher viel ausgegangen wäre | Ho smesso, non che prima uscissi molto | Σταμάτησα, όχι ότι έβγαινα πολύ πριν | спрях, не че преди много съм излизал | Prestao sam, ne da sam pre toga mnogo izlazio |
 
 ---
 **Tips**: Use these for casual, contemporary conversations. Some are quite informal!

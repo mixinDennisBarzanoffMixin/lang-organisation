@@ -17,6 +17,7 @@ Expressing personal opinions, impressions, and how things appear to you.
 | 🇧🇬 This is what I mean | this is what I mean | das ist, was ich meine | questo è quello che intendo | αυτό εννοώ | това имам предвид | to je ono što mislim |
 | 🤔 It has to be | it has to be sth with... | es muss etwas mit... zu tun haben | deve essere qualcosa con... | πρέπει να είναι κάτι με... | трябва да е нещо с... | mora da je nešto u vezi sa... |
 | 🤔 The way I'm thinking | the way I'm thinking about this | die Art und Weise, wie ich darüber nachdenke | il modo in cui ci sto pensando | ο τρόπος που το σκέφτομαι | начинът, по който мисля за това | način na koji razmišljam o ovome |
+| 📍 Standpoint | standpoint | Standpunkt | punto di vista | άποψη | гледна точка | stanovište |
 
 ### Knowledge and hearsay  
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -47,6 +48,7 @@ Expressing personal opinions, impressions, and how things appear to you.
 | 🤷 It depends | it depends | es kommt darauf an | dipende | εξαρτάται | зависи | zavisi |
 | 🎯 Depending on | depending on… | je nach…; abhängig von… | a seconda di… | ανάλογα με… | в зависимост от… | u zavisnosti od... |
 | 😵 I can't express how | I can't express how… | ich kann nicht ausdrücken, wie… | non riesco a esprimere quanto… | δεν μπορώ να εκφράσω πόσο… | не мога да изразя колко… | ne mogu da izrazim koliko... |
+| 🤔 Doubt | doubt | zweifeln | dubitare | αμφιβάλλω | съмнявам се | sumnjati |
 
 ### Case and context
 | Concept | EN | DE | IT | GR | BG | SR |

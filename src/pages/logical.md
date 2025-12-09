@@ -22,12 +22,14 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🔗 Until | until | bis | fino a | μέχρι; έως | до | do |
 | 🔗 Which/that | which; that | welches; das | che; il quale | που; ο οποίος | който/която | koji; što |
 | 🔗 While | while | während | mentre | ενώ; καθώς | докато | dok |
+| ⚖️ Whereas | whereas | während | mentre | ενώ | докато | dok |
 | 🔗 While the other... | while the other... | während die andere... | mentre l'altra... | ενώ η άλλη... | докато другите... | dok drugi... |
 | 🔗 As (temporal) | as we are doing X; as this happens | während wir X machen; als das passiert | mentre facciamo X; mentre succede | καθώς κάνουμε X; καθώς συμβαίνει αυτό | докато правим X; докато се случва това | dok radimo X; dok se ovo dešava |
 | 🔗 Since | since | seit; da | da; poiché | αφού; από τότε που | откакто; тъй като | otkad; pošto |
 | 🧷 "I mean" | I mean | ich meine | cioè | δηλαδή | демек; в смисъл | mislim |
 | 🔄 Though (end) | though | allerdings; doch | però; anche se | όμως | обаче | ipak |
 | 🔄 However/but | however; but | jedoch; aber | però; ma | ωστόσο; αλλά | обаче; но | međutim; ali |
+| ⚖️ Even so | even so | ebenso | anche così | ακόμη και έτσι | дори и така | čak i tako |
 | 🚧 Despite | despite; in spite of | trotz | nonostante | παρά; παρά τις | въпреки | uprkos |
 | 🔄 Even though | even though | auch wenn; obwohl | anche se; benché | ακόμα κι αν; αν και | въпреки че; дори и | iako; mada |
 | 🔀 Otherwise | otherwise | sonst; andernfalls | altrimenti | αλλιώς | иначе | inače |
@@ -36,6 +38,8 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🎯 Not only | not only… (but also) | nicht nur… (sondern auch) | non solo… (ma anche) | όχι μόνο… (αλλά και) | не само… (но и) | ne samo... (već i) |
 | 🚫 Not just | not just… | nicht nur… | non solo… | όχι απλώς… | не просто… | ne samo... |
 | 🔗 Therefore (strong) | hence; thus | folglich; somit | dunque; pertanto | συνεπώς | следователно | stoga; dakle |
+| 🤔 Because of which | because of which | weshalb | per cui | εξαιτίας του οποίου | поради което | zbog čega |
+| 🔗 Hence why | hence why | daher | ecco perché | γι' αυτό και | ето защо | stoga zašto |
 | 🔁 Anyway/in any case | anyway; in any case | jedenfalls; sowieso | comunque; ad ogni modo | έτσι κι αλλιώς; σε κάθε περίπτωση | така или иначе; във всеки случай | u svakom slučaju; svejedno |
 | 📋 The fact that | the fact that… | die Tatsache, dass… | il fatto che… | το γεγονός ότι… | фактът, че… | činjenica da... |
 | 🇩🇪 That's because | that's because...; the reason is that... | das liegt daran, dass... | questo è perché...; la ragione è che... | αυτό συμβαίνει επειδή...; ο λόγος είναι ότι... | това е защото...; причината е, че... | to je zato što...; razlog je taj što... |
@@ -49,9 +53,11 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🔗 Since/because | since; because | da; weil | siccome; perché | αφού; επειδή | понеже | pošto; jer |
 | 🔀 Instead of | instead of | anstatt; statt | invece di | αντί για | вместо да | umesto da |
 | 🇮🇹 Anzi (actually/on the contrary) | actually; on the contrary; rather | im Gegenteil; vielmehr | anzi | μάλλον; αντίθετα | напротив; по-точно | naprotiv; štaviše |
+| 🇮🇹 Vale a dire | that is to say | das heißt | vale a dire | δηλαδή | тоест | to jest |
 | 🚫 Not this, but... | not this, but... | nicht das, sondern... | non questo, ma... | όχι αυτό, αλλά... | не това, ами... | ne ovo, nego... |
 | 🇮🇹 That is to say | that is to say | das heißt | ossia | δηλαδή | тоест | to jest |
 | 🇮🇹 In short | in short | kurz gesagt | insomma | με λίγα λόγια | накратко | ukratko |
+|  AKA | also known as | auch bekannt als | anche conosciuto come | επίσης γνωστός ως | също познат като | takođe poznat kao |
 
 ### Additional logical constructions
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -68,7 +74,7 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🎯 As it pertains to X | as it pertains to X; regarding X | was X betrifft | per quanto riguarda X | όσο αφορά X; όσο αναφορά X | що се отнася до X | što se tiče X |
 | 🔄 The same way | the same way | auf dieselbe Weise | allo stesso modo | με τον ίδιο τρόπο | по същия начин | na isti način |
 | 💡 Turns out | turns out; it turns out that | es stellt sich heraus | si scopre; viene fuori | αποδεικνύεται | оказва се | ispada; ispostavlja se da |
-| 🇩🇪 If applicable | if applicable; if necessary | gegebenenfalls | se necessario | εάν χρειαστεί | ако е необходимо | ako je primenljivo; ako je potrebno |
+| 🇩🇪 If applicable | if applicable; if necessary; if need be | gegebenenfalls | se necessario | εάν χρειαστεί | ако е необходимо | ako je primenljivo; ako je potrebno |
 | 🔄 Distributed across | distributed across multiple X | verteilt über mehrere X hinweg | distribuito su più X | κατανεμημένο σε πολλά X | разпределен между няколко X | raspoređeno na više X |
 | 🔄 Either through X or Y | either through X or through Y | entweder durch X oder durch Y | o attraverso X o attraverso Y | είτε μέσα από X είτε από Y | или чрез X, или чрез Y | ili putem X ili putem Y |
 | 📤 Take from X out | take out from X; extract from X | aus X herausnehmen | prendere da X fuori | βγάλω από X | вземам от X навън | izvaditi iz X |
@@ -96,6 +102,7 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🇮🇹 That's why you don't | that's why you don't X | deshalb machst du X nicht | ecco perché non (li vedi) | γι' αυτό δεν κάνεις X | ето защо не правиш X | zato i ne (vidiš) |
 | 🔄 And hence why | aaand hence why I applied/did X | und daher warum ich X gemacht habe | e quindi ecco perché ho fatto X | και γι' αυτό έκανα X | и ето защо направих X | i zato sam se prijavio/uradio X |
 | 🔄 On the basis of | do X (cancel contract) on the basis of | X machen (Vertrag kündigen) auf der Grundlage von | fare X (cancellare contratto) sulla base di | κάνω X (ακυρώνω συμβόλαιο) με βάση | правя X (прекратявам договор) въз основа на | uraditi X (otkazati ugovor) na osnovu |
+| 🇩🇪 Anhand dessen | on the basis of which | anhand dessen | sulla base del quale | με βάση το οποίο | въз основа на което | na osnovu čega |
 | 🚫 Not one of these things can | not one of these things can... | nicht eines dieser Dinge kann... | nessuna di queste cose può... | κανένα από αυτά δεν μπορεί... | нито едно от тия неща не може... | nijedna od ovih stvari ne može... |
 | 🗣️ Now that being said | now that being said... X | nun, da das gesagt ist... X | ora che è stato detto... X | τώρα που το είπαμε αυτό... X | сега, като се каза това... X | sad kad je to rečeno... X |
 | 🇧🇬 Through X to be able to Y | through X to be able to Y | durch X, um Y zu können | tramite X per poter Y | μέσω του X για να μπορέσουμε να Y | чрез X да можем да Y | kroz X da bismo mogli Y |
@@ -104,9 +111,19 @@ Basic logical connections - cause, effect, contrast, addition.
 | 📄 Using which | the documents using which he was X | die Dokumente, mit denen er X war | i documenti con cui era X | τα έγγραφα με τα οποία ήταν X | документите, с които беше X | dokumenti pomoću kojih je bio X |
 | 🤔 Because when you... | Because when you... the way you... | Denn wenn du... die Art und Weise, wie du... | Perché quando tu... il modo in cui tu... | Επειδή όταν εσύ... ο τρόπος που εσύ... | Защото когато ти... начинът, по който ти... | Zato što kada ti... način na koji ti... |
 | 🤔 That's why X is all about Y | That's why X is all about Y | Deshalb dreht sich bei X alles um Y | Ecco perché X è tutto su Y | Γι' αυτό το X αφορά αποκλειστικά το Y | Ето защо X е изцяло за Y | Zato se X svodi na Y |
+| 🎯 Partly the reason is | and partly the reason is | und zum Teil ist der Grund | e in parte la ragione è | και εν μέρει ο λόγος είναι | и отчасти причината е | i delimično razlog je |
 | 🤔 Looks alike | looks alike | sieht ähnlich aus | si assomiglia | μοιάζει | прилича | liči |
+| 🔭 Beyond | beyond | jenseits | oltre | πέρα από | отвъд | izvan |
 | 🤔 More like X, less like Y | it's more like it works like X and less like Y | es ist mehr so, dass es wie X und weniger wie Y funktioniert | è più che funziona come X e meno come Y | είναι περισσότερο ότι λειτουργεί σαν X και λιγότερο σαν Y | по-скоро работи като X и по-малко като Y | više radi kao X a manje kao Y |
+| ⊃ Entail | entail | mit sich bringen | implicare | συνεπάγομαι | влече | podrazumevati |
 | 🇮🇹 Not due to | it was not due to X | es war nicht auf X zurückzuführen | non era dovuta a X | δεν οφειλόταν στο X | не се дължеше на X | nije bilo zbog X |
+| 🇩🇪 Why X is the way it is | why X is the way it is | warum X eben so ist | perché X è così | γιατί το X είναι έτσι | защо X е такова, каквото е | zašto je X takav kakav jeste |
+| 🤔 As to the reason why | as to the reason why | was den Grund betrifft, warum | per quanto riguarda il motivo per cui | όσον αφορά τον λόγο για τον οποίο | що се отнася до причината, поради която | što se tiče razloga zašto |
+| ↔️ Correspond | correspond | entsprechen | corrispondere | αντιστοιχώ | съответствам | odgovarati |
+| ≠ Mismatch | mismatch | Nichtübereinstimmung | discrepanza | αναντιστοιχία | несъответствие | neusklađenost |
+| 🎯 The crux of the matter | and that's exactly the crux of the matter | und genau dort liegt der Knackpunkt | ed è esattamente questo il punto cruciale | και ακριβώς εκεί είναι το ζουμί της υπόθεσης | и точно там е заровено кучето | i upravo tu leži suština problema |
+| 🤔 You, on the other hand | you, on the other hand, think differently | du hingegen denkst anders | tu, d'altra parte, la pensi diversamente | εσύ, από την άλλη, σκέφτεσαι διαφορετικά | ти, от друга страна, мислиш различно | ti, s druge strane, misliš drugačije |
+| 🎯 That's why X | that's why X | deshalb X | ecco perché X | γι' αυτό X | ето защо X | zato X |
 
 ---
 **Tips**: Essential for building complex arguments and explanations.

@@ -177,6 +177,20 @@ These concepts are the “tools” of thinking.
 | 🤫 Subtle | subtle | subtil; fein | sottile | λεπτός | фин; тънък | suptilan |
 | ⚙️ Factor | factor | Faktor | fattore | παράγοντας | фактор | faktor |
 | 🔄 Turn | turn (noun) | Wendung; Reihe | turno; svolta | στροφή; σειρά | ред; завой | okret; red |
+| ➕ Integrate | integrate | integrieren | integrare | ενσωματώνω | интегрирам | integrisati |
+| 🧭 Direction | direction | Richtung | direzione | κατεύθυνση | посока | pravac |
+| ⚙️ Functional | functional | funktional | funzionale | λειτουργικός | функционален | funkcionalan |
+| 🧘 A being | a being | ein Wesen | un essere | μια ύπαρξη | същество | biće |
+| ⭕ Encompass | encompass | umfassen | comprendere | περιλαμβάνω | обхващам | obuhvatiti |
+| ↔️ Interact | interact | interagieren | interagire | αλληλεπιδρώ | взаимодействам | interagovati |
+| 📥 Contain | contain | enthalten | contenere | περιέχω | съдържам | sadržati |
+| 🧩 Be part of | be part of | Teil sein von | essere parte di | είμαι μέρος του | бъда част от | biti deo |
+| 🧘 Immanent | immanent | immanent | immanente | εγγενής | иманентен | imanentan |
+| ✨ Particle | particle | Partikel | particella | μόριο | частица | čestica |
+| 🧭 Orient | orient | ausrichten | orientare | προσανατολίζω | ориентирам | orijentisati |
+| 🧭 Oriented | oriented | ausgerichtet | orientato | προσανατολισμένος | ориентиран | orijentisan |
+| 🌱 Plant (an idea) | to plant (an idea) | (eine Idee) pflanzen | piantare (un'idea) | φυτεύω (μια ιδέα) | засаждам (идея) | zasaditi (ideju) |
+| 🏛️ Basic structures | basic structures | Grundstrukturen | strutture di base | βασικές δομές | основни структури | osnovne strukture |
 
 ### Cognitive Processes & Actions
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -250,6 +264,7 @@ These concepts are the “tools” of thinking.
 | 📶 To signal | to signal | signalisieren | segnalare | σηματοδοτώ | сигнализирам | signalizirati |
 |  жертва Sacrifice | sacrifice | opfern | sacrificare | θυσιάζω | жертвам | žrtvovati |
 | ↔️ Extend | extend | erweitern; ausdehnen | estendere | επεκτείνω | разширявам | proširiti |
+| ↔️ Stretch | stretch | dehnen | allungare | τεντώνω | разтягам | rastegnuti |
 | ▶️ Initiate | initiate | initiieren; einleiten | iniziare | ξεκινώ | инициирам | pokrenuti; inicirati |
 | 💾 Store | store | speichern | immagazzinare; conservare | αποθηκεύω | съхранявам | skladištiti |
 | ✨ Actualize | actualize | verwirklichen; aktualisieren | attualizzare | πραγματοποιώ | осъществявам | ostvariti |

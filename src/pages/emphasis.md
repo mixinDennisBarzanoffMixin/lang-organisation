@@ -13,6 +13,8 @@ Expressions for emphasizing points and focusing attention.
 | 🎯 The one/this one | the one; this one | derjenige; dieser | quello; questo | εκείνος; αυτός | този; онзи | onaj; ovaj |
 | 📍 Each/respectively | each; respectively | jeweils; entsprechend | ciascuno; rispettivamente | κάθε ένας; αντίστοιχα | всеки; съответно | svaki; odnosno |
 | 🇩🇪 Any/every (emphatic) | any; every | jegliche | qualsiasi; ogni | κάθε; οποιοδήποτε | всякакъв | svaki; bilo koji |
+| 🇩🇪 Bloß (just/emphasis) | just; only (for emphasis) | bloß | solo; soltanto | απλώς; μόνο | просто; само | samo; tek |
+| 🎯 Only one last thing | only one last thing | nur noch eine letzte Sache | solo un'ultima cosa | μόνο ένα τελευταίο πράγμα | само едно последно нещо | samo još jedna poslednja stvar |
 
 ### Hypothetical
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -60,6 +62,8 @@ Expressions for emphasizing points and focusing attention.
 | 💪 I *AM* carrying | I *AM* carrying a bit of branding | ich *BIN* ein bisschen am Branding | *STO* portando un po' di branding | *ΚΑΝΩ* λίγο branding | *АЗ* нося малко брандинг | *JA* nosim malo brendinga |
 | 💪 I *DID* do X | I *DID* do X | ich *HABE* X gemacht | *HO* fatto X | *ΕΚΑΝΑ* X | *НАПРАВИХ* X | *URADIO SAM* X |
 | 🇧🇬 If you only knew | if you only knew | wenn du nur wüsstest | se solo sapessi | αν ήξερες | ти ако знаеш | kad bi samo znao |
+| 🚫 Not even | not even | nicht einmal | nemmeno | ούτε καν | дори не | čak ni |
+| 🤔 Doesn't even know | he doesn't even know that X | er weiß nicht einmal, dass X | non sa nemmeno che X | δεν ξέρει καν ότι X | той дори не знае, че X | on čak ni ne zna da X |
 | 🤔 Not even remotely | not even remotely | nicht einmal annähernd | neanche lontanamente | ούτε κατά διάνοια | дори не и малко | ni izbliza |
 | 🇧🇬 Make sure you do it | make sure you do it | sieh zu, dass du es machst | guarda di farlo | κοίτα να το κάνεις | гледай да го направиш | gledaj da to uradiš |
 | 🤔 Of all things | what is this of all things | was ist das denn | che cos'è questa cosa | τι είναι αυτό τώρα | какво е пък това | šta je sad pa ovo |
@@ -96,6 +100,11 @@ Expressions for emphasizing points and focusing attention.
 | 🔄 On the contrary | on the contrary, I am VERY much in X way | im Gegenteil, ich bin SEHR wohl auf X Weise | al contrario, sono MOLTO in modalità X | αντίθετα, είμαι ΠΟΛΥ σε φάση X | напротив, аз СЪМ много в X режим | naprotiv, ja sam VRLO u X fazonu |
 | ❗ By definition! | by definition! | per Definition! | per definizione! | εξ ορισμού! | по дефиниция! | po definiciji! |
 | ❗ That is IT! | I only have 3 things. That is IT! Nothing else. | Ich habe nur 3 Dinge. Das ist ALLES! Nichts sonst. | Ho solo 3 cose. È TUTTO! Nient'altro. | Έχω μόνο 3 πράγματα. ΑΥΤΟ είναι! Τίποτα άλλο. | Имам само 3 неща. Това е! Нищо друго. | Imam samo 3 stvari. To je TO! Ništa više. |
+| 💎 The very essence of X | the very essence of X | die eigentliche Essenz von X | la vera essenza di X | η ίδια η ουσία του X | самата същност на X | sama suština X |
+| 🚫 No more X | no more X | kein X mehr | non più X | όχι άλλο X | повече не X | nema više X |
+| 🚫 I make no more errors | I make no more errors | ich mache keine Fehler mehr | non faccio più errori | δεν κάνω άλλα λάθη | не правя повече грешки | ne pravim više grešaka |
+| 🤥 Flat out | flat out (e.g., lying) | glatt (z.B. lügen) | spudoratamente | ξεκάθαρα | направо | otvoreno |
+| 🇧🇬 Чак (emphasis) | not until; only; as far as | erst; nur; bis | solo; fino a | μόλις; μέχρι | чак | tek; čak |
 
 ---
 **Tips**: Great for making your point clear and adding emotional impact.

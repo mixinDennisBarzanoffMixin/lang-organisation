@@ -48,6 +48,7 @@ Politeness, courtesy, and social interaction phrases.
 | ✨ It'll be fine/ok | it'll be fine; it'll be ok | wird schon; wird ok | andrà bene; sarà ok | θα πάει καλά; θα είναι οκ | бива бива; ще е наред | biće u redu |
 | 🎉 There you go! | there you go! | da hast du's! | ecco fatto! | να το! | на ти айде! | izvoli! |
 | ❓ Surely there isn't/is | surely there isn't/is... | sicher gibt es nicht/gibt es... | sicuramente non c'è/c'è... | σίγουρα δεν υπάρχει/υπάρχει... | нима няма/не... | sigurno nema/ima... |
+| 🙏 Just wanted to help | I just wanted to help | ich wollte bloß helfen | volevo solo aiutare | ήθελα απλώς να βοηθήσω | просто исках да помогна | samo sam hteo da pomognem |
 
 ---
 **Tips**: Use politeness markers to soften requests, and strong expressions sparingly for emphasis in informal contexts.

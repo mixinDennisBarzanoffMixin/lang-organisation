@@ -21,12 +21,14 @@ More sophisticated expressions for intermediate and advanced learners.
 | 🎯 As far as to | went as far as to | ging so weit dazu, dass X | è arrivato al punto di fare X | έφτασε στο σημείο να | стигна дотам, че | išao je dotle da |
 | 📊 There's X left | there's X left; X is missing | es fehlt X; X ist übrig | manca X | λείπει X | липсва X | ostalo je X; fali X |
 | 🤷 Are X to one another | are X to one another | sind X zueinander | sono X l'uno all'altro | είναι X μεταξύ τους | са X един към друг | su X jedan drugome |
+| ⚖️ Not greater than | you're not any greater than X anymore than Y is better than Z | du bist nicht größer als X, genauso wenig wie Y besser als Z ist | non sei più grande di X più di quanto Y sia migliore di Z | δεν είσαι σπουδαιότερος από τον Χ περισσότερο από ό,τι ο Υ είναι καλύτερος από τον Ζ | не си по-велик от X, повече отколкото Y е по-добър от Z | nisi veći od X ništa više nego što je Y bolji od Z |
 | 🇧🇬 As if X, I shouldn't have | as if X, I shouldn't have... | als ob X, ich hätte nicht... | come se X, non avrei dovuto... | λες και X, δεν θα έπρεπε να... | едва ли не X, да не съм... | kao da X, nisam trebao... |
 
 ### Formal expressions
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
 | 📚 As far as X is concerned | as far as X is concerned | was X betrifft | per quanto riguarda X | όσον αφορά το X | що се отнася до X | što se tiče X |
+|  colloquial | as far as X goes | was X angeht | per quanto riguarda X | όσον αφορά το X | що се отнася до X | što se tiče X |
 | 🎯 At least/not enough | although it's not enough; zwar nicht, but... | obwohl es nicht genug ist; zwar nicht, aber... | anche se non è abbastanza; non proprio, ma... | αν και δεν είναι αρκετό; όχι ακριβώς, αλλά... | въпреки че не е достатъчно; не точно, но... | iako nije dovoljno; doduše ne, ali... |
 | ❓ Do you have any idea | do you have any idea | hast du eine Ahnung | hai qualche idea | έχεις καμία ιδέα | имаш ли представа | da li imaš predstavu |
 | 📍 What does X represent | what does X represent | was stellt X dar | cosa rappresenta X | τι αντιπροσωπεύει το X | какво представлява X | šta predstavlja X |

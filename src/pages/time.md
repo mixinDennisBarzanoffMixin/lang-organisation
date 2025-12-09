@@ -9,8 +9,9 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
 | 🕰️ Recently | recently; lately | in letzter Zeit; neulich | di recente; ultimamente | πρόσφατα; τελευταία | напоследък; скоро | nedavno; u poslednje vreme |
-| ⏱️ Just/now/yet | just now; already; yet; still; ever | gerade; schon; noch; je | proprio ora; già; ancora; mai | μόλις; ήδη; ακόμα; ποτέ | току-що; вече; още; някога | upravo sada; već; još; ikada |
+| ⏱️ Just/now/yet | just now; already; yet; still; ever | gerade; soeben; schon; noch; je | proprio ora; già; ancora; mai | μόλις; ήδη; ακόμα; ποτέ | току-що; вече; още; някога | upravo sada; već; još; ikada |
 | 🕘 Currently | currently; at the moment | momentan; gerade; derzeit | attualmente; al momento | προς το παρόν; αυτή τη στιγμή | в момента; понастоящем | trenutno; u ovom trenutku |
+| ⏳ Ongoing | ongoing | laufend; andauernd | in corso | σε εξέλιξη | в ход | u toku |
 | ⏰ Soon | soon | bald | presto | σύντομα | скоро | uskoro |
 | 🌍 Nowadays | nowadays; these days | heutzutage; in der heutigen Zeit | oggigiorno; di questi tempi | στις μέρες μας; σήμερα | в днешно време; днес | danas; u današnje vreme |
 | ✅ Already | already | schon | già | ήδη; κιόλας | вече | već |
@@ -19,6 +20,7 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | ⏳ Forever/always | always; forever | immer | sempre | πάντα | винаги | uvek; zauvek |
 | ⏲️ Eventually | eventually; in the end | schließlich; am Ende | alla fine; eventualmente | τελικά | накрая | na kraju; konačno |
 | 🔜 Later | later | später | più tardi | αργότερα | по-късно | kasnije |
+| 🇮🇹 Sooner or later | sooner or later | früher oder später | prima o poi | αργά ή γρήγορα | рано или късно | pre ili kasnije |
 | 🇮🇹 In a bit | in a bit | in Kürze | tra poco | σε λίγο | след малко | za malo |
 | 🇮🇹 A lot of time | a lot of time | eine Menge Zeit | tantissimo tempo | πάρα πολύς χρόνος | много време | puno vremena |
 | 🇧🇬 Just now | just now | gerade eben | proprio adesso | току-що | току-що | upravo sada |
@@ -27,6 +29,7 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | 🇩🇪 From the outset | from the outset; from the very beginning | von vornherein | fin dall'inizio | από την αρχή | от самото начало | od samog početka |
 | 💨 All at once | all at once; suddenly | auf einmal; plötzlich | tutto in una volta; improvvisamente | όλα μαζί; ξαφνικά | изведнъж | odjednom |
 | 🇮🇹 By now / at this point | by now; at this point | mittlerweile; inzwischen | ormai | μέχρι τώρα; σε αυτό το σημείο | досега; в този момент | do sada; u ovom trenutku |
+| 🕰️ Long ago | long ago | vor langer Zeit | molto tempo fa | πολύ παλιά | много отдавна | davno |
 
 ### Temporal relations
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -37,6 +40,7 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | 🇮🇹 A few minutes ago | a few minutes ago | vor ein paar Minuten | pochi minuti fa | πριν από λίγα λεπτά | преди няколко минути | pre nekoliko minuta |
 | ⏭️ After | after | nach; nachdem | dopo (che) | μετά (που) | след (като) | posle; nakon |
 | ⏭️ Right after | right after | direkt danach | subito dopo | ακριβώς μετά | точно след | odmah posle |
+| 🇩🇪 Sodann (then) | then; after that | sodann | poi; dopo di che | έπειτα; μετά | след това | zatim; potom |
 | 🔀 In the meantime | in the meantime | in der Zwischenzeit | nel frattempo | στο μεταξύ | междувременно | u međuvremenu |
 | 🇮🇹 In the meantime | in the meantime | inzwischen | nel frattempo | στο μεταξύ | междувременно | u međuvremenu |
 | 🇩🇪 So far/until now | so far; until now | bislang | finora | μέχρι τώρα | досега | do sada |
@@ -44,7 +48,7 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | 🚫 Almost/nearly | almost; nearly | fast; beinahe | за малко да | για λίγο να | за малко да | skoro; zamalo |
 | ↔️ Between X and Y | between X and Y | zwischen X und Y | tra X e Y | ανάμεσα σε Χ και Ψ | между Х и Y | između X i Y |
 | ⏱️ During | during | während | durante | κατά τη διάρκεια | по време на | tokom; za vreme |
-| 🇬🇷 For years | for years; since years | seit Jahren | da anni | και χρόνια | от години | godinama |
+| 🕰️ At that moment | at that moment | in diesem Moment | in quel momento | εκείνη τη στιγμή | в този moment | u tom trenutku |
 
 ### Temporal and causal expressions (duplicated from larger file)
 | Concept | EN | DE | IT | GR | BG | SR |

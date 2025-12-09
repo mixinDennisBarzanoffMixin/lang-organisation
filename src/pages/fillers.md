@@ -41,6 +41,7 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | 🤔 It's like... | it's like, X | es ist so, X | è come, X | είναι κάπως, X | нещо като, X | to je kao, X |
 | 🇮🇹 It's about... | it's about X; it concerns X | es geht um X | si tratta di X | πρόκειται για X | става въпрос за X | radi se o X |
 | 🇩🇪 Halt (filler) | I would just...; as you know... | ich würde halt...; halt | vorrei solo...; sai... | θα ήθελα απλά...; ξέρεις... | просто бих...; нали знаеш... | ja bih prosto...; znaš... |
+| 🇮🇹 In substance | in substance; essentially | im Wesentlichen | in sostanza | στην ουσία | по същество | u suštini |
 | 🇧🇬 Well... / Indeed... | well...; indeed... (rhetorical) | na ja...; allerdings... | beh...; appunto... | ε...; μα ναι... | а де... | pa...; dabome... |
 
 ### Additional expressions
@@ -52,6 +53,7 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | 👀 Look what a thing | look what a thing this is | schau, was für eine Sache | guarda che cosa | κοίτα τι πράγμα είναι | гледай кво нещо е | vidi ti to; gledaj ovo |
 | 💭 Meaning now... what to say | meaning now... what to say... | also jetzt... was soll ich sagen | cioè adesso... cosa dire | σμισλ σήμερα... τι να πω | смисъл сега... кво да кажа | mislim sada... šta da kažem |
 | 👉 So I was saying | so I was saying... | also, ich sagte gerade... | allora, stavo dicendo... | λοιπόν, έλεγα... | та... казвах | i tako sam pričao... |
+| 🇧🇬 Soooo, I was saying | soooo, I was saying | alsoooo, ich sagte gerade... | allooora, stavo dicendo... | λοιπόοοον, έλεγα... | таааа, казвах... | i takoooo sam pričao... |
 | ✅ Yeah, that's right | yeah, that's right... | ja, das stimmt... | sì, è vero... | ναι, έτσι είναι... | да бе верно... | da, tako je |
 | 🤷 It's a good thing/it's well | it's fine; it's well | es ist gut; ist schon okay | va bene; è a posto | εντάξει είναι; καλά είναι | е го е | dobro je; u redu je |
 | 📦 And bring this too | and bring this too | und das auch mitbringen | e porta anche questo | και αυτό φέρε επίσης | е и това занеси | i donesi i ovo |
@@ -64,6 +66,7 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | 💬 By the way | by the way | übrigens | a proposito | παρεμπιπτόντως | между другото | uzgred; usput |
 | 👣 Step by step | step by step | Schritt für Schritt | passo dopo passo | βήμα βήμα | стъпка по стъпка | korak po korak |
 | 🇩🇪 Initially | initially | zunächst | inizialmente | αρχικά | първоначално | početno |
+| 🔄 And so on | and so on | und so weiter | e così via | και ούτω καθεξής | и така нататък | i tako dalje |
 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG | SR |

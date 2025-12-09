@@ -19,7 +19,7 @@ Words to describe the visual properties of objects.
 | 🏢 Building | building | Gebäude | edificio | κτίριο | сграда | zgrada |
 | 🚗 Vehicle | vehicle | Fahrzeug | veicolo | όχημα | превозно средство | vozilo |
 | 🚗 Car | car | Auto | macchina | αυτοκίνητο | кола | auto |
-| 📦 Container | container | Behälter | contenitore | δοχείο | контейнер | kontejner |
+| 📦 Container | container | Behälter; Schachtel | contenitore | δοχείο | контейнер | kontejner |
 | 📍 Place | place | Ort | posto | μέρος | място | mesto |
 | 🎮 Game | game | Spiel | gioco | παιχνίδι | игра | igra |
 | 💼 Job | job | Arbeit | lavoro | δουλειά | работа | posao |
@@ -60,7 +60,7 @@ Words to describe the visual properties of objects.
 | 🐘 Big | big | groß | grande | μεγάλο | голям | veliki |
 | 🐁 Small | small | klein | piccolo | μικρό | малък | mali |
 | 🐘 Large | large | groß | grande | μεγάλο | голям | veliki |
-| 🐁 Tiny | tiny | winzig | minuscolo | μικροσκοπικό | мъничък | sićušan |
+| 🐁 Tiny | tiny | winzig; winzig klein | minuscolo | μικροσκοπικό | мъничък | sićušan |
 | 🐘 Huge | huge | riesig | enorme | τεράστιο | огромен | ogroman |
 | 📏 Length | length | Länge | lunghezza | μήκος | дължина | dužina |
 | ↔️ Long | long | lang | lungo | μακρύ | дълъг | dug |

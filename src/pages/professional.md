@@ -21,6 +21,7 @@ Formal and professional language for official documents and advanced communicati
 |---|---|---|---|---|---|---|
 | 💼 To deal with | to deal with; to be concerned with | sich befassen mit | occuparsi di | ασχολούμαι με | занимавам се с | baviti se sa |
 | 🇩🇪 To refer to | to refer to X | sich auf X beziehen | riferirsi a X | αναφέρομαι σε X | отнася се до X | odnositi se na X |
+| 🏗️ To establish | to establish | etablieren; gründen | stabilire | ιδρύω; καθιερώνω | установявам | uspostaviti |
 
 ### Formal Phrases
 | Concept | EN | DE | IT | GR | BG | SR |

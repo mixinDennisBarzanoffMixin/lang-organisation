@@ -24,6 +24,9 @@ Modal verbs for ability, obligation, wishes, and possibilities.
 | ✨ Would like to | I would like to… | ich würde gern… | mi piacerebbe… | θα ήθελα… | бих искал… | želeo bih da... |
 | 🚨 Must/have to | I must; I have to | ich muss | devo | πρέπει | трябва | moram |
 | 🤷 Could have | we could have this already | wir hätten das schon haben können | avremmo potuto averlo già | θα μπορούσαμε να το έχουμε ήδη | можехме вече да го имаме | mogli smo ovo već imati |
+| 🙏 Would have been | would have been nice | wäre schön gewesen | sarebbe stato bello | θα ήταν ωραία | щеше да е хубаво | bilo bi lepo |
+| 🤔 If you could | if you could take a break every now and then | wenn du ab und zu eine Pause machen könntest | potessi prenderti una pausa ogni tanto | αν μπορούσες να κάνεις ένα διάλειμμα που και που | ако можеше да си взимаш почивка от време на време | kad bi mogao da uzmeš pauzu s vremena na vreme |
+| 🙏 If only I could | if only I could, but... | wenn ich nur könnte, aber... | se solo potessi, ma... | αν μόνο μπορούσα, αλλά... | ако можех само, но... | kad bih samo mogao, ali... |
 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG | SR |

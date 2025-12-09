@@ -28,6 +28,7 @@ Question words and interactive expressions for conversation.
 | 👀 Are you familiar with | do you know that store?; are you familiar with...? | kennst du den Laden?; bist du vertraut mit...? | conosci quel negozio?; hai presente...? | ξέρεις το μαγαζί; είσαι εξοικειωμένος με...; | познаваш ли този магазин?; запознат ли си с...? | da li poznaješ tu prodavnicu?; da li si upoznat sa...? |
 | 🤷 What does X represent | what does X represent | was stellt X dar | cosa rappresenta X | τι αντιπροσωπεύει το X | какво представлява X | šta predstavlja X? |
 | 🇧🇬 Do you see...? | do you see...? (rhetorical) | siehst du...? | vedi...? | βλέπεις...; | да виждаш някой да X...; | da vidiš...? |
+| 🤔 How would you express yourself | how would you express yourself if you knew no words? | wie würdest du dich ausdrücken, wenn du keine Worte wüsstest? | come esprimeresti te stessa, se non sapessi nessuna parola? | πώς θα εκφραζόσουν αν δεν ήξερες λέξεις; | как би се изразил, ако не знаеше думи? | kako bi se izrazio da ne znaš nijednu reč? |
 
 ---
 **Tips**: Essential for asking questions and keeping conversations interactive.

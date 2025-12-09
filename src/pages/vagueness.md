@@ -33,6 +33,10 @@ Expressions for being vague, uncertain, or softening statements.
 | 🤔 It could be like... | It could be like... | Es könnte so sein wie... | Potrebbe essere come... | Θα μπορούσε να είναι σαν... | Може да е като... | Moglo bi biti kao... |
 | 🇧🇬 So to speak | so to speak; more or less | sozusagen; quasi | per così dire | τρόπος του λέγειν | кажи-речи | takoreći |
 | 🇩🇪 A kind of X | that is a kind of "X" | das ist eine Art "X" | è una specie di "X" | είναι ένα είδος "X" | това е един вид "X" | to je jedna vrsta "X" |
+| 🤔 Somewhat of a | somewhat of a tendency/right | eine Art Tendenz/Recht | una sorta di tendenza/diritto | κάπως μια τάση/δικαίωμα | нещо като тенденция/право | neka vrsta tendencije/prava |
+| 🇩🇪 Whatever | whatever | was immer | qualsiasi cosa | οτιδήποτε | каквото и да е | šta god |
+| 🇩🇪 Wherever | wherever | wo immer | ovunque | οπουδήποτε | където и да е | gde god |
+| 🇩🇪 Whichever | whichever | welche immer | quale che sia | όποιο και να είναι | който и да е | koji god |
 
 ### Additional expressions
 | Concept | EN | DE | IT | GR | BG | SR |

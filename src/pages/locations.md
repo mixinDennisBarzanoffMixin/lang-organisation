@@ -15,6 +15,7 @@ Detailed spatial descriptions and directional expressions for precise location i
 | ➡️ A little forward | a little forward | etwas nach vorn | un po' in avanti | λίγο μπροστά | малко по-напред | malo napred |
 | 🔄 Move your finger over it around forward | move your finger over it around forward | bewege deinen Finger darüber herum nach vorn | muovi il dito sopra intorno in avanti | κίνησε το δάχτυλό σου από πάνω γύρω μπροστά | мини с пръста отгоре около него напред | pomeri prst preko toga oko napred |
 | 👉 Right here | right here | genau hier | proprio qui | ακριβώς εδώ | ето тук | evo baš ovde |
+| 🇩🇪 Is above | is above | liegt über | è sopra | είναι πάνω από | е над | je iznad |
 
 ### Complex Spatial Instructions
 
@@ -32,6 +33,7 @@ Detailed spatial descriptions and directional expressions for precise location i
 | ↙️ Down and to the left | down and to the left | nach unten links | giù a sinistra | κάτω και αριστερά | надолу и наляво | dole i levo |
 | 🔄 Around | around | herum | intorno | γύρω | около | oko |
 | 🎯 Exactly there | exactly there | genau dort | esattamente lì | ακριβώς εκεί | точно там | tačno tu |
+| 🇮🇹 Through/across | through; across | durch; über | a traverso | μέσα από; απέναντι | през | kroz; preko |
 
 ### Proximity Expressions
 
@@ -41,6 +43,9 @@ Detailed spatial descriptions and directional expressions for precise location i
 | 👌 Right next to | right next to | direkt daneben | proprio accanto | ακριβώς δίπλα | точно до | baš pored |
 | 📏 A bit further | a bit further | etwas weiter | un po' più lontano | λίγο πιο μακριά | малко по-далеч | malo dalje |
 | 🚶 Walking distance | walking distance | zu Fuß erreichbar | a piedi | με τα πόδια | пешеходно разстояние | pešačka udaljenost |
+| 🇧🇬 The one from there | the one from there | der von dort | quello di là | αυτός από εκεί | тамошното | onaj odande |
+| 🇧🇬 The one from here | the one from here | der von hier | quello di qua | αυτός από εδώ | тукашното | ovaj odavde |
+| 🇩🇪 Close to | close to | nah zu | vicino a | κοντά σε | близо до | blizu |
 
 ---
 **Tips**: Use hand gestures and pointing while giving these directions for maximum clarity across language barriers.

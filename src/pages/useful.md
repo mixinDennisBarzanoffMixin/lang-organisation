@@ -9,11 +9,34 @@ High-frequency, practical expressions for daily communication.
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
 | 🔧 To do the job | to do the job | die Arbeit machen | fare il lavoro | να κάνω τη δουλειά | да свърша работата | obaviti posao |
+| ✅ Suffice | suffice | ausreichen | bastare | αρκεί | достатъчно | biti dovoljno |
 | 📈 Over time X happens | over time... X happens | mit der Zeit... passiert X | col tempo... X succede | με τον καιρό... συμβαίνει X | с времето... X се случва | vremenom se X dešava |
 | 😤 Barely managing as is | I'm barely managing things AS IS | ich schaffe es gerade so, WIE ES IST | riesco a malapena COSÌ COM'È | μόλις τα καταφέρνω ΈΤΣΙ ΌΠΩς ΕΊΝΑΙ | едва се справям КАКТО СИ Е | jedva se snalazim KAKO JESTE |
 | 🤔 How X is to be made | how X is to be made/adjusted | wie X gemacht/angepasst werden soll | come X deve essere fatto/adattato | πώς πρέπει να γίνει/προσαρμοστεί το X | как трябва да се направи/коригира X | kako X treba da se napravi/podesi |
 | 🌍 Applicable all around | applicable all around | rundum anwendbar | applicabile a 360 gradi | εφαρμόσιμο παντού | приложимо навсякъде | primenjivo svuda |
 | 🔄 Situation frequency | you'll constantly/rarely/barely have the situation that X | du wirst ständig/selten/kaum die Situation haben, dass X | ti capiterà costantemente/raramente/a malapena che X | θα έχεις συνεχώς/σπάνια/μόλις και μετά βίας την κατάσταση όπου X | постоянно/рядко/едва ли ще имаш ситуацията, в която X | stalno/retko/jedva ćeš imati situaciju da X |
+
+### Task Vocabulary (Greek)
+| Concept | EN | GR |
+|---|---|---|
+| 📝 Task | task | εργασία (ergasía), καθήκον (kathíkon) |
+| 📝 Assignment | assignment | ανάθεση (anáthesi) |
+| 🏗️ Project | project | έργο (érgo) |
+| ✅ To complete / finish | to complete / finish | ολοκληρώνω (olokliróno), τελειώνω (teleióno) |
+| ▶️ To start / begin | to start / begin | ξεκινώ (xekino) |
+| 📤 To submit / hand in | to submit / hand in | υποβάλλω (ypovállo), παραδίδω (paradído) |
+| ✔️ To check | to check | ελέγχω (elénkho) |
+| 📅 To plan | to plan | σχεδιάζω (schediázo) |
+| ⌛ Deadline | deadline | προθεσμία (prothesmía) |
+| 📅 Due date | due date | ημερομηνία λήξης (imerominía líxis) |
+| 🏃 Overdue / late | overdue / late | εκπρόθεσμος (ekpróthesmos) |
+| ➕ Extension | extension | παράταση (parátasi) |
+| ✅ On time | on time | στην ώρα (stin óra) |
+| 🔄 In progress | in progress | σε εξέλιξη (se exélixi) |
+| ⏳ Pending | pending | εκκρεμής (ekremís) |
+| ✅ Completed | completed | ολοκληρωμένος (olokliroménos) |
+| ❌ Canceled | canceled | ακυρωμένος (akyroménos) |
+| 🥇 Priority | priority | προτεραιότητα (proteraióta) |
 
 ### Intensity & Extremes
 | Concept | EN | DE | IT | GR | BG | SR |
@@ -39,6 +62,8 @@ High-frequency, practical expressions for daily communication.
 | 🇩🇪 On behalf of | on behalf of someone else | im Auftrag von jemand anderem | per conto di qualcun altro | εκ μέρους κάποιου άλλου | от името на някой друг | u ime nekog drugog |
 | 🤔 What if | what if do this | was, wenn wir das tun | e se facessimo questo | τι θα γινόταν αν το κάναμε αυτό | ами ако направим това | šta ako uradimo ovo |
 | 🤔 Have the flag | I mean ok, have the flag over there, do the X, have the Y | Ich meine, ok, hab die Flagge da drüben, mach das X, hab das Y | Voglio dire, ok, hai la bandiera laggiù, fai la X, hai la Y | Εννοώ, οκ, έχεις τη σημαία εκεί πέρα, κάνε το X, έχεις το Y | Искам да кажа, окей, имаш флага там, направи X, имаш Y | Mislim, ok, imaš zastavu tamo, uradi X, imaš Y |
+| 🇮🇹 The possibility of | the possibility of | die Möglichkeit von | la possibilità di | η δυνατότητα του | възможността за | mogućnost |
+| 🇧🇬 Let it be | let it be like that | lass es so sein | lascialo così | ας είναι έτσι | нека да стои така | neka tako ostane |
 
 ### Choice & Examples
 | Concept | EN | DE | IT | GR | BG | SR |
