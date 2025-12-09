@@ -74,6 +74,8 @@ Basic quantifiers, amounts, and degree expressions.
 | ❌ Not all X are Y | not all X are Y adjective | nicht alle X sind Y | non tutti gli X sono Y | όχι όλα τα X είναι Y | не всички X са Y | nisu svi X takvi Y |
 | 📈 More and more the case | it's more and more the case that X | es ist immer mehr der Fall, dass X | è sempre più il caso che X | είναι όλο και περισσότερο η περίπτωση που X | все повече става така че X | sve više je slučaj da X |
 | 🤏 Slightly | slightly | etwas; leicht | leggermente | ελαφρώς | леко; малко | blago; malo |
+| 📈 Upwards of X | upwards of X | aufwärts von X | al di sopra di X | πάνω από X | над X | preko X |
+| 📈 For over X | for over X | für über X | per oltre X | για πάνω από X | за над X | za preko X |
 | 📈 Most of | most of | die meisten von | la maggior parte di | οι περισσότεροι; το μεγαλύτερο μέρος | повечето от | većina |
 | 📈 The most | the most | das meiste; am meisten | il più; di più | το πιο πολύ; περισσότερο | най-много | ... |
 | 📉 The least | the least; the one I know the least | das wenigste; am wenigsten | il meno; quello che conosco meno | το λιγότερο; αυτό που ξέρω λιγότερο | най-малко; това което знам най-малко | ... |
