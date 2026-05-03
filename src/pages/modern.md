@@ -36,6 +36,14 @@ Contemporary expressions, slang, and very colloquial language.
 | 🇷🇸 Wow/geez | wow; geez; all kinds of things | was es nicht alles gibt | che roba; pazzesco | τι να πω; απίστευτο | какво ли не; свашта | svašta |
 | 🤔 Awfully X | that's awfully graphic/stupid | das ist furchtbar anschaulich/dumm | è terribilmente grafico/stupido | αυτό είναι τρομερά παραστατικό/χαζό | това е ужасно графично/глупаво | to je užasno grafički/glupo |
 | 🇧🇬 Straight up (intensifier) | straight up; literally (it was straight up super) | einfach; total (es war einfach super) | proprio; davvero (era proprio super) | κυριολεκτικά; τελείως (ήταν κυριολεκτικά σούπερ) | направо (направо супер беше) | bukvalno; totalno (bilo je bukvalno super) |
+| 🇧🇬 As they say / ironic big X | as they say; (facetious) your "great" X | wie man sagt; dein "tolles" X | come si dice; il tuo "grande" X | όπως λένε; ο "μεγάλος" σου X | дет се казва; тоя големия ти X | kako se kaže; tvoj "veliki" X |
+| 🇧🇬 Not only X but Y | not only X but (also) Y | nicht nur X, sondern auch Y | non solo X ma (anche) Y | όχι μόνο X αλλά (και) Y | не стига че X, ами (и) Y | ne samo X već (i) Y |
+| 🇧🇬 Barely / only once | that's barely twenty minutes; if only once a week | das sind kaum zwanzig Minuten; wenn nur einmal pro Woche | sono appena venti minuti; se solo una volta a settimana | είναι μόλις είκοσι λεπτά; αν μόνο μια φορά την εβδομάδα | тва са си едни двадесет минути; дори само веднъж седмично | to su jedva dvadeset minuta; ako samo jednom nedeljno |
+| 🇧🇬 Hedge / dismiss | not that…, it's just… | nicht dass…, nur… | non che…, è solo che… | όχι ότι…, απλά… | не че нещо, просто… | ne da…, samo… |
+| 🇧🇬 And whatnot | X, Y, and whatever | X, Y und was weiß ich | X, Y e chissà cos'altro | X, Y και δεν ξέρω τι άλλο | X, Y и не знам си какво | X, Y i šta sve ne |
+| 🇧🇬 Worst case | at worst; in the last resort | im schlimmsten Fall; notfalls | nel peggiore dei casi | στο χειρότερο | в краен случай | u najgorem slučaju |
+| 🇧🇬 Sarcastic crowd | they'll say they've never eaten | die werden schon behaupten, sie hätten nie gegessen | diranno che non hanno mai mangiato | θα πουν δεν έχουν φάει ποτέ | тея пък ще кажеш, че не са яли никога | reći će da nikad nisu jeli |
+| 🇧🇬 Where from (rhetorical) | where the hell are you from | woher kommst du bloß | ma da dove salta fuori | από πού κι ως πού | от не знам къде си | odakle si se ti uzeo |
 | 😲 Yooo! Damn! | yooo! damn! | yooo! cavolo! | γιοοο! γαμώτο! | йооо! по дяволите! | jooo! dođavola! |
 | ♟️ Your runner is going down | your runner is almost going down | beinahe geht dein Läufer | il tuo corridore sta quasi cadendo | ο δρομέας σου σχεδόν πέφτει | твоят бегач почти пада | tvoj trkač skoro pada |
 | 💸 There goes my X | there goes my X | da geht mein X | ecco il mio X | πάει το X μου | отиде ми X-а | ode moj X |

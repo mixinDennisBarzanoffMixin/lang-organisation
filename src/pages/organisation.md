@@ -82,3 +82,5 @@ Small, reusable speaking blocks for language practice organized by topic.
 - Connectors: "понеже", "salvo/except"
 - Number ranges: "από το 1 έως το 10"
 - Discourse markers: "става въпрос за X", "let's start from here/there"
+- Connectors & register: *gegebenenfalls*, *infolgedessen*, *zwangsläufig*, *zumal*, *offenbar*, *keine Ursache*, *anstelle von*, *von nun an* / *da lì in poi*
+- BG colloquial blocks in `modern.md`; Italian *se dovessi* / *dovere* imperfect subjunctive in `conditions.md`

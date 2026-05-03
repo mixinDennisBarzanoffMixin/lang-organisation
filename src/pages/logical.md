@@ -74,7 +74,17 @@ Basic logical connections - cause, effect, contrast, addition.
 | 🎯 As it pertains to X | as it pertains to X; regarding X | was X betrifft | per quanto riguarda X | όσο αφορά X; όσο αναφορά X | що се отнася до X | što se tiče X |
 | 🔄 The same way | the same way | auf dieselbe Weise | allo stesso modo | με τον ίδιο τρόπο | по същия начин | na isti način |
 | 💡 Turns out | turns out; it turns out that | es stellt sich heraus | si scopre; viene fuori | αποδεικνύεται | оказва се | ispada; ispostavlja se da |
-| 🇩🇪 If applicable | if applicable; if necessary; if need be | gegebenenfalls | se necessario | εάν χρειαστεί | ако е необходимо | ako je primenljivo; ako je potrebno |
+| 🇩🇪 If applicable / as appropriate | if applicable; where appropriate; possibly; if need be | gegebenenfalls | se del caso; ove necessario | εάν χρειαστεί; όπου χρειάζεται | ако е необходимо; при нужда | ako je primenljivo; gde je primenljivo |
+| 📜 Consequently | consequently; as a result (of that) | infolgedessen; deshalb | di conseguenza; per questo | συνεπώς (από αυτό) | вследствие на това; затова | usled toga; stoga |
+| 🇩🇪 Accordingly / so | accordingly; so (conclusion); *Dementsprechend also…* | dementsprechend; also (Folgerung) | di conseguenza; quindi | ανάλογα· οπότε/άρα | съответно; значи | shodno; dakle |
+| 🇩🇪 Inevitably | inevitably; necessarily | zwangsläufig; notwendigerweise | inevitabilmente | αναπόφευκτα | неизбежно | neizbežno |
+| 🇩🇪 Especially as | especially as; all the more since | zumal | tanto più che | κιόλας που | още повече като | pogotovo što |
+| 🇩🇪 Apparently | apparently; evidently | offenbar; anscheinend | evidentemente; a quanto pare | προφανώς; φαίνεται πως | очевидно; изглежда | očigledno; izgleda da |
+| 🇩🇪 Instead of (formal) | instead of X | anstelle von X; an Stelle von X | in luogo di X | αντί του X | вместо X | umesto X |
+| 🔗 Goes hand in hand | that goes with X; accompanies X | geht mit X einher; begleitet X | va di pari passo con X; accompagna X | συνοδεύεται από X | върви заедно с X | ide ruku pod ruku sa X |
+| 💬 Since you know | since you (already) know it | da du es (ja) weißt | dato che lo sai | αφού το ξέρεις | щом го знаеш | pošto to znaš |
+| 🇬🇷 Does the following | it does the following | es tut Folgendes | fa quanto segue | κάνει το εξής | прави следното | radi sledeće |
+| 🇩🇪 Not *in* which but *by* which | not the process in which… but the process by which… | nicht der Prozess, *in* dem…, sondern der Prozess, *durch* den… | non il processo in cui… ma il processo mediante cui… | όχι η διαδικασία στην οποία… αλλά η διαδικασία με την οποία… | не процесът, в който…, а процесът, чрез който… | ne proces u kojem… već proces kojim… |
 | 🔄 Distributed across | distributed across multiple X | verteilt über mehrere X hinweg | distribuito su più X | κατανεμημένο σε πολλά X | разпределен между няколко X | raspoređeno na više X |
 | 🔄 Either through X or Y | either through X or through Y | entweder durch X oder durch Y | o attraverso X o attraverso Y | είτε μέσα από X είτε από Y | или чрез X, или чрез Y | ili putem X ili putem Y |
 | 📤 Take from X out | take out from X; extract from X | aus X herausnehmen | prendere da X fuori | βγάλω από X | вземам от X навън | izvaditi iz X |

@@ -49,6 +49,27 @@ Conditional statements, concessions, and purpose expressions.
 | 🇩🇪 Especially if/when | especially if/when | vor allem wenn | soprattutto se/quando | ειδικά αν/όταν | особено ако/когато | pogotovo ako/kada |
 | 🔄 Even though X, I did Y anyway | Even though X, I did Y anyway | Obwohl X, habe ich Y trotzdem gemacht | Anche se X, ho fatto Y comunque | Παρόλο που X, έκανα Y ούτως ή άλλως | Въпреки че X, направих Y все пак | Iako X, uradio sam Y ipak |
 | ✅ As long as you... it's enough to... | As long as you... it's enough to... | Solange du... ist es genug, um... | Finché tu... è abbastanza per... | Όσο εσύ... αρκεί να... | Докато ти... е достатъчно да... | Dokle god ti... dovoljno je da... |
+| 🎯 If we end up needing | if we end up needing to… | falls wir am Ende … brauchen | se alla fine dovessimo aver bisogno di… | αν στο τέλος χρειαστεί να… | ако накрая се окаже, че трябва да… | ako na kraju zatreba da… |
+| 🔄 If we keep doing | if we keep doing X… | wenn wir weiter X machen | se continuiamo a fare X… | αν συνεχίσουμε να κάνουμε X… | ако продължаваме да правим X… | ako nastavimo da radimo X… |
+| ⏪ Would have if | I would have done it if I had known | ich hätte es getan, wenn ich es gewusst hätte | l'avrei fatto se l'avessi saputo | θα το είχα κάνει αν το ήξερα | щях да го направя, ако знаех | uradio bih da sam znao |
+| 🇮🇹 If I had to (leave) | if I had to leave, I would call you | wenn ich gehen müsste, würde ich dich anrufen | se dovessi partire, ti chiamerei | αν έπρεπε να φύγω, θα σε καλούσα | ако трябваше да тръгна, щях да ти звънна | ako bih morao da krenem, pozvao bih te |
+
+### Italian imperfect subjunctive of *dovere* (with conditional)
+
+Used in unreal/hypothetical *se* clauses: *Se dovessi…, …*.
+
+| Person | *dovere* (imperf. subj.) |
+|--------|-------------------------|
+| io | dovessi |
+| tu | dovessi |
+| lui / lei | dovesse |
+| noi | dovessimo |
+| voi | doveste |
+| loro | dovessero |
+
+Examples: *Se fossi ricco, comprerei una casa.* — *Se dovessi partire, ti chiamerei.*
+
+Literary subjunctive endings on other verbs (less common in speech): *comprassi, volessi, potessi, venissi*.
 
 ---
 **Tips**: Perfect for expressing complex conditional relationships and contrasts.

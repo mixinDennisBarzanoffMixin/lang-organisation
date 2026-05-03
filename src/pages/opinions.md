@@ -15,6 +15,7 @@ Expressing personal opinions, impressions, and how things appear to you.
 | 🤷‍♂️ To me/for me | to me; for me | für mich | per me | για μένα | за мен | za mene |
 | | 🧠 The way I understand | the way I understand X is… | so wie ich X verstehe, ist… | il modo in cui capisco X è… | όπως καταλαβαίνω το X είναι… | както разбирам X е… | kako ja razumem X je... |
 | 🇧🇬 This is what I mean | this is what I mean | das ist, was ich meine | questo è quello che intendo | αυτό εννοώ | това имам предвид | to je ono što mislim |
+| 🎯 Here's my option | here's my option; here's what I'd do | hier ist meine Option; ich würde… | ecco la mia proposta; io farei… | να η επιλογή μου· εγώ θα… | ето ми варианта; аз бих… | evo mog predloga; ja bih… |
 | 🤔 It has to be | it has to be sth with... | es muss etwas mit... zu tun haben | deve essere qualcosa con... | πρέπει να είναι κάτι με... | трябва да е нещо с... | mora da je nešto u vezi sa... |
 | 🤔 The way I'm thinking | the way I'm thinking about this | die Art und Weise, wie ich darüber nachdenke | il modo in cui ci sto pensando | ο τρόπος που το σκέφτομαι | начинът, по който мисля за това | način na koji razmišljam o ovome |
 | 📍 Standpoint | standpoint | Standpunkt | punto di vista | άποψη | гледна точка | stanovište |
@@ -38,7 +39,7 @@ Expressing personal opinions, impressions, and how things appear to you.
 | 🫥 Feels like | it feels … | es fühlt sich … an | si sente … | αισθάνεται …; νιώθεται … | усеща се … | oseća se... |
 | 👃 I feel/sense | I feel; I sense | ich spüre | sento | αισθάνομαι | усещам | osećam |
 | 💭 It feels like | it feels like | es fühlt sich an | mi sembra | αισθάνεται σαν | усеща се като | osećaj je kao |
-| 🎲 It turns out | it turns out; it happens that | es stellt sich heraus | si scopre che | αποδεικнύεται ότι | оказва се че | ispada; dešava se da |
+| 🎲 It turns out | it turns out; it happens that | es stellt sich heraus | si scopre che | αποδεικνύεται ότι | оказва се че | ispada; dešava se da |
 | 🇧🇬 It seemed to me | it seemed to me | es schien mir | mi è sembrato | μου φάνηκε | видя ми се/вижда ми се | učinilo mi se |
 
 ### Uncertainty and guessing

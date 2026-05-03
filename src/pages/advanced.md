@@ -40,6 +40,9 @@ More sophisticated expressions for intermediate and advanced learners.
 | 🇩🇪 Although it is, it's... | although it is, it's... | es ist zwar, dass... | anche se è, è... | αν και είναι, είναι... | въпреки че е, е... | iako jeste, to je... |
 | 🇩🇪 Whatsoever | whatsoever | überhaupt; was auch immer | qualsiasi cosa | οτιδήποτε | изобщо какво и да е | bilo šta; uopšte |
 | 🇩🇪 Mainly/primarily | mainly; primarily | hauptsächlich | principalmente | κυρίως | основно | uglavnom |
+| 🇩🇪 Not any (emphatic) | not a single; no… whatsoever | keinerlei | nessun… di sorte | κανένα… όλως | никакъв… изобщо | nikakav… uopšte |
+| 📚 Classification | classification; division | Einteilung; Klassifizierung | classificazione; suddivisione | ταξινόμηση; διαίρεση | класификация; подразделение | klasifikacija; podela |
+| 📐 Edges | edges (of a surface/shape) | Ränder; Kanten | bordi; margini | άκρες; περιθώρια | ръбове; краища | ivice; margini |
 
 ### Nuanced distinctions
 | Concept | EN | DE | IT | GR | BG | SR |

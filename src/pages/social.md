@@ -18,7 +18,8 @@ Politeness, courtesy, and social interaction phrases.
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
 | 🇮🇹 No problem at all | no problem at all; don't mention it | kein Problem; gern geschehen | figurati; non c'è di che | τίποτα; παρακαλώ | няма за какво; няма проблем | nema na čemu; nema problema |
-| 🇮🇹 Of course not! | of course not!; heaven forbid! | natürlich nicht!; Gott bewahre! | ci mancherebbe! | φυσικά όχι!; μη γίνεται! | разбира се че не!; недей господи! | naravno da ne!; ne daj bože! |
+| 🇮🇹 Of course not! | of course not!; heaven forbid! | natürlich nicht!; Gott bewahre! (z. B. Gott bewahre, dass ich allein bin) | ci mancherebbe! | φυσικά όχι!; μη γίνεται! | разбира се че не!; недей господи! | naravno da ne!; ne daj bože! |
+| 🇩🇪 No worries (thanks reply) | no worries; don't mention it | keine Ursache; gern geschehen | di nulla; figurati | τίποτα· παρακαλώ | няма защо; моля | nema na čemu |
 | 👌 No problem | no problem; it's fine | kein Problem; ist okay | nessun problema; va bene | κανένα πρόβлημα; εντάξει | няма проблем; наред е | nema problema; u redu je |
 | ✅ That's fine | that's fine; that's okay | das ist in Ordnung; das passt | va bene; è okay | εντάξει είναι; καλά είναι | добре е; наред е | u redu je; to je u redu |
 | 🇮🇹 I'm at your disposal | I'm at your disposal to do X | ich stehe zur Verfügung, um X zu tun | sono a disposizione per fare X | είμαι στη διάθεσή σας για να κάνω X | на ваше разположение съм да направя X | na raspolaganju sam da uradim X |

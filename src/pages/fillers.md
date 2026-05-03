@@ -62,6 +62,9 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
 | 1️⃣ First of all | first of all… | erstens; zuallererst… | prima di tutto… | πρώτα απ' όλα… | първо… | pre svega... |
+| 🎯 For starters | for starters; to start with | erst einmal; zum einen | per cominciare; per iniziare | για αρχή | за начало | za početak |
+| 🔁 One X at a time | one X at a time | ein X nach dem anderen | un X alla volta | ένα X τη φορά | по едно X наведнъж | jedan X po jedan |
+| 🇩🇪 Start from the very beginning | let's start from the very beginning | fangen wir ganz vorne an | ricominciamo dall'inizio | ας ξεκινήσουμε από την αρχή | да почнем отначало | da počnemo ispočetka |
 | ⚖️ On one hand | on the one hand… / on the other hand… | einerseits… / andererseits… | da una parte… / dall'altra… | αφενός… / αφετέρου… | от една страна… / от друга страна… | s jedne strane... / s druge strane... |
 | 💬 By the way | by the way | übrigens | a proposito | παρεμπιπτόντως | между другото | uzgred; usput |
 | 👣 Step by step | step by step | Schritt für Schritt | passo dopo passo | βήμα βήμα | стъпка по стъпка | korak po korak |

@@ -27,6 +27,8 @@ Temporal adverbs, relations, and time-related expressions for natural timing in 
 | ⏳ For the time being | for the time being | vorläufig | per il momento | προς το παρόν | за момента | za sada |
 | 🇩🇪 Now and then | now and then; occasionally | ab und zu | di tanto in tanto | πού και πού | от време на време | s vremena na vreme |
 | 🇩🇪 From the outset | from the outset; from the very beginning | von vornherein | fin dall'inizio | από την αρχή | от самото начало | od samog početka |
+| 🇩🇪 From now on | from now on | von nun an; künftig | d'ora in poi | από εδώ και πέρα | отсега нататък | od sada nadalje |
+| 🇮🇹 From then on | from then on; thereafter | von da an | da lì in poi | από τότε και πέρα | оттогава нататък | od tada nadalje |
 | 💨 All at once | all at once; suddenly | auf einmal; plötzlich | tutto in una volta; improvvisamente | όλα μαζί; ξαφνικά | изведнъж | odjednom |
 | 🇮🇹 By now / at this point | by now; at this point | mittlerweile; inzwischen | ormai | μέχρι τώρα; σε αυτό το σημείο | досега; в този момент | do sada; u ovom trenutku |
 | 🕰️ Long ago | long ago | vor langer Zeit | molto tempo fa | πολύ παλιά | много отдавна | davno |
