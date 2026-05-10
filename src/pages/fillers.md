@@ -20,6 +20,7 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | 🤫 To be honest | to be honest | um ehrlich zßu sein | a dire la verità | να σου πω την αλήθεια | да ти кажа | iskreno da kažem |
 | 🙄 Come on | come on | komm schon | dai | άντε | айде де | hajde |
 | 👍 Agreement | yeah, exactly; right | stimmt; genau | esatto; giusto | ναι σωστά; ακριβώς | точно така; вярно | da, tačno; tako je |
+| ✅ ίσα ίσα (dual sense) | barely; only just — or (stress) that's exactly it / quits | gerade noch; genau das | appena; proprio così | ίσα ίσα | едва; баш така | jedva; baš tako |
 | 🤔 Thinking | let me think… | lass mich nachdenken… | fammi pensare… | άσε να σκεφτώ… | чакай да помисля… | daj da razmislim… |
 | 🤔 Let me see | let me see | lass mich sehen | fammi vedere | για να δω | я да видя | da vidim |
 | 🎯 The thing is | the thing is | die Sache ist | la cosa è che | το θέμα είναι | работата е | stvar je u tome... |
@@ -62,6 +63,7 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | Concept | EN | DE | IT | GR | BG | SR |
 |---|---|---|---|---|---|---|
 | 1️⃣ First of all | first of all… | erstens; zuallererst… | prima di tutto… | πρώτα απ' όλα… | първо… | pre svega... |
+| 📜 To begin with (formal) | to begin with; first of all (formal register) | zunächst einmal; vor allem | innanzitutto; per prima cosa | καταρχάς | най-напред; първообразно | prvobitno; na prvom mestu |
 | 🎯 For starters | for starters; to start with | erst einmal; zum einen | per cominciare; per iniziare | για αρχή | за начало | za početak |
 | 🔁 One X at a time | one X at a time | ein X nach dem anderen | un X alla volta | ένα X τη φορά | по едно X наведнъж | jedan X po jedan |
 | 🇩🇪 Start from the very beginning | let's start from the very beginning | fangen wir ganz vorne an | ricominciamo dall'inizio | ας ξεκινήσουμε από την αρχή | да почнем отначало | da počnemo ispočetka |
@@ -69,6 +71,8 @@ Conversation starters, fillers, warm-up expressions, and discourse organization.
 | 💬 By the way | by the way | übrigens | a proposito | παρεμπιπτόντως | между другото | uzgred; usput |
 | 👣 Step by step | step by step | Schritt für Schritt | passo dopo passo | βήμα βήμα | стъпка по стъпка | korak po korak |
 | 🇩🇪 Initially | initially | zunächst | inizialmente | αρχικά | първоначално | početno |
+| 🔗 Following what I said | building on what I said before; picking up from earlier | aufbauend auf dem, was ich vorher sagte | ripartendo da ciò che dicevo prima | πάνω σε αυτό που είπα πριν | върху това, което казах преди | nastavljajući na ono što sam malopre rekao |
+| 🇬🇷 So much on X's turf | it's very much about X; so much on X's patch/topic | so sehr bei/geht um Xs Thema | è molto sul pezzo/tema di X | τόσο στο κομμάτι του X | толкова за територията/късчето на X | toliko na X-ov komad/temu |
 | 🔄 And so on | and so on | und so weiter | e così via | και ούτω καθεξής | и така нататък | i tako dalje |
 
 ### Additional expressions

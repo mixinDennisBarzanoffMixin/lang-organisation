@@ -76,6 +76,7 @@ Small, reusable speaking blocks for language practice organized by topic.
 - Perfect complement to expression blocks
 
 ## 🎯 Recent Additions
+- Greek discourse: καταρχάς, ίσα ίσα, πάνω σε αυτό που είπα πριν, τόσο στο κομμάτι του X (see [Fillers](./fillers))
 - Bulgarian imperatives: "я направи X", "я виж ти!"
 - Discourse markers: "и без това", "няма вече как"
 - Certainty expressions: "for sure/di sicuro"
